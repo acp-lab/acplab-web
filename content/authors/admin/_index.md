@@ -75,7 +75,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 Guanrui Li is an Assistant Professor at the Worceter Polytechnic Institute (WPI), USA and director of the Aerial-robot Control and Perception Lab (ACP Lab) at WPI. He earned his Ph.D. in Electrical and Computer Engineering at New York University, USA, with a focus on aerial robotics. He obtained his Bachelor degree in Theoretical and Applied Mechanics from Sun Yat-sen University, where he was recognized as an Honors Undergraduate, and his Master degree in Robotics from the GRASP Lab at the University of Pennsylvania. 
 
