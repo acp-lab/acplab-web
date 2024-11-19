@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Welcome to ACP Lab
+        content: Aerial-robotics Control and Perception Lab
         align: center
         background:
           image:
