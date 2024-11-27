@@ -13,16 +13,10 @@ publication: '*Robotics: Science and Systems: Power On And Go Robots Workshop*'
 
 
 links:
-- name: Custom Link
-  url: https://ieeexplore.ieee.org/abstract/document/10328685
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+
+url_pdf: https://www.researchgate.net/publication/351283002_Observability-Aware_Trajectories_for_Geometric_and_Inertial_Self-Calibration
+
+
 
 # links:
 # - name: ""
