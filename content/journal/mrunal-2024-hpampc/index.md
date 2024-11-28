@@ -1,6 +1,5 @@
 ---
-title: Cooperative transportation of cable suspended payloads with MAVs using monocular
-  vision and inertial sensing
+title: HPA-MPC: Hybrid Perception-Aware Nonlinear Model Predictive Control for Quadrotors with Suspended Loads
 authors:
 - Mrunal Sarvaiya
 - Guanrui Li
