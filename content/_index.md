@@ -6,26 +6,34 @@ sections:
   - block: slider
     content:
       slides:
-        - title: 👋 Welcome to the group
+        - title: 👋 Welcome to the ACP Lab
           content: Take a look at what we're working on...
           align: center
           background:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: coders.jpg
+              filename: 
               filters:
                 brightness: 0.7
             position: right
             color: '#666'
-        - title: Lunch & Learn ☕️
-          content: 'Share your knowledge with the group and explore exciting new topics together!'
+        - title: HPA-MPC 
+          content: HPA-MPC has been accepted to RA-L! 
+          align: center
+          background:
+            image:
+              filename: human_robot_interaction_2.jpg
+              filters:
+                brightness: 0.7
+            position: right
+            color: '#666'        
+        - title: 
+          content: Our work on human-multi-aerial-robot physical interaction has been accepted to TR-O 
           align: left
           background:
             image:
-              # Specify an image from `assets/media/`
-              # or delete the image section to remove it
-              filename: contact.jpg
+              filename: human-multi-robot-interaction.jpg
               filters:
                 brightness: 0.7
             position: center
