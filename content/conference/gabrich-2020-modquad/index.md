@@ -10,7 +10,7 @@ publication_types:
 - paper-conference
 publication: "*2020 International Conference on Robotics and Automation (ICRA)*"
 publication_short: "*ICRA 2020*"
-
+summary: "*2020 International Conference on Robotics and Automation (ICRA)*"
 
 links:
 

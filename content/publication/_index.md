@@ -33,7 +33,7 @@ sections:
       sort_ascending: false
     design:
       # Choose a listing view
-      view: showcase
+      view: compact 
       # Choose single or dual column layout
       columns: '1'
   - block: collection
