@@ -1,5 +1,5 @@
 ---
-title: 'RotorTM: A flexible simulator for aerial transportation and manipulation'
+title: 'RotorTM: A Flexible Simulator for Aerial Transportation and Manipulation'
 authors:
 - Guanrui Li
 - Xinyang Liu

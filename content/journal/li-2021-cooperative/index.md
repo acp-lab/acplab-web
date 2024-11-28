@@ -1,6 +1,5 @@
 ---
-title: Cooperative transportation of cable suspended payloads with MAVs using monocular
-  vision and inertial sensing
+title: Cooperative Transportation of Cable Suspended Payloads With MAVs Using Monocular Vision and Inertial Sensing 
 authors:
 - Guanrui Li
 - Rundong Ge
