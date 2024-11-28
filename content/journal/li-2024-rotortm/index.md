@@ -4,10 +4,10 @@ authors:
 - Guanrui Li
 - Xinyang Liu
 - Giuseppe Loianno
-date: '2024-01-01'
+date: '2024'
 publishDate: '2024-11-18T23:48:37.391428Z'
 publication_type: ["article-journal"]
-publication: '*IEEE Transactions on Robotics*'
+publication: '*IEEE Transactions on Robotics (T-RO)*'
 
 
 links:
@@ -19,14 +19,14 @@ url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10328685
 #url_project: ''
 #url_slides: ''
 #url_source: '#'
-url_video: '#'
+url_video: https://www.youtube.com/watch?v=jzfEVQ3qlPc 
 
 # links:
 # - name: ""
 #   url: ""
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 ---
