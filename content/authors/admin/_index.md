@@ -15,21 +15,20 @@ role: Professor of Artificial Intelligence
 # Organizations/Affiliations
 organizations:
   - name: Worcester Polytechnic Institute
-    url: ''
+    url: 'https://www.wpi.edu/people/faculty/gli7'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Aerial Robotics
+  - 
 
 education:
   courses:
     - course: PhD in Electrical and Computer Engineering, Robotics
       institution: New York University
-      year: 2023
+      year: 2024
     - course: Master in Robotics
       institution: University of Pennsylvania
       year: 2018
@@ -53,21 +52,21 @@ social:
     link: https://scholar.google.com/citations?user=v_bUoRAAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://lguanrui.github.io 
   - icon: linkedin
     icon_pack: fab
-    link: 
+    link: https://www.linkedin.com/in/guanrui-li-a1b544b6/
   - icon: youtube
     icon_pack: fab
     link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  - icon: cv
+    icon_pack: ai
+    link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'gli7@wpi.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
