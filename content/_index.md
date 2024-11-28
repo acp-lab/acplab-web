@@ -13,8 +13,6 @@ sections:
           align: center
           background:
             image:
-              # Specify an image from `assets/media/`
-              # or delete the image section to remove it
               filename: human_robot_interaction_2.jpg
               filters:
                 brightness: 0.7
@@ -35,8 +33,6 @@ sections:
           align: right
           background:
             image:
-              # Specify an image from `assets/media/`
-              # or delete the image section to remove it
               filename: lmpc.png 
               filters:
                 brightness: 0.5
@@ -47,6 +43,16 @@ sections:
             icon_pack: fas
             text: Join Us
             url: ../contact/
+
+      design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      # Make the slides full screen within the browser window?
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
 
   - block: hero
     content:
