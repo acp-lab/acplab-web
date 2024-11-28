@@ -17,7 +17,7 @@ summary: '*IEEE Transactions on Robotics (T-RO)*, 2024'
 
 links:
 
-url_pdf: https://arxiv.org/pdf/2210.0589
+url_pdf: https://ieeexplore.ieee.org/document/10758214
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
 #url_poster: '#'
