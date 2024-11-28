@@ -9,7 +9,12 @@ sections:
     content:
       title: Contact
       text: |-
-        Please contact Prof. Guanrui Li through email 
+        If you are interested in applying PhD, PostDoc or Visiting Scholar, Please contact Prof. Guanrui Li through email, with your CV and your transcripts attached. If you have publications, choose the most important one and attach it in the email as well. 
+
+        If you are WPI students, and you are interested in the student projects in the lab, fill in the application form below. 
+
+        If you haven't heard from me in 2 weeks, it's highly possible that you are not considered for the position or there are no more openings. 
+        
       email: gli7@wpi.edu
       address:
         street: UH 246, Unity Hall, 100 Institute Road, Worcester Polytechnic Institute
