@@ -5,13 +5,13 @@ authors:
 - Guanrui Li
 - Rundong Ge
 - Giuseppe Loianno
-date: '2024-01-01'
+date: '2021-01-01'
 show_date: false
 publishDate: '2024-11-18T23:48:37.367499Z'
 publication_types:
 - article-journal
 publication: '*IEEE Robotics and Automation Letters (RA-L)*'
-summary: '*IEEE Robotics and Automation Letters (RA-L)*, 2024'
+summary: '*IEEE Robotics and Automation Letters (RA-L)*, 2021'
 
 links:
 
