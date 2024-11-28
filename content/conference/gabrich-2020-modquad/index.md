@@ -8,8 +8,8 @@ date: '2020-01-01'
 publishDate: '2024-11-18T23:48:37.343613Z'
 publication_types:
 - paper-conference
-publication: In '*2020 International Conference on Robotics and Automation (ICRA)*'
-publication_short: In *ICRA 2020*
+publication: *2020 International Conference on Robotics and Automation (ICRA)*
+publication_short: *ICRA 2020*
 
 
 links:
@@ -28,7 +28,7 @@ url_video: 'https://www.youtube.com/watch?v=3Vs51QAlnnk'
 #   url: ""
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 ---
