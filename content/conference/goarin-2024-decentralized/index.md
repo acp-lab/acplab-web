@@ -10,7 +10,7 @@ date: '2024'
 publishDate: '2024-11-18T23:48:37.432694Z'
 publication_types:
 - article-journal
-publication: '*arXiv preprint arXiv:2409.17379*'
+publication: '*International Conference on Robotics and Automation (ICRA)*'
 summary: '*International Conference on Robotics and Automation (ICRA) (under review)*'
 
 links:

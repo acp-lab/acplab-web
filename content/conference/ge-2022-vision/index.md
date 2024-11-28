@@ -11,13 +11,12 @@ date: '2022'
 publishDate: '2024-11-18T23:48:37.403317Z'
 publication_types:
 - paper-conference
-publication: '*IEEE/RSJ International Conference on Intelligent Robots and Systems
-summary: '*IEEE/RSJ International Conference on Intelligent Robots and Systems
-  (IROS)*'
+publication: '*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*'
+summary: '*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*'
 
 links:
 
-url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9981115
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9981115'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
 #url_poster: '#'

@@ -10,9 +10,8 @@ date: '2021'
 publishDate: '2024-11-18T23:48:37.373731Z'
 publication_types:
 - paper-conference
-publication: '*IEEE/RSJ International Conference on Intelligent Robots and Systems
-summary: '*IEEE/RSJ International Conference on Intelligent Robots and Systems
-  (IROS)*'
+publication: '*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*'
+summary: '*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*'
 
 links:
 
