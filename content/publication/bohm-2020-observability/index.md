@@ -7,14 +7,13 @@ authors:
 - Stephan Weiss
 date: '2020-01-01'
 publishDate: '2024-11-18T23:48:37.355625Z'
-publication_types: Conference
-- paper-conference
+publication_types:  ['paper-conference']
+
 publication: '*Robotics: Science and Systems: Power On And Go Robots Workshop*'
 
 
-links: https://www.researchgate.net/publication/351283002_Observability-Aware_Trajectories_for_Geometric_and_Inertial_Self-Calibration
-
-url_pdf: 
+# links: 
+url_pdf: https://www.researchgate.net/publication/351283002_Observability-Aware_Trajectories_for_Geometric_and_Inertial_Self-Calibration
 
 # links:
 # - name: ""
