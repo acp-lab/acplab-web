@@ -7,7 +7,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Journal 
+      title: Journals 
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -16,11 +16,12 @@ sections:
       filters:
         # The folders to display content from
         folders: 
-          - publication
+          - publication:
+            - journal
         author: ""
         category: ""
         tag: ""
-        publication_type: ["article-journal"]
+        publication_type: 
         featured_only: false
         exclude_featured: false
         exclude_future: false
