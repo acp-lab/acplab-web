@@ -18,8 +18,8 @@ sections:
                 brightness: 0.7
             position: right
             color: '#666'
-        - title: HPA-MPC 
-          content: HPA-MPC has been accepted to RA-L! 
+        - title: HPA-MPC has been accepted to RA-L!
+          content:  
           align: center
           background:
             image:
@@ -28,8 +28,8 @@ sections:
                 brightness: 0.7
             position: right
             color: '#666'        
-        - title: 
-          content: Our work on human-multi-aerial-robot physical interaction has been accepted to TR-O 
+        - title: Human-Aware Physical Human-Robot Collaborative Transportation and Manipulation with Multiple Aerial Robots Has Been Accepted by T-RO
+          content: 
           align: left
           background:
             image:
@@ -38,14 +38,12 @@ sections:
                 brightness: 0.7
             position: center
             color: '#555'
-        - title: World-Class Semiconductor Lab
-          content: 'Just opened last month!'
+        - title: ACP Lab
+          content: 'Just opened!'
           align: right
           background:
             image:
-              # Specify an image from `assets/media/`
-              # or delete the image section to remove it
-              filename: welcome.jpg
+              filename: 
               filters:
                 brightness: 0.5
             position: center
@@ -61,7 +59,7 @@ sections:
       # Make the slides full screen within the browser window?
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
       interval: 2000
 ---
