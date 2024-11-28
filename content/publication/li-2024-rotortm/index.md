@@ -6,8 +6,7 @@ authors:
 - Giuseppe Loianno
 date: '2024-01-01'
 publishDate: '2024-11-18T23:48:37.391428Z'
-publication_types:
-- article-journal
+publication_type: ["article-journal"]
 publication: '*IEEE Transactions on Robotics*'
 
 
@@ -20,7 +19,7 @@ url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10328685
 #url_project: ''
 #url_slides: ''
 #url_source: '#'
-#url_video: '#'
+url_video: '#'
 
 # links:
 # - name: ""
