@@ -7,7 +7,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Publications
+      title: Journal 
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -20,7 +20,7 @@ sections:
         author: ""
         category: ""
         tag: ""
-        publication_type: ""
+        publication_type: ["article-journal"]
         featured_only: false
         exclude_featured: false
         exclude_future: false
