@@ -5,12 +5,13 @@ authors:
 - Alessandro Saviolo
 - Guanrui Li
 - Giuseppe Loianno
-date: '2022'
+date: '2022-01-01'
+show_date: false
 publishDate: '2024-11-18T23:48:37.397281Z'
 publication_types:
 - article-journal
 publication: '*IEEE Robotics and Automation Letters (RA-L)*'
-
+summary: '*IEEE Robotics and Automation Letters (RA-L)*, 2022'
 
 links:
 

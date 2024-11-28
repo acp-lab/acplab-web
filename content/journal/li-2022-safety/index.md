@@ -1,6 +1,5 @@
 ---
-title: Safety-aware human-robot collaborative transportation and manipulation with
-  multiple mavs
+title: Human-Aware Physical Human-Robot Collaborative Transportation and Manipulation with Multiple Aerial Robots 
 authors:
 - Guanrui Li
 - Xinyang Liu
@@ -8,12 +7,13 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: '2024'
+date: '2024-01-01'
+show_date: false
 publishDate: '2024-11-18T23:48:37.409283Z'
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Robotics (T-RO)*'
-summary: '*IEEE Transactions on Robotics (T-RO)*'
+summary: '*IEEE Transactions on Robotics (T-RO)*, 2024'
 
 links:
 
