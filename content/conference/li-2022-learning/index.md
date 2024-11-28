@@ -7,12 +7,13 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: '2022'
+date: '2022-01-01'
+show_date: false
 publishDate: '2024-11-18T23:48:37.385621Z'
 publication_types:
 - paper-conference
 publication: '*IEEE International Conference on Robotics and Automation (ICRA)*'
-summary: '*IEEE International Conference on Robotics and Automation (ICRA), Outstanding Deployed Systems Paper Award Finalist* '
+summary: '*IEEE International Conference on Robotics and Automation (ICRA), 2022,  Outstanding Deployed Systems Paper Award Finalist* '
 
 links:
 

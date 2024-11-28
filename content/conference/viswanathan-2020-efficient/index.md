@@ -7,12 +7,13 @@ authors:
 - Giuseppe Loianno
 - Michael Kaess
 - Sebastian Scherer
-date: '2020'
+date: '2020-01-01'
+show_date: false
 publishDate: '2024-11-18T23:48:37.349572Z'
 publication_types:
 - paper-conference
 publication: '*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*'
-summary: '*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*'
+summary: '*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2020'
 
 links:
 

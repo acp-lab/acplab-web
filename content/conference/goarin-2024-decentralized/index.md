@@ -6,12 +6,13 @@ authors:
 - Guanrui Li
 - Alessandro Saviolo
 - Giuseppe Loianno
-date: '2024'
+date: '2024-01-01'
+show_date: false
 publishDate: '2024-11-18T23:48:37.432694Z'
 publication_types:
-- article-journal
-publication: '*International Conference on Robotics and Automation (ICRA)*'
-summary: '*International Conference on Robotics and Automation (ICRA) (under review)*'
+- paper-conference
+publication: '*International Conference on Robotics and Automation (ICRA) (under review)*'
+summary: '*International Conference on Robotics and Automation (ICRA) (under review)*, 2024'
 
 links:
 

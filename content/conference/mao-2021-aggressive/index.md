@@ -6,12 +6,13 @@ authors:
 - Stephen Nogar
 - Christopher Kroninger
 - Giuseppe Loianno
-date: '2021'
+date: '2023-01-01'
+show_date: false
 publishDate: '2024-11-18T23:48:37.373731Z'
 publication_types:
 - paper-conference
 publication: '*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*'
-summary: '*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*'
+summary: '*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2023'
 
 links:
 

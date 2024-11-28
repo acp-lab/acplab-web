@@ -6,12 +6,13 @@ authors:
 - Guanrui Li
 - Mark Yim
 - Vijay Kumar
-date: '2018'
+date: '2018-01-01'
+show_date: false
 publishDate: '2024-11-18T23:48:37.337445Z'
 publication_types:
 - paper-conference
 publication: '*IEEE International Conference on Robotics and Automation (ICRA)*'
-summary: '*IEEE International Conference on Robotics and Automation (ICRA)*'
+summary: '*IEEE International Conference on Robotics and Automation (ICRA)*, 2018'
 
 
 links:

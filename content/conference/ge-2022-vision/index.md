@@ -7,12 +7,14 @@ authors:
 - Yang Zhou
 - Guanrui Li
 - Giuseppe Loianno
-date: '2022'
+date: '2022-01-01'
+show_date: false
+eppe Loianno
 publishDate: '2024-11-18T23:48:37.403317Z'
 publication_types:
 - paper-conference
 publication: '*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*'
-summary: '*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*'
+summary: '*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*,2022'
 
 links:
 

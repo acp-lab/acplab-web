@@ -5,12 +5,13 @@ authors:
 - Roshan Balu T M B
 - Guanrui Li
 - Giuseppe Loianno
-date: '2024'
+date: '2024-01-01'
+show_date: false
 publishDate: '2024-11-18T23:48:37.426866Z'
 publication_types:
 - paper-conference
 publication: '*International Conference on Unmanned Aircraft Systems (ICUAS)*'
-summary: '*International Conference on Unmanned Aircraft Systems (ICUAS)*'
+summary: '*International Conference on Unmanned Aircraft Systems (ICUAS)*, 2024'
 
 links:
 

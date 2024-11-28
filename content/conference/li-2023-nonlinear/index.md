@@ -4,12 +4,13 @@ title: Nonlinear Model Predictive Control for Cooperative Transportation and Man
 authors:
 - Guanrui Li
 - Giuseppe Loianno
-date: '2023'
+date: '2023-01-01'
+show_date: false
 publishDate: '2024-11-18T23:48:37.415112Z'
 publication_types:
 - paper-conference
 publication: '*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*'
-summary: '*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*'
+summary: '*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2023'
 
 
 links:

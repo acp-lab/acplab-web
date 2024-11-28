@@ -8,12 +8,13 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: '2021'
+date: '2021-01-01'
+show_date: false
 publishDate: '2024-11-18T23:48:37.379717Z'
 publication_types:
 - paper-conference
 publication: '*IEEE International Conference on Robotics and Automation (ICRA)*'
-summary: '*IEEE International Conference on Robotics and Automation (ICRA)*'
+summary: '*IEEE International Conference on Robotics and Automation (ICRA)*, 2021'
 
 links:
 

@@ -4,13 +4,14 @@ authors:
 - Bruno Gabrich
 - Guanrui Li
 - Mark Yim
-date: '2020'
+date: '2020-01-01'
+show_date: false
 publishDate: '2024-11-18T23:48:37.343613Z'
 publication_types:
 - paper-conference
 publication: "*International Conference on Robotics and Automation (ICRA)*"
 publication_short: "*ICRA 2020*"
-summary: "*2020 International Conference on Robotics and Automation (ICRA)*"
+summary: "*International Conference on Robotics and Automation (ICRA)*, 2020"
 
 links:
 

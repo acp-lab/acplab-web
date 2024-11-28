@@ -4,12 +4,12 @@ title: Design and Experimental Evaluation of Distributed Cooperative Transportat
 authors:
 - Guanrui Li
 - Giuseppe Loianno
-date: '2021'
+date: '2021-01-01'
 publishDate: '2024-11-18T23:48:37.361643Z'
 publication_types:
 - paper-conference
 publication: '*Experimental Robotics: The 17th International Symposium*'
-summary: '*Experimental Robotics: The 17th International Symposium*'
+summary: '*Experimental Robotics: The 17th International Symposium*, 2021'
 
 links:
 
