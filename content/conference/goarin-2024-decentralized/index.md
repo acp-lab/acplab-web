@@ -6,7 +6,7 @@ authors:
 - Guanrui Li
 - Alessandro Saviolo
 - Giuseppe Loianno
-date: '2024-01-01'
+date: '2024-09-01'
 show_date: false
 publishDate: '2024-11-18T23:48:37.432694Z'
 publication_types:
