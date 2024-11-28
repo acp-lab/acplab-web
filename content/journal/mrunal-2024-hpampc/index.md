@@ -1,5 +1,5 @@
 ---
-title: HPA-MPC: Hybrid Perception-Aware Nonlinear Model Predictive Control for Quadrotors with Suspended Loads
+title: 'HPA-MPC: Hybrid Perception-Aware Nonlinear Model Predictive Control for Quadrotors with Suspended Loads'
 authors:
 - Mrunal Sarvaiya
 - Guanrui Li
