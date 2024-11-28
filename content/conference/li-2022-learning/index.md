@@ -4,11 +4,15 @@ authors:
 - Guanrui Li*
 - Alex Tunchez*
 - Giuseppe Loianno
-date: '2022-01-01'
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+date: '2022'
 publishDate: '2024-11-18T23:48:37.385621Z'
 publication_types:
 - paper-conference
-publication: '*2022 IEEE International Conference on Robotics and Automation (ICRA)*'
+publication: '*IEEE International Conference on Robotics and Automation (ICRA)*'
+summary: '*IEEE International Conference on Robotics and Automation (ICRA), Outstanding Deployed Systems Paper Award Finalist* '
 
 links:
 
@@ -19,14 +23,14 @@ url_pdf: https://arxiv.org/pdf/2202.07716
 #url_project: ''
 #url_slides: ''
 #url_source: '#'
-#url_video: '#'
+url_video: https://www.youtube.com/watch?v=-5cIsIM5G7M
 
 # links:
 # - name: ""
 #   url: ""
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 ---

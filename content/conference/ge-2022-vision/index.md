@@ -7,11 +7,12 @@ authors:
 - Yang Zhou
 - Guanrui Li
 - Giuseppe Loianno
-date: '2022-01-01'
+date: '2022'
 publishDate: '2024-11-18T23:48:37.403317Z'
 publication_types:
 - paper-conference
-publication: '*2022 IEEE/RSJ International Conference on Intelligent Robots and Systems
+publication: '*IEEE/RSJ International Conference on Intelligent Robots and Systems
+summary: '*IEEE/RSJ International Conference on Intelligent Robots and Systems
   (IROS)*'
 
 links:
@@ -23,14 +24,14 @@ url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9981115
 #url_project: ''
 #url_slides: ''
 #url_source: '#'
-#url_video: '#'
+url_video: 'https://www.youtube.com/watch?v=-5cIsIM5G7M'
 
 # links:
 # - name: ""
 #   url: ""
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 ---

@@ -6,12 +6,12 @@ authors:
 - Guanrui Li
 - Alessandro Saviolo
 - Giuseppe Loianno
-date: '2024-01-01'
+date: '2024'
 publishDate: '2024-11-18T23:48:37.432694Z'
 publication_types:
 - article-journal
 publication: '*arXiv preprint arXiv:2409.17379*'
-
+summary: '*International Conference on Robotics and Automation (ICRA) (under review)*'
 
 links:
 
@@ -22,14 +22,14 @@ url_pdf: https://arxiv.org/abs/2409.17379
 #url_project: ''
 #url_slides: ''
 #url_source: '#'
-#url_video: '#'
+url_video: https://youtu.be/qTZPzcUJg0s 
 
 # links:
 # - name: ""
 #   url: ""
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 ---

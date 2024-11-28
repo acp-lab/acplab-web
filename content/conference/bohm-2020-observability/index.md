@@ -5,11 +5,12 @@ authors:
 - Guanrui Li
 - Giuseppe Loianno
 - Stephan Weiss
-date: '2020-01-01'
+date: '2020'
 publishDate: '2024-11-18T23:48:37.355625Z'
 publication_types:  ['paper-conference']
 
 publication: '*Robotics: Science and Systems: Power On And Go Robots Workshop*'
+summary: '*Robotics: Science and Systems: Power On And Go Robots Workshop*'
 
 
 # links: 

@@ -7,11 +7,11 @@ authors:
 - Jnaneshwar Das
 - Vijay Kumar
 - Mark Yim
-date: '2019-01-01'
+date: '2019'
 publishDate: '2024-11-18T23:48:37.328170Z'
 publication_types:
 - paper-conference
-publication: '*2019 International Conference on Robotics and Automation (ICRA)*'
+publication: '*International Conference on Robotics and Automation (ICRA)*'
 
 
 links:
@@ -23,14 +23,14 @@ url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794056
 #url_project: ''
 #url_slides: ''
 #url_source: '#'
-#url_video: '#'
+url_video: 
 
 # links:
 # - name: ""
 #   url: ""
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 ---

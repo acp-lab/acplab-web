@@ -7,11 +7,12 @@ authors:
 - Giuseppe Loianno
 - Michael Kaess
 - Sebastian Scherer
-date: '2020-01-01'
+date: '2020'
 publishDate: '2024-11-18T23:48:37.349572Z'
 publication_types:
 - paper-conference
-publication: '*2020 IEEE/RSJ International Conference on Intelligent Robots and Systems
+publication: '*IEEE/RSJ International Conference on Intelligent Robots and Systems
+summary: '*IEEE/RSJ International Conference on Intelligent Robots and Systems
   (IROS)*'
 
 links:
@@ -23,14 +24,14 @@ url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9341273
 #url_project: ''
 #url_slides: ''
 #url_source: '#'
-#url_video: '#'
+url_video: https://www.youtube.com/watch?v=y_lVtT8lJMk
 
 # links:
 # - name: ""
 #   url: ""
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 ---
