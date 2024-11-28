@@ -13,7 +13,7 @@ publishDate: '2024-11-18T23:48:37.328170Z'
 publication_types:
 - paper-conference
 publication: '*International Conference on Robotics and Automation (ICRA)*, 2019'
-
+summary: '*International Conference on Robotics and Automation (ICRA)*, 2019'
 
 links:
 
