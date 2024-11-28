@@ -8,7 +8,8 @@ date: '2020-01-01'
 publishDate: '2024-11-18T23:48:37.343613Z'
 publication_types:
 - paper-conference
-publication: '*2020 International Conference on Robotics and Automation (ICRA)*'
+publication: In '*2020 International Conference on Robotics and Automation (ICRA)*'
+publication_short: In *ICRA 2020*
 
 
 links:
@@ -20,7 +21,7 @@ url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9196735
 #url_project: ''
 #url_slides: ''
 #url_source: '#'
-#url_video: '#'
+url_video: 'https://www.youtube.com/watch?v=3Vs51QAlnnk'
 
 # links:
 # - name: ""
