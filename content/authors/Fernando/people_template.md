@@ -73,7 +73,7 @@ email: ''
 #     - Visiting Scholars
 #     - Alumni
 user_groups:
-  - 
+  - PhD Students
   
   
 ---
