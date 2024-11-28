@@ -5,6 +5,49 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: slider
+    content:
+      slides:
+        - title: HPA-MPC 
+          content: HPA-MPC has been accepted to RA-L! 
+          align: center
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: human_robot_interaction_2.jpg
+              filters:
+                brightness: 0.7
+            position: right
+            color: '#666'
+        - title: 
+          content: Our work on human-multi-aerial-robot physical interaction has been accepted to TR-O 
+          align: left
+          background:
+            image:
+              filename: human-multi-robot-interaction.jpg
+              filters:
+                brightness: 0.7
+            position: center
+            color: '#555'
+        - title: World-Class Semiconductor Lab
+          content: 'Just opened last month!'
+          align: right
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: lmpc.png 
+              filters:
+                brightness: 0.5
+            position: center
+            color: '#333'
+          link:
+            icon: graduation-cap
+            icon_pack: fas
+            text: Join Us
+            url: ../contact/
+
   - block: hero
     content:
       title: |
@@ -35,26 +78,6 @@ sections:
       view: card
       columns: '1'
   
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-
   - block: collection
     content:
       title: Recent Publications 
