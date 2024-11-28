@@ -1,29 +1,31 @@
 ---
-# Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
+title: ACP Lab 
 type: landing
 
 sections:
   - block: slider
     content:
       slides:
-        - title: HPA-MPC 
-          content: HPA-MPC has been accepted to RA-L! 
+        - title: 👋 Welcome to the group
+          content: Take a look at what we're working on...
           align: center
           background:
             image:
-              filename: human_robot_interaction_2.jpg
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: coders.jpg
               filters:
                 brightness: 0.7
             position: right
             color: '#666'
-        - title: 
-          content: Our work on human-multi-aerial-robot physical interaction has been accepted to TR-O 
+        - title: Lunch & Learn ☕️
+          content: 'Share your knowledge with the group and explore exciting new topics together!'
           align: left
           background:
             image:
-              filename: human-multi-robot-interaction.jpg
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: contact.jpg
               filters:
                 brightness: 0.7
             position: center
@@ -33,7 +35,9 @@ sections:
           align: right
           background:
             image:
-              filename: lmpc.png 
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: welcome.jpg
               filters:
                 brightness: 0.5
             position: center
@@ -43,8 +47,7 @@ sections:
             icon_pack: fas
             text: Join Us
             url: ../contact/
-
-      design:
+    design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
       # Make the slides full screen within the browser window?
@@ -53,56 +56,4 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
-
-  - block: hero
-    content:
-      title: |
-         Aerial-robots Control and Perception Lab 
-      image:
-        filename: 
-      text: |
-        <br>
-        
-        The **ACP Lab** is ....
-  
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
-  
-  - block: collection
-    content:
-      title: Recent Publications 
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
 ---
