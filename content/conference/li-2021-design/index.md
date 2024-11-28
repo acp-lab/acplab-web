@@ -5,11 +5,12 @@ authors:
 - Guanrui Li
 - Giuseppe Loianno
 date: '2021-01-01'
+show_date: false
 publishDate: '2024-11-18T23:48:37.361643Z'
 publication_types:
 - paper-conference
 publication: '*Experimental Robotics: The 17th International Symposium*'
-summary: '*Experimental Robotics: The 17th International Symposium*, 2021'
+summary: '*Experimental Robotics: The 17th International Symposium (ISER)*, 2021'
 
 links:
 
