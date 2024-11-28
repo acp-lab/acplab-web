@@ -9,8 +9,8 @@ show_date: false
 publishDate: '2024-11-18T23:48:37.361643Z'
 publication_types:
 - paper-conference
-publication: '*Experimental Robotics: The 17th International Symposium*'
-summary: '*Experimental Robotics: The 17th International Symposium (ISER)*, 2021'
+publication: '*International Symposium on Experimental Robotics*'
+summary: '*The 17th International Symposium on Experimental Robotics (ISER)*, 2021'
 
 links:
 
