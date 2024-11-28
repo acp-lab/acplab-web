@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+         Aerial-robots Control and Perception Lab 
       image:
-        filename: welcome.jpg
+        filename: 
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **ACP Lab** is ....
   
   - block: collection
     content:
@@ -58,7 +57,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Recent Publications 
       text: ""
       count: 5
       filters:
