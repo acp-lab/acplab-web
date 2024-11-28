@@ -9,7 +9,6 @@ authors:
 - Giuseppe Loianno
 date: '2022-01-01'
 show_date: false
-eppe Loianno
 publishDate: '2024-11-18T23:48:37.403317Z'
 publication_types:
 - paper-conference
