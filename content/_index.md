@@ -43,7 +43,7 @@ sections:
           align: right
           background:
             image:
-              filename: 
+              filename:  
               filters:
                 brightness: 0.5
             position: center
