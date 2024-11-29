@@ -44,6 +44,13 @@ sections:
     design:
       columns: '1'
 
+  - block: buttons
+    content:
+      buttons:
+        - title: WPI Students Apply Here  
+          icon: brands/arxiv
+          url: https://forms.office.com/r/8j6a3X5Uqt
+
   - block: markdown
     content:
       title:

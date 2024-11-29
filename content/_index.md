@@ -28,7 +28,7 @@ sections:
                 brightness: 0.7
             position: right
             color: '#666'        
-        - title: Human-Aware Physical Human-Robot Collaborative Transportation and Manipulation with Multiple Aerial Robots Has Been Accepted by T-RO
+        - title: Human-Aware Physical Human-Robot Collaborative Transportation and Manipulation with Multiple Aerial Robots Has Been Accepted by T-RO!
           content: 
           align: left
           background:
