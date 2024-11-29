@@ -24,11 +24,11 @@ sections:
         country: United States
         country_code: US
       appointment_url: ''
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
+      contact_links:
+        - icon: comments
+          icon_pack: fas
+          name: WPI Students Apply Here!
+          link: 'https://forms.office.com/r/8j6a3X5Uqt'
     
       # Automatically link email and phone or display as text?
       autolink: true
@@ -40,16 +40,9 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '1'
-
-  - block: buttons
-    content:
-      buttons:
-        - title: WPI Students Apply Here  
-          icon: brands/arxiv
-          url: https://forms.office.com/r/8j6a3X5Uqt
 
   - block: markdown
     content:
