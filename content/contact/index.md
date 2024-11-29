@@ -74,4 +74,5 @@ sections:
    </td>
     
    <td style="padding:20px;width:75%;vertical-align:middle">
-   <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=AAewvLxwZerOf7MJjxWQmLqbpCjz3Fq85VqETfASmPg&cl=ffffff&w=a"></script>
+   <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=AAewvLxwZerOf7MJjxWQmLqbpCjz3Fq85VqETfASmPg&cl=ffffff&w=a">
+</script>
