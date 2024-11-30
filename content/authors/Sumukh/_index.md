@@ -24,7 +24,8 @@ organizations:
     url: 'https://www.iittp.ac.in/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an MS Robotics student at Worcester Polytechnic Institute and a Mechanical Engineering graduate from IIT Tirupati. My experience spans robotics, machine learning, and control systems, with a particular focus on learning-based motion planning and perception-aware control. I am passionate about developing innovative solutions for autonomous systems and robotic manipulation.
+bio: 
+
 # Your research interests keywords
 interests:
   - Learning-based Motion Planning
@@ -102,5 +103,4 @@ user_groups:
   
   
 ---
-# Put your little description here 
-
+I am an MS Robotics student at Worcester Polytechnic Institute and a Mechanical Engineering graduate from IIT Tirupati. My experience spans robotics, machine learning, and control systems, with a particular focus on learning-based motion planning and perception-aware control. I am passionate about developing innovative solutions for autonomous systems and robotic manipulation.
