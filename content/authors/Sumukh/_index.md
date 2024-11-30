@@ -1,44 +1,65 @@
 ---
-# Display name
-title: Sumukh Porwal
+# Your Full name
+title:  Sumukh Porwal
 
-# Full name (for SEO)
+# Your first and last name (for SEO)
 first_name: Sumukh
 last_name: Porwal
 
 # Username (this should match the folder name)
 authors:
-    - Sumukh
+    - Sumukh 
 
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position
-role: Master in Robotics 
+# Your current major 
+role: Master's in Robotics Engineering, WPI
 
 # Organizations/Affiliations
 organizations:
   - name: Worcester Polytechnic Institute
-    url: ''
+    url: 'https://www.wpi.edu/'
+  - name: Indian Institute of Technology Tirupati
+    url: 'https://www.iittp.ac.in/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are Robot Control and Motion Planning.
-
+bio: I am an MS Robotics student at Worcester Polytechnic Institute and a Mechanical Engineering graduate from IIT Tirupati. My experience spans robotics, machine learning, and control systems, with a particular focus on learning-based motion planning and perception-aware control. I am passionate about developing innovative solutions for autonomous systems and robotic manipulation.
+# Your research interests keywords
 interests:
-  - Motion Planning
-  - Robot Control
+  - Learning-based Motion Planning
+  - Perception-aware Control Systems
 
+# Your education background
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Robot Control
+      institution: Worcester Polytechnic Institute
+      year: 2024
+    - course: Motion Planning
+      institution: Worcester Polytechnic Institute
+      year: 2024
+    - course: Reinforcement Learning
+      institution: Worcester Polytechnic Institute
+      year: 2024
+    - course: Machine Learning
+      institution: Indian Institute of Technology Tirupati
+      year: 2024
+    - course: Mechatronics
+      institution: Indian Institute of Technology Tirupati
+      year: 2024
+    - course: Modeling and Control of Autonomous Mobile Robots
+      institution: Indian Institute of Technology Tirupati
+      year: 2023
+    - course: System Dynamics and Control
+      institution: Indian Institute of Technology Tirupati
+      year: 2023
+    - course: Mechanics and Control of Robotic Manipulators
+      institution: Indian Institute of Technology Tirupati
+      year: 2023
+    - course: Attitude Estimation and Control
+      institution: Indian Institute of Technology Tirupati
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -47,13 +68,16 @@ education:
 social:
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Sumukh18
   - icon: linkedin
     icon_pack: fab
-    link: 
+    link: https://www.linkedin.com/in/sumukhporwal/
   - icon: cv
     icon_pack: ai
-    link:
+    link: https://sumukh18.github.io/pdfs/resume.pdf
+  - icon: email
+    icon_pack: envelope
+    link: mailto:sporwal@wpi.edu
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,16 +85,22 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'sporwal@wpi.edu'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
+# options: 
+# user_groups:
+#     - Researchers
+#     - PhD Students
+#     - Master's Students
+#     - Undergraduate Students
+#     - Visiting Scholars
+#     - Alumni
 user_groups:
   - Master's Students
   
   
 ---
+# Put your little description here 
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
