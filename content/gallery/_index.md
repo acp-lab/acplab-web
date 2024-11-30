@@ -1,6 +1,6 @@
 ---
 title: gallery 
-type: landing
+type: posts 
 
 ---
 {% gallery %}
