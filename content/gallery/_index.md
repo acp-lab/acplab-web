@@ -1,6 +1,12 @@
 ---
 title: Gallery 
 type: posts 
+  - block: images
+    content:
+      images:
+        - /assets/media/human-multi-robot-interaction.jpg
+        - /assets/media/lmpc.png
+        - /assets/media/multi-robots.jpg
 
 ---
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
