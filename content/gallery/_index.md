@@ -1,6 +1,8 @@
 ---
 title: Gallery 
 type: posts 
+
+sections:
   - block: images
     content:
       images:
