@@ -1,44 +1,40 @@
 ---
-# Display name
-title: Nick Johanessen
+# Your Full name
+title:  Nicholas Johannessen
 
-# Full name (for SEO)
-first_name: Nick
-last_name: Johanessen
+# Your first and last name (for SEO)
+first_name: Nicholas
+last_name: Johannessen
 
 # Username (this should match the folder name)
 authors:
-    - Nick
+    - najohannessen
 
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position
-role: Master in Robotics
+# Your current major 
+role:  MS in Robotics Engineering
 
 # Organizations/Affiliations
 organizations:
-  - name: Worcester Polytechnic Institute
+  - name: 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are Robot Control and Motion Planning.
+bio: Hardware systems engineer
 
+# Your research interests keywords
 interests:
-  - Motion Planning
-  - Robot Control
+  - Drone Hardware
+  - Hardware Modeling
 
+# Your education background
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BS in Robotics & Mechanical Engineering
+      institution: WPI
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -61,16 +57,20 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'najohannessen@wpi.edu'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
+# options: 
+# user_groups:
+#      - Master's Students
+#     - Undergraduate Students
+#     - Visiting Scholars
+#     - Alumni
 user_groups:
   - Master's Students
   
   
 ---
-
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+# Put your little description here 
+An FPV drone enthusiast, I apply my experience with hardware systems to our drones in the lab.
