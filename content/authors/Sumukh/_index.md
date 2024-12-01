@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Your current major 
-role: Master's in Robotics Engineering, WPI
+role: MS in Robotics Engineering, WPI
 
 # Organizations/Affiliations
 organizations:
