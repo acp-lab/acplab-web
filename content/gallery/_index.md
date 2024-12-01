@@ -1,9 +1,7 @@
 ---
-title: gallery 
+title: Gallery 
 type: posts 
 
 ---
-{% gallery %}
-![alt](assets/media/lmpc.png) ![alt](assets/media/multi-robots.png)
-![alt](assets/media/human-multi-robot-interaction.png) 
-{% endgallery %}
+![image1](assets/media/lmpc.png) ![image3](assets/media/multi-robots.png)
+![image2](assets/media/human-multi-robot-interaction.png) 
