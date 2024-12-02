@@ -58,7 +58,7 @@ sections:
           align: center
           background:
             image:
-              filename: cyberbotics-digit.gif
+              filename: 
               filters:
                 brightness: 0.4
             position: center 
@@ -73,7 +73,7 @@ sections:
           align: left
           background:
             image:
-              filename: joinus.jpg
+              filename: 
               filters:
                 brightness: 0.4
             position: center
@@ -93,7 +93,7 @@ sections:
           align: right
           background:
             image:
-              filename: osu-robots.png
+              filename: 
               filters:
                 brightness: 0.4
             position: center
