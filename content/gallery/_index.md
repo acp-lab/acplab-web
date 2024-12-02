@@ -1,13 +1,16 @@
 ---
-title: Gallery 
-type: posts 
+# Leave the homepage title empty to use the site title
+title: Photo Gallery
+date: 2023-10-24
+type: landing
 
 sections:
   - block: markdown
-    id: section-1
     content:
-      title: ACP Research Highlights Gallery
-      text: ![image1](lmpc.png)
-         ![image3](multi-robots.jpg)
-         ![image2](human-multi-robot-interaction.jpg)
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="test" >}}
+    design:
+      columns: '1'
 ---
