@@ -148,10 +148,12 @@ sections:
       #   {{% /callout %}}
       filters:
         folders:
-          - publication
+          - journal 
+          - conference 
         featured_only: false
       text: 
       count: 5
+    sort_by: 'Date'
     design:
       columns: '1'
       view: custom

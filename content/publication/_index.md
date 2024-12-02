@@ -16,7 +16,7 @@ sections:
       filters:
         # The folders to display content from
         folders: 
-          - publication/journal
+          - journal
         author: ""
         category: ""
         tag: ""
@@ -48,7 +48,7 @@ sections:
       filters:
         # The folders to display content from
         folders: 
-          - publication/conference/
+          - publication/conference
         author: ""
         category: ""
         tag: ""
