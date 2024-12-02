@@ -23,7 +23,7 @@ sections:
           align: center
           background:
             image:
-              filename: human_robot_interaction_2.jpg
+              filename: albums/test/human_robot_interaction_2.jpg
               filters:
                 brightness: 0.7
             position: right
@@ -33,7 +33,7 @@ sections:
           align: left
           background:
             image:
-              filename: human-multi-robot-interaction.jpg
+              filename: albums/test/human-multi-robot-interaction.jpg
               filters:
                 brightness: 0.7
             position: center
