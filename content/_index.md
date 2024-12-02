@@ -18,6 +18,11 @@ sections:
                 brightness: 0.7
             position: right
             color: '#666'
+          link:
+            icon: book-open-reader #graduation-cap
+            icon_pack: fas
+            text: Explore Our Research
+            url: ../projects/
         - title: HPA-MPC has been accepted to RA-L!
           content:  
           align: center
@@ -53,21 +58,6 @@ sections:
             icon_pack: fas
             text: Join Us
             url: ../contact/ 
-        - title: Welcome to Cyberbotics Lab
-          content: Our research focuses on __Cyber__-Physical and Ro**botics** (Cyberbotics) systems, with a primary emphasis on bipedal walking robots.
-          align: center
-          background:
-            image:
-              filename: 
-              filters:
-                brightness: 0.4
-            position: center 
-            color: '#333'
-          link:
-            icon: book-open-reader #graduation-cap
-            icon_pack: fas
-            text: Explore Our Research
-            url: ../projects/
         - title: __Meet Our Team__
           content: A diverse and talented group of researchers dedicated to scientific excellence.
           align: left
@@ -83,11 +73,6 @@ sections:
             icon_pack: fas
             text: Meet Our Team
             url: people/
-          # link:
-          #   icon: graduation-cap
-          #   icon_pack: fas
-          #   text: Join Us
-          #   url: ../contact/
         - title: Meet Our Robots
           content: 'Uniquely equipped to support groundbreaking discoveries.'
           align: right
@@ -144,7 +129,7 @@ sections:
         {{% /callout %}}
       filters:
         folders:
-          - project
+          - research
         featured_only: false
       text: 
       count: 3
