@@ -48,7 +48,7 @@ sections:
       filters:
         # The folders to display content from
         folders: 
-          - publication/conference
+          - conference
         author: ""
         category: ""
         tag: ""
