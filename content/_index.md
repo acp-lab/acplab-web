@@ -53,57 +53,56 @@ sections:
             icon_pack: fas
             text: Join Us
             url: ../contact/ 
-      - title: Welcome to Cyberbotics Lab
-        content: Our research focuses on __Cyber__-Physical and Ro**botics** (Cyberbotics) systems, with a primary emphasis on bipedal walking robots.
-        align: center
-        background:
-          image:
-            filename: cyberbotics-digit.gif
-            filters:
-              brightness: 0.4
-          position: center 
-          color: '#333'
-        link:
-          icon: book-open-reader #graduation-cap
-          icon_pack: fas
-          text: Explore Our Research
-          url: ../projects/
-      - title: __Meet Our Team__
-        content: A diverse and talented group of researchers dedicated to scientific excellence.
-        align: left
-        background:
-          image:
-            filename: joinus.jpg
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#555'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Meet Our Team
-          url: ../people/
-        # link:
-        #   icon: graduation-cap
-        #   icon_pack: fas
-        #   text: Join Us
-        #   url: ../contact/
-      - title: Meet Our Robots
-        content: 'Uniquely equipped to support groundbreaking discoveries.'
-        align: right
-        background:
-          image:
-            filename: osu-robots.png
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#555'
-        link:
-          icon: robot
-          icon_pack: fas
-          text: Robot Videos
-          url: ../videos/
-        
+        - title: Welcome to Cyberbotics Lab
+          content: Our research focuses on __Cyber__-Physical and Ro**botics** (Cyberbotics) systems, with a primary emphasis on bipedal walking robots.
+          align: center
+          background:
+            image:
+              filename: cyberbotics-digit.gif
+              filters:
+                brightness: 0.4
+            position: center 
+            color: '#333'
+          link:
+            icon: book-open-reader #graduation-cap
+            icon_pack: fas
+            text: Explore Our Research
+            url: ../projects/
+        - title: __Meet Our Team__
+          content: A diverse and talented group of researchers dedicated to scientific excellence.
+          align: left
+          background:
+            image:
+              filename: joinus.jpg
+              filters:
+                brightness: 0.4
+            position: center
+            color: '#555'
+          link:
+            icon: graduation-cap
+            icon_pack: fas
+            text: Meet Our Team
+            url: ../people/
+          # link:
+          #   icon: graduation-cap
+          #   icon_pack: fas
+          #   text: Join Us
+          #   url: ../contact/
+        - title: Meet Our Robots
+          content: 'Uniquely equipped to support groundbreaking discoveries.'
+          align: right
+          background:
+            image:
+              filename: osu-robots.png
+              filters:
+                brightness: 0.4
+            position: center
+            color: '#555'
+          link:
+            icon: robot
+            icon_pack: fas
+            text: Robot Videos
+            url: ../videos/    
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
