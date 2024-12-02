@@ -82,7 +82,7 @@ sections:
             icon: graduation-cap
             icon_pack: fas
             text: Meet Our Team
-            url: ../people/
+            url: people/
           # link:
           #   icon: graduation-cap
           #   icon_pack: fas
@@ -164,7 +164,7 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: true
+        featured_only: false
       text: 
       count: 5
     design:
