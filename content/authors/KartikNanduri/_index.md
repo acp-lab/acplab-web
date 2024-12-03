@@ -75,9 +75,9 @@ email: ''
 #     - Visiting Scholars
 #     - Alumni
 user_groups:
-  - 
+  - Undergraduate Students
   
   
 ---
-# Put your little description here 
+Kartik Nanduri is a first year undergraduate student at WPI studing Mechanical Engineering and Robotics Engineering. He is passionate about robotic design, Controls, and additive manufacturing.
 
