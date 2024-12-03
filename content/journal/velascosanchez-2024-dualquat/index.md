@@ -7,13 +7,13 @@ authors:
 - Francisco A. Candelas-Herias
 - Santiago T. Puente-Mendez
 - Fernando Torres-Medina
-date: '2024-10-17'
+date: '2024-01-01'
 show_date: false
 publishDate: '2024-12-03T23:48:37.397281Z'
 publication_types:
 - article-journal
-publication: 'Robotics and Autonomous Systems'
-summary: '*IEEE Robotics and Autonomous Systems* (Under review)'
+publication: '*IEEE Robotics and Autonomous Systems*'
+summary: '*IEEE Robotics and Autonomous Systems* (under review)'
 
 links:
 
