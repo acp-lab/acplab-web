@@ -13,7 +13,7 @@ authors: fernando
 superuser: false
 
 # Your current major 
-role:  Ph.D. Student in Robotics Engineering, WPI
+role:  Ph.D. Student in Robotics Engineering
 
 # Organizations/Affiliations
 organizations:
