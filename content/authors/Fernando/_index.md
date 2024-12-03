@@ -1,6 +1,6 @@
 ---
 # Your Full name
-title:  Luis Fernando Recalde Simancas
+title:  Luis Fernando Recalde # Simancas
 
 # Your first and last name (for SEO)
 first_name: Luis F.
