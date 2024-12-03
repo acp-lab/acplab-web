@@ -1,6 +1,5 @@
 ---
-title: Physics-Inspired Temporal Learning of Quadrotor Dynamics for Accurate Model
-  Predictive Trajectory Tracking
+title: Physics-Inspired Temporal Learning of Quadrotor Dynamics for Accurate Model Predictive Trajectory Tracking
 authors:
 - Alessandro Saviolo
 - Guanrui Li

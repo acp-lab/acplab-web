@@ -13,7 +13,7 @@ publishDate: ''
 publication_types:
 - article-journal
 publication: 'Robotics and Autonomous Systems'
-summary: 'Under review'
+summary: '*IEEE Robotics and Autonomous Systems* (Under review)'
 
 links:
 
