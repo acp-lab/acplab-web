@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Masters Student
+role: MS in Robotics Engineering  
 
 # Organizations/Affiliations
 organizations:

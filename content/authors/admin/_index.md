@@ -10,26 +10,25 @@ last_name: Li
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor in Robotics Engineering
 
 # Organizations/Affiliations
 organizations:
   - name: Worcester Polytechnic Institute
-    url: ''
+    url: 'https://www.wpi.edu/people/faculty/gli7'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Aerial Robotics
+  - 
 
 education:
   courses:
     - course: PhD in Electrical and Computer Engineering, Robotics
       institution: New York University
-      year: 2023
+      year: 2024
     - course: Master in Robotics
       institution: University of Pennsylvania
       year: 2018
@@ -53,21 +52,21 @@ social:
     link: https://scholar.google.com/citations?user=v_bUoRAAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://lguanrui.github.io 
   - icon: linkedin
     icon_pack: fab
-    link: 
+    link: https://www.linkedin.com/in/guanrui-li-a1b544b6/
   - icon: youtube
     icon_pack: fab
     link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  - icon: cv
+    icon_pack: ai
+    link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'gli7@wpi.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -75,7 +74,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Principal Investigator
 ---
 Guanrui Li is an Assistant Professor at the Worceter Polytechnic Institute (WPI), USA and director of the Aerial-robot Control and Perception Lab (ACP Lab) at WPI. He earned his Ph.D. in Electrical and Computer Engineering at New York University, USA, with a focus on aerial robotics. He obtained his Bachelor degree in Theoretical and Applied Mechanics from Sun Yat-sen University, where he was recognized as an Honors Undergraduate, and his Master degree in Robotics from the GRASP Lab at the University of Pennsylvania. 
 
