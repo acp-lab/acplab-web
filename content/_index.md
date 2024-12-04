@@ -120,12 +120,12 @@ sections:
       columns: 1'
 
   - block: collection
-    id: projects
+    id: research
     content:
-      title: Research Projects
+      title: Research
       subtitle: |-
         {{% callout hint %}}
-        See all [projects](./projects/).
+        See all [research](./research/).
         {{% /callout %}}
       filters:
         folders:
