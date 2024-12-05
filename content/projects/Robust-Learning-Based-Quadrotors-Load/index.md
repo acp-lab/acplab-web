@@ -1,13 +1,11 @@
 ---
-title: Robust Learning-based Control for Quadrotors with Suspended Load
-summary: As legged robots become increasingly prevalent in various applications, it is crucial to develop robust safety testing methodologies to identify potential risks and ensure safe operation.
-tags:
-  - humanoid
-date: '2022-08-27T00:00:00Z'
+title: Learning Contraction Metrics for Robust Control of Hybrid Aerial Robots with Suspended Payloads
+summary: None.
+date: '2024-12-05T20:07:33.626Z'
 featured: false
 
 image:
-  caption: A potential testing configuration of legged robots safety.
+  caption: None.
   focal_point: Smart
   preview_only: false
 
