@@ -14,7 +14,7 @@ publishDate: '2024-11-18T23:48:37.432694Z'
 publication_types:
 - paper-conference
 publication: '*IEEE International Conference on Robotics and Automation (ICRA 2024) (under review)*'
-summary: '*IEEE International Conference on Robotics and Automation (ICRA 2024) (under review)*, 2024'
+summary: '*IEEE International Conference on Robotics and Automation (ICRA) (under review)*, 2025'
 
 links:
 
