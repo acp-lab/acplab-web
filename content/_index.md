@@ -22,7 +22,7 @@ sections:
             icon: book-open-reader #graduation-cap
             icon_pack: fas
             text: Explore Our Research
-            url: ../projects/
+            url: ../publication/
         - title: HPA-MPC has been accepted to RA-L!
           content:  
           align: center
@@ -73,21 +73,21 @@ sections:
             icon_pack: fas
             text: Meet Our Team
             url: people/
-        - title: Meet Our Robots
-          content: 'Uniquely equipped to support groundbreaking discoveries.'
-          align: right
-          background:
-            image:
-              filename: 
-              filters:
-                brightness: 0.4
-            position: center
-            color: '#555'
-          link:
-            icon: robot
-            icon_pack: fas
-            text: Robot Videos
-            url: ../videos/    
+        #- title: Meet Our Robots
+        #  content: 'Uniquely equipped to support groundbreaking discoveries.'
+        #  align: right
+        #  background:
+        #    image:
+        #      filename: 
+        #      filters:
+        #        brightness: 0.4
+        #    position: center
+        #    color: '#555'
+        #  link:
+        #    icon: robot
+        #    icon_pack: fas
+        #    text: Robot Videos
+        #    url: ../videos/    
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
