@@ -119,24 +119,24 @@ sections:
       view: compact
       columns: 1'
 
-  - block: collection
-    id: research
-    content:
-      title: Research
-      subtitle: |-
-        {{% callout hint %}}
-        See all [research](./research/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - research
-        featured_only: false
-      text: 
-      count: 3
-    design:
-      columns: '1'
-      view: showcase
-      flip_alt_rows: false
+  #- block: collection
+  #  id: research
+  #  content:
+  #    title: Research
+  #    subtitle: |-
+  #      {{% callout hint %}}
+  #      See all [research](./research/).
+  #      {{% /callout %}}
+  #    filters:
+  #      folders:
+  #        - research
+  #      featured_only: false
+  #    text: 
+  #    count: 3
+  #  design:
+  #    columns: '1'
+  #    view: showcase
+  #    flip_alt_rows: false
      
   - block: collection
     id: featured
