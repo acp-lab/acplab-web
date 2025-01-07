@@ -22,7 +22,7 @@ sections:
             icon: book-open-reader #graduation-cap
             icon_pack: fas
             text: Explore Our Research
-            url: ../publication/
+            url: publication/
         - title: HPA-MPC has been accepted to RA-L!
           content:  
           align: center
@@ -57,7 +57,7 @@ sections:
             icon: graduation-cap
             icon_pack: fas
             text: Join Us
-            url: ../contact/ 
+            url: contact/ 
         - title: __Meet Our Team__
           content: A diverse and talented group of researchers dedicated to scientific excellence.
           align: left
