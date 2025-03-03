@@ -69,4 +69,17 @@ email: 'dagrawal@wpi.edu'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
- My research interests lie in drone technology as well as mobile robots with real-time control and perception algorithms. My aim is to develop autonomous multi-robot systems capable of navigating in the real-world safely at high-speed. 
+# options: 
+# user_groups:
+#     - Researchers
+#     - PhD Students
+#     - Master's Students
+#     - Undergraduate Students
+#     - Visiting Scholars
+#     - Alumni
+user_groups:
+  - Master's Students
+  
+  
+---
+I am an MS student in Robotics Engineering at Worcester Polytechnic Institute, with a focus on, control systems, perception and path planning. My research interests lie in drone technology as well as mobile robots with real-time control and perception algorithms. My aim is to develop autonomous multi-robot systems capable of navigating in the real-world safely at high-speed. 
