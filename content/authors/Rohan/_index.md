@@ -26,23 +26,20 @@ bio: "Undergraduate RBE/CS WPI 2027"
 
 # Your research interests keywords
 interests:
-  - Robotics
-  - Control
-  - Perception
-  - Drones
-  - Mobile robots
-  - Path planning
+  - Controls
+  - UAVs
+  - Trajectory Optimization
   
 
 # Your education background
 education:
   courses:
-    - course: MS in Robotics
+    - course: Robotics Engineering
       institution: Worcester Polytechnic Institue, MA
-      year: 2024-2026 
-    - course: B.Tech in Electronics and Communications Engineering
-      institution: Visvesvaraya National Institute of Technology
-      year: 2018-2022
+      year: 2027
+    - course: Computer Science
+      institution: Worcester Polytechnic Institue, MA
+      year: 2027
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -51,13 +48,13 @@ education:
 social:
   - icon: github
     icon_pack: fab
-    link: https://github.com/dhruv2603
+    link: https://github.com/rohan908
   - icon: linkedin
     icon_pack: fab
-    link: https://linkedin.com/in/dhruv-agrawal-26mar
+    link: https://www.linkedin.com/in/rohanninamdar
   - icon: cv
     icon_pack: ai
-    link: https://dhruv2603.github.io/assets/pdf/Resume_Dhruv_Agrawal.pdf
+    link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,7 +62,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'dagrawal@wpi.edu'
+email: 'rninamdar@wpi.edu'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -78,8 +75,9 @@ email: 'dagrawal@wpi.edu'
 #     - Visiting Scholars
 #     - Alumni
 user_groups:
-  - Master's Students
+  - Undergraduate Students
   
   
 ---
 I am an MS student in Robotics Engineering at Worcester Polytechnic Institute, with a focus on, control systems, perception and path planning. My research interests lie in drone technology as well as mobile robots with real-time control and perception algorithms. My aim is to develop autonomous multi-robot systems capable of navigating in the real-world safely at high-speed. 
+
