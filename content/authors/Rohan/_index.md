@@ -54,7 +54,7 @@ social:
     link: https://www.linkedin.com/in/rohanninamdar
   - icon: cv
     icon_pack: ai
-    link: https://docs.google.com/document/d/1haEXi8-x7bpe4ThIoPN7bvmOw5mUzCHe7SC6DXaSdgM/edit?usp=sharing
+    link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
