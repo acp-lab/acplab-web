@@ -79,5 +79,6 @@ user_groups:
   
   
 ---
-I am an MS student in Robotics Engineering at Worcester Polytechnic Institute, with a focus on, control systems, perception and path planning. My research interests lie in drone technology as well as mobile robots with real-time control and perception algorithms. My aim is to develop autonomous multi-robot systems capable of navigating in the real-world safely at high-speed.
+Rohan Inamdar is majoring in Robotics Engineering and Computer Science (Dual Degree) with a Minor in Math. He is a member of the engineering team for the ACP Lab and the GNC lead for Payload for WPI's High Powered Rocketry Team. His interests in robotics include controls and trajectory optimization. Outside of engineering you can find him snowboarding, running, and on the adventuring for natural wonders.
+
 
