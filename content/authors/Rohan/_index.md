@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Rohan Nathan Inamdar
+title: Dhruv Madhusudan Agrawal
 
 # Full name (for SEO)
-first_name: Rohan
-last_name: Inamdar
+first_name: Dhruv
+last_name: Agrawal
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Your current major 
-role:  Robotics Engineering, Computer Science, Mathematics Minor
+role:  MS in Robotics Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -22,24 +22,27 @@ organizations:
     url: 'https://www.wpi.edu/academics/departments/robotics-engineering/research/groups'
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Undergraduate RBE CS WPI 2027"
+bio: I am an MS student in Robotics Engineering at Worcester Polytechnic Institute, with a focus on, control systems, perception and path planning. My research interests lie in drone technology as well as mobile robots with real-time control and perception algorithms. My aim is to develop autonomous multi-robot systems capable of navigating in the real-world safely at high-speed. 
 
 # Your research interests keywords
 interests:
+  - Robotics
   - Control
-  - UAVs
-  - Trajectory Optimization
+  - Perception
+  - Drones
+  - Mobile robots
+  - Path planning
   
 
 # Your education background
 education:
   courses:
-    - course: Robotics Engineering
-      institution: Worcester Polytechnic Institute
-      year: 2027
-    - course: Computer Science
-      institution: Worcester Polytechnic Institute
-      year: 2027
+    - course: MS in Robotics
+      institution: Worcester Polytechnic Institue, MA
+      year: 2024-2026 
+    - course: B.Tech in Electronics and Communications Engineering
+      institution: Visvesvaraya National Institute of Technology
+      year: 2018-2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,13 +51,13 @@ education:
 social:
   - icon: github
     icon_pack: fab
-    link: https://github.com/rohan908
+    link: https://github.com/dhruv2603
   - icon: linkedin
     icon_pack: fab
-    link: 
+    link: https://linkedin.com/in/dhruv-agrawal-26mar
   - icon: cv
     icon_pack: ai
-    link: 
+    link: https://dhruv2603.github.io/assets/pdf/Resume_Dhruv_Agrawal.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,23 +65,8 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'rninamdar@wpi.edu'
+email: 'dagrawal@wpi.edu'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# options: 
-# user_groups:
-#     - Researchers
-#     - PhD Students
-#     - Master's Students
-#     - Undergraduate Students
-#     - Visiting Scholars
-#     - Alumni
-user_groups:
-  - Undergraduate Students
-  
-  
----
-Rohan Inamdar is majoring in Robotics Engineering and Computer Science (Dual Degree) with a Minor in Math. He is a member of the engineering team for the ACP Lab and the GNC lead for Payload for WPI's High Powered Rocketry Team. His interests in robotics include controls and trajectory optimization. Outside of engineering you can find him snowboarding, running, and on the adventuring for natural wonders.
-
-
+ My research interests lie in drone technology as well as mobile robots with real-time control and perception algorithms. My aim is to develop autonomous multi-robot systems capable of navigating in the real-world safely at high-speed. 
