@@ -22,7 +22,7 @@ organizations:
     url: 'https://www.wpi.edu/academics/departments/robotics-engineering/research/groups'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Undergraduate RBE/CS WPI 2027
+bio: "Undergraduate RBE CS WPI 2027"
 
 # Your research interests keywords
 interests:
