@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Luis Fernando Recalde
+title: Luis F. Recalde
 
 # Full name (for SEO)
 first_name: Luis Fernando
