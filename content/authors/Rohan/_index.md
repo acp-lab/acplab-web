@@ -51,7 +51,7 @@ social:
     link: https://github.com/rohan908
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/rohanninamdar
+    link: 
   - icon: cv
     icon_pack: ai
     link: 
