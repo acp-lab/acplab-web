@@ -72,5 +72,4 @@ user_groups:
   
   
 ---
-# Put your little description here 
 An FPV drone enthusiast, I apply my experience with hardware systems to our drones in the lab.
