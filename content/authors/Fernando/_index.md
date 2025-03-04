@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Luis F. Recalde
+title: Luis Fernando Recalde
 
 # Full name (for SEO)
 first_name: Luis Fernando
@@ -80,6 +80,5 @@ user_groups:
   
 ---
 Luis F. Recalde is a robotics researcher, specializing in advanced control algorithms for autonomous systems. He received his Mechatronics degree from the University of the Armed Forces - ESPE, Ecuador in 2021, and his master's degree in Control Systems Engineering at the National University of San Juan, Argentina in 2024.
-
 His current work research interests are in the areas of NMPC, Quadratic Programming, and differential geometry for motion representation and control. He currently develops novel control algorithms for quadrotors with cable-suspended payload by exploiting such tools as dual quaternions, differential flatness, and hybrid dynamics that enable higher performance of the system while improving safety anc stability.
 
