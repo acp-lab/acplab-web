@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Your current major 
-role: Undergraduate Student in Robotics Engineering and Electrical and Computer Engineering
+role: Robotics Engineering, Electrical and Computer Engineering
 
 # Organizations/Affiliations
 organizations:

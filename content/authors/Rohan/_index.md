@@ -14,12 +14,14 @@ authors:
 superuser: false
 
 # Your current major 
-role:  Robotics Engineering, Computer Science, Mathematics Minor
+role:  Robotics Engineering, Computer Science and Mathematics Minor
 
 # Organizations/Affiliations
 organizations:
   - name: Aerial-Robot Control and Perception (ACP) Lab, WPI
     url: 'https://www.wpi.edu/academics/departments/robotics-engineering/research/groups'
+  - name: High Powered Rocketry Club GNC Lead for Payload
+    url: 'https://mywpi.wpi.edu/hprc'
 
 # Short bio (displayed in user profile at end of posts)
 bio: "Undergraduate RBE/CS WPI 2027" 
