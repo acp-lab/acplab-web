@@ -34,11 +34,8 @@ interests:
 # Your education background
 education:
   courses:
-    - course: 
-      institution: 
-      year: 
-    - course: 
-      institution: 
+    - course: Mechanical Engineering & Robotics Engineering
+      institution: Worcester Polytechnic Institue, MA
       year: 
 
 # Social/Academic Networking

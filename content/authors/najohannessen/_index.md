@@ -33,7 +33,7 @@ interests:
 education:
   courses:
     - course: BS in Robotics & Mechanical Engineering
-      institution: WPI
+      institution: Worcester Polytechnic Institue, MA
       year: 2024
 
 # Social/Academic Networking

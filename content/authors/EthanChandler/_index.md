@@ -36,9 +36,6 @@ education:
     - course: MS in Robotics
       institution: Worcester Polytechnic Institue, MA
       year: 
-    - course: 
-      institution: 
-      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

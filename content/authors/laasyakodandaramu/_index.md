@@ -77,7 +77,6 @@ user_groups:
   
   
 ---
-# Put your little description here 
 My name is Laasya Kodandaramu, and I am a graduate student in Robotics Engineering here at Worcester Polytechnic Institute (WPI). 
 I hold a Bachelor's degree in Electronics and Communication Engineering, where I cultivated my interest in robotics and control systems. 
 During my undergraduate studies, I worked on a few projects, including developing a glue-dispensing application with a UR3 robot and implementing 
