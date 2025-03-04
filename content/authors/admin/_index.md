@@ -22,7 +22,6 @@ bio:
 
 interests:
   - Aerial Robotics
-  - 
 
 education:
   courses:

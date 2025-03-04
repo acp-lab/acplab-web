@@ -33,8 +33,8 @@ interests:
 # Your education background
 education:
   courses:
-    - course: 
-      institution: 
+    - course: MS in Robotics
+      institution: Worcester Polytechnic Institue, MA
       year: 
     - course: 
       institution: 
