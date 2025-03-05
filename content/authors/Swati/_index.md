@@ -18,17 +18,15 @@ role: MS in Robotics Engineering
 
 # Organizations/Affiliations
 organizations:
-  - name: Aerial-Robot Control and Perception (ACP) Lab, WPI
-    url: 'https://www.wpi.edu/academics/departments/robotics-engineering/research/groups'
+  - name: Worcester Polytechnic Institute
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests are Robot Control and Motion Planning.
 
 interests:
-  - Control Theory
-  - Safety Critical Control
-  - Optimal Control
   - Motion Planning
+  - Robot Control
 
 education:
   courses:
