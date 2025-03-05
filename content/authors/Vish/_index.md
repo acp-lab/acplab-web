@@ -8,7 +8,7 @@ last_name: Agrawal
 
 # Username (this should match the folder name)
 authors:
-    - Swati
+    - Vish
 
 # Is this the primary user of the site?
 superuser: false
