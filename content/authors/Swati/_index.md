@@ -32,11 +32,15 @@ education:
   courses:
     - course: MS in Robotics Engineering
       institution: Worcester Polytechnic Institute
-      year: 2022
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2023
+    - course: BTech in Electronics and Telecommunication
+      institution: Vishwakarma Institute of Technology, Pune, India
+      year: 2017
+    - course: Diploma in Electronics and Telecommunication
+      institution: Government Polytechnic Pune, India
+      year: 2014
 
+      
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
