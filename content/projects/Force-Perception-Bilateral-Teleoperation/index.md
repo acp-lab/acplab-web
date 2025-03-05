@@ -9,11 +9,13 @@ image:
   focal_point: Smart
   preview_only: false
 
-contact_links:
-  - icon: comments
-    icon_pack: fas
-    name: WPI Students Apply Here!
-    link: 'https://forms.office.com/r/8j6a3X5Uqt'
+sections:
+  - block: link
+    contact_links:
+    - icon: comments
+      icon_pack: fas
+      name: WPI Students Apply Here!
+      link: 'https://forms.office.com/r/8j6a3X5Uqt'
 
 reading_time: true
 profile: false
