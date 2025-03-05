@@ -3,7 +3,7 @@
 title: Swati Vishwanath Shirke
 
 # Full name (for SEO)
-first_name: Swati Vishwanath
+first_name: Swati
 last_name: Shirke
 
 # Username (this should match the folder name)
@@ -55,6 +55,7 @@ social:
   - icon: cv
     icon_pack: ai
     link:
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
