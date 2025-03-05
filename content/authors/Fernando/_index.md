@@ -29,7 +29,6 @@ interests:
   - Control Theory
   - Differential Geometry
   - Convex Optimization
-  - MPC
   
 
 # Your education background
