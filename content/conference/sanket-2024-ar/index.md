@@ -14,8 +14,8 @@ show_date: false
 publishDate: '2024-11-18T23:48:37.432694Z'
 publication_types:
 - paper-conference
-publication: '*IEEE International Conference on Robotics and Automation (ICRA 2024) (under review)*'
-summary: '*IEEE International Conference on Robotics and Automation (ICRA) (under review)*, 2025'
+publication: '*International Conference on Unmanned Aircraft Systems (ICUAS) (under review)*, 2025'
+summary: '*International Conference on Unmanned Aircraft Systems (ICUAS) (under review)*, 2025'
 
 links:
 

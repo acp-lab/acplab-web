@@ -11,8 +11,8 @@ show_date: false
 publishDate: '2024-11-18T23:48:37.432694Z'
 publication_types:
 - paper-conference
-publication: '*International Conference on Robotics and Automation (ICRA) (under review)*'
-summary: '*International Conference on Robotics and Automation (ICRA) (under review)*, 2025'
+publication: '*International Conference on Robotics and Automation (ICRA)*'
+summary: '*International Conference on Robotics and Automation (ICRA)*, 2025'
 
 links:
 
