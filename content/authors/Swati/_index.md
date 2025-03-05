@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Swati Vishwanath Shirke
+title: Dhruv Madhusudan Agrawal
 
 # Full name (for SEO)
-first_name: Swati
-last_name: Shirke
+first_name: Dhruv
+last_name: Agrawal
 
 # Username (this should match the folder name)
 authors:
@@ -26,10 +26,12 @@ bio: I am an MS student in Robotics Engineering at Worcester Polytechnic Institu
 
 # Your research interests keywords
 interests:
-    - Control Theory
-    - Safety Critical Control
-    - Optimal Control
-    - Motion Planning
+  - Robotics
+  - Control
+  - Perception
+  - Drones
+  - Mobile robots
+  - Path planning
   
 
 # Your education background
