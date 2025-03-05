@@ -75,6 +75,3 @@ user_groups:
 Swati Shirke is a Graduate Student Researcher with interest in Safety-Critical & Collaborative Control and Motion Planning. She received her BTech degree in Electronics and Telecommunication from VIT, Pune, India, in 2017. 
 At WPI, she conducted research on Safety-Critical Collaborative Control for Autonomous Vehicles using Deep Reinforcement Learning. Currently, she is working at ACP Lab, developing MPC-based collaborative control for payload aerial transportation using multiple quadrotors. Her work involves designing collision avoidance strategies for quadrotors, cable-suspended payloads, and obstacles by leveraging null space exploration with nonlinear constraints and Control Barrier Functions. 
 Additionally, she has implemented MPC-based trajectory control for Autonomous Vehicles using the Ackermann steering model and integrated it with the CARLA UE5.5 simulator. She has implemented motion planning algorithms, including A* and PRM, for Autonomous Vehicle parking and navigation, incorporating non-holonomic constraints and kinodynamic simulation.
-
-
-
