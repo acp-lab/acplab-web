@@ -26,7 +26,7 @@ bio: My research interests are Robot Control and Motion Planning.
 
 interests:
   - Control Theory
-  - Safety-Critical Control
+  - Safety Critical Control
   - Optimal Control
   - Motion Planning
 
