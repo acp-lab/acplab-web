@@ -1,6 +1,6 @@
 ---
 title: A Visual-Impedance Teleoperation Framework for Cooperative Aerial Manipulation of Cable-Suspended Payloads
-summary: None.
+summary: Description.
 date: '2024-12-05T20:07:33.626Z'
 featured: false
 
