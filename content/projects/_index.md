@@ -8,23 +8,7 @@ view: masonry
 banner:
   caption: ''
   image: ''
-  title: Contact
-      text: |-  
-        We welcome inquiries from prospective PhD candidates, Postdoctoral researchers, and Visiting Scholars. To apply, please email Prof. Guanrui Li, ensuring that your CV and academic transcripts are attached. If you have prior publications, kindly include a copy of your most significant work in the email.
-        
-        For WPI students interested in participating in student projects within the lab, please complete the application form linked below.
-
-        If you do not receive a response within two weeks, it is likely that your application is not being considered, or all current positions have been filled.
-
-      email: gli7@wpi.edu
-      address:
-        street: UH 246, Unity Hall, 100 Institute Road, Worcester Polytechnic Institute
-        city: Worcester
-        region: MA
-        postcode: '01609'
-        country: United States
-        country_code: US
-      appointment_url: ''
+  title:
       contact_links:
         - icon: comments
           icon_pack: fas
