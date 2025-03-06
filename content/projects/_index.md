@@ -8,5 +8,5 @@ view: masonry
 banner:
   caption: ''
   image: ''
-  title: ''
+  block: ''
 ---
