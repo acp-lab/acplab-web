@@ -9,7 +9,7 @@ image:
   focal_point: Smart
   preview_only: false
 
-sections:
+title:
   - block: link
     contact_links:
     - icon: comments
