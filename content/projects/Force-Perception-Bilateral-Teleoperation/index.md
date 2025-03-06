@@ -9,7 +9,7 @@ image:
   focal_point: Smart
   preview_only: false
 
-block: link
+block: 
     contact_links:
     - icon: comments
       icon_pack: fas
