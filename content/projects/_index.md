@@ -8,8 +8,7 @@ view: masonry
 banner:
   caption: ''
   image: ''
-
-sections:
+  sections:
   - block: contact
     content:
       title: Contact
@@ -48,4 +47,6 @@ sections:
           captcha: false
     design:
       columns: '1'
+
+
 ---
