@@ -8,10 +8,7 @@ view: masonry
 banner:
   caption: ''
   image: ''
-  sections:
-  - block: contact
-    content:
-      title: Contact
+  title: Contact
       text: |-  
         We welcome inquiries from prospective PhD candidates, Postdoctoral researchers, and Visiting Scholars. To apply, please email Prof. Guanrui Li, ensuring that your CV and academic transcripts are attached. If you have prior publications, kindly include a copy of your most significant work in the email.
         
@@ -33,20 +30,4 @@ banner:
           icon_pack: fas
           name: WPI Students Apply Here!
           link: 'https://forms.office.com/r/8j6a3X5Uqt'
-    
-      # Automatically link email and phone or display as text?
-      autolink: true
-    
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '1'
-
-
 ---
