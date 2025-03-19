@@ -46,7 +46,7 @@ sections:
           align: right
           background:
             image:
-              filename:  
+              filename: albums/test/lab.jpg
               filters:
                 brightness: 0.5
             position: center
