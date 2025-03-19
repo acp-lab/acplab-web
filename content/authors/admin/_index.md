@@ -14,7 +14,7 @@ role: Assistant Professor in Robotics Engineering
 
 # Organizations/Affiliations
 organizations:
-  - name: Worcester Polytechnic Institute, Robotics Engineering
+  - name: Worcester Polytechnic Institute
     url: 'https://www.wpi.edu/people/faculty/gli7'
 
 # Short bio (displayed in user profile at end of posts)
