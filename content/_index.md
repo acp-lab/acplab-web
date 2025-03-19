@@ -11,9 +11,7 @@ sections:
           align: center
           background:
             image:
-              # Specify an image from `assets/media/`
-              # or delete the image section to remove it
-              filename: 
+              filename: albums/test/aerial-manipulator.jpg
               filters:
                 brightness: 0.7
             position: right
