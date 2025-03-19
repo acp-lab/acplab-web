@@ -26,7 +26,7 @@ sections:
           align: center
           background:
             image:
-              filename: albums/test/human_robot_interaction_2.jpg
+              filename: albums/test/human_robot_interaction_2.png
               filters:
                 brightness: 0.7
             position: right
@@ -57,7 +57,7 @@ sections:
             text: Join Us
             url: contact/ 
         - title: __Meet Our Team__
-          content: A diverse and talented group of researchers dedicated to scientific excellence.
+          content: A talented group of researchers dedicated to scientific excellence.
           align: left
           background:
             image:
