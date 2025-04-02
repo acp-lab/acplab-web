@@ -80,4 +80,4 @@ user_groups:
   
   
 ---
-I am an MS student in Robotics Engineering at Worcester Polytechnic Institute, with a focus on, control systems, perception and path planning. My research interests lie in drone technology as well as mobile robots with real-time control and perception algorithms. My aim is to develop autonomous multi-robot systems capable of navigating in the real-world safely at high-speed. 
+Akshay Jaitly is interested in exploiting the geometric structure inherent in hard problems in robotics to come to elegant, mathematically sound, solutions. He has largely worked on problems regarding dynamic motion planning in unuderactuated systems. His most recent works have focused on creating polytopic approximations of sets of dynamically feasible actions to enable long-horizon feasible motion planning and on creating semi-algebraic approximations of contacting rigid bodies, leading to relaxations of single level, smooth contact-aware trajectory optimization.
