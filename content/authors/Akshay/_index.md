@@ -26,12 +26,10 @@ bio: I am an MS student in Robotics Engineering at Worcester Polytechnic Institu
 
 # Your research interests keywords
 interests:
-  - Robotics
-  - Control
-  - Perception
-  - Drones
-  - Mobile robots
-  - Path planning
+  - Algebraic Geometry
+  - Optimization Theory
+  - Trajectory Optimization
+  - Manipulation
   
 
 # Your education background
