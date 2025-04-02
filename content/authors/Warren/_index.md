@@ -26,12 +26,9 @@ bio: Warren Yun is an undergraduate student at WPI studying Robotics Engineering
 
 # Your research interests keywords
 interests:
-  - Robotics
-  - Control
-  - Perception
-  - Drones
-  - Mobile robots
-  - Path planning
+  - Optimal Control Theory
+  - Reinforcement Learning
+  - Nonlinear Dynamical Systems
   
 
 # Your education background
