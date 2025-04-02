@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Dhruv Madhusudan Agrawal
+title: Akshay Jaitly
 
 # Full name (for SEO)
 first_name: Akshay
-last_name: Agrawal
+last_name: Jaitly
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Your current major 
-role:  MS in Robotics Engineering
+role:  Visitng Researcher
 
 # Organizations/Affiliations
 organizations:
