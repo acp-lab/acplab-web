@@ -4,7 +4,7 @@ title: Akshay Jaitly
 
 # Full name (for SEO)
 first_name: Akshay
-last_name: Agrawal
+last_name: Jaitly
 
 # Username (this should match the folder name)
 authors:
