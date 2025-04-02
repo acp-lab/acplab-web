@@ -49,7 +49,7 @@ education:
 social:
   - icon: github
     icon_pack: fab
-    link: https://github.com/dhruv2603
+    link: https://github.com/Akshay5312
   - icon: linkedin
     icon_pack: fab
     link: https://linkedin.com/in/dhruv-agrawal-26mar
