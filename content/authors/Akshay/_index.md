@@ -63,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'akshayjaitly@hotmail.com'
+email: 'dagrawal@wpi.edu'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -76,7 +76,7 @@ email: 'akshayjaitly@hotmail.com'
 #     - Visiting Scholars
 #     - Alumni
 user_groups:
-  - Visiting Scholars
+  - Master's Students
   
   
 ---
