@@ -62,7 +62,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'wyun@wpi.edu'
+email: 'dagrawal@wpi.edu'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -75,8 +75,8 @@ email: 'wyun@wpi.edu'
 #     - Visiting Scholars
 #     - Alumni
 user_groups:
-  - Undergraduate Students
+  - Master's Students
   
   
 ---
-Warren Yun is an undergraduate student at WPI studying Robotics Engineering and Computer Science. His interests lie primarily in the intersection of optimization, control theory, and machine learning, and wishes to explore various methods of autonomously and efficiently controlling dynamical systems.
+I am an MS student in Robotics Engineering at Worcester Polytechnic Institute, with a focus on, control systems, perception and path planning. My research interests lie in drone technology as well as mobile robots with real-time control and perception algorithms. My aim is to develop autonomous multi-robot systems capable of navigating in the real-world safely at high-speed. 
