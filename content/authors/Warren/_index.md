@@ -14,14 +14,12 @@ authors:
 superuser: false
 
 # Your current major 
-role:  Undergraduate Student in Robotics Engineering, Computer Science
+role:  MS in Robotics Engineering
 
 # Organizations/Affiliations
 organizations:
   - name: Aerial-Robot Control and Perception (ACP) Lab, WPI
     url: 'https://www.wpi.edu/academics/departments/robotics-engineering/research/groups'
-  - name: Autonomous Loco-Manipulation Systems Group, WPI
-    url: 'https://almaswpi.github.io/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am an MS student in Robotics Engineering at Worcester Polytechnic Institute, with a focus on, control systems, perception and path planning. My research interests lie in drone technology as well as mobile robots with real-time control and perception algorithms. My aim is to develop autonomous multi-robot systems capable of navigating in the real-world safely at high-speed. 
