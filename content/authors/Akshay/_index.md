@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Akshay Jaitly
+title: Dhruv Madhusudan Agrawal
 
 # Full name (for SEO)
 first_name: Akshay
-last_name: Jaitly
+last_name: Agrawal
 
 # Username (this should match the folder name)
 authors:
