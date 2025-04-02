@@ -53,9 +53,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/akshay-jaitly-303a13212/
-  - icon: cv
-    icon_pack: ai
-    link: https://akshay-jaitly.weebly.com/resume.html
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
