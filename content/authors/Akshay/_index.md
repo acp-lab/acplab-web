@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dhruv Madhusudan Agrawal
+title: Akshay Jaitly
 
 # Full name (for SEO)
 first_name: Dhruv
