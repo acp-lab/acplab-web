@@ -22,7 +22,7 @@ organizations:
     url: 'https://www.wpi.edu/academics/departments/robotics-engineering/research/groups'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Warren Yun is an undergraduate student at WPI studying Robotics Engineering and Computer Science. His interests lie primarily in the intersection of optimization, control theory, and machine learning, and wishes to explore various methods of autonomously and efficiently controlling dynamical systems. In his free time, he loves to travel around the United States competing in hackathons.
+bio: Warren Yun is an undergraduate student at WPI studying Robotics Engineering and Computer Science. His interests lie primarily in the intersection of optimization, control theory, and machine learning, and wishes to explore various methods of autonomously and efficiently controlling dynamical systems. 
 
 # Your research interests keywords
 interests:
