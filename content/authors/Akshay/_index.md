@@ -37,10 +37,10 @@ education:
   courses:
     - course: Bachelors in Robotics Engineering
       institution: Worcester Polytechnic Institute
-      year: 2024 
-    - course: Master's in Robotics Engineering
-      institution: Worcester Polytechnic Institute
-      year: 2024
+      year: 2024-2026 
+    - course: B.Tech in Electronics and Communications Engineering
+      institution: Visvesvaraya National Institute of Technology
+      year: 2018-2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
