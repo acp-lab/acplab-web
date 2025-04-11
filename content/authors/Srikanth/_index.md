@@ -49,13 +49,7 @@ education:
 social:
   - icon: github
     icon_pack: fab
-    link: https://github.com/dhruv2603
-  - icon: linkedin
-    icon_pack: fab
-    link: https://linkedin.com/in/dhruv-agrawal-26mar
-  - icon: cv
-    icon_pack: ai
-    link: https://dhruv2603.github.io/assets/pdf/Resume_Dhruv_Agrawal.pdf
+    link: https://github.com/SrikanthNatarajan19
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'dagrawal@wpi.edu'
+email: 'snatarajan1@wpi.edu'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
