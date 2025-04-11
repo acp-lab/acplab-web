@@ -1,6 +1,6 @@
 ---
 title: 1 paper accepted by RA-L! 
-date: 2024-11-25
+date: 2025-04-07
 image:
   focal_point: 'top'
 ---
