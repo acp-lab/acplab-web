@@ -1,5 +1,5 @@
 ---
-title: 1 paper accepted by RAS! 
+title: 1 paper accepted by RA-S! 
 date: 2025-04-07
 image:
   focal_point: 'top'
