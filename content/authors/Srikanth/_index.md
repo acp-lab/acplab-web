@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dhruv Natarajan
+title: Srikanth Natarajan
 
 # Full name (for SEO)
 first_name: Srikanth
