@@ -35,12 +35,12 @@ interests:
 # Your education background
 education:
   courses:
-    - course: MS in Robotics
-      institution: Worcester Polytechnic Institue, MA
-      year: 2024-2026 
-    - course: B.Tech in Electronics and Communications Engineering
-      institution: Visvesvaraya National Institute of Technology
-      year: 2018-2022
+    - course: Robotics Engineering
+      institution: PSG College of Technology, Coimbatore, India
+      year: 2019-2023 
+    - course: Master's in Robotics Engineering
+      institution: Worcester Polytechnic Institute
+      year: 2024-2026
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
