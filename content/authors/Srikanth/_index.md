@@ -49,7 +49,13 @@ education:
 social:
   - icon: github
     icon_pack: fab
-    link: https://github.com/SrikanthNatarajan19
+    link: https://github.com/dhruv2603
+  - icon: linkedin
+    icon_pack: fab
+    link: https://linkedin.com/in/dhruv-agrawal-26mar
+  - icon: cv
+    icon_pack: ai
+    link: https://dhruv2603.github.io/assets/pdf/Resume_Dhruv_Agrawal.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
