@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Your current major 
-role:  MS in Robotics Engineering
+role:  Graduate student in Robotics Engineering
 
 # Organizations/Affiliations
 organizations:
