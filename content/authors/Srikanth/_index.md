@@ -26,12 +26,10 @@ bio: Srikanth Natarajan, he is a graduate student in robotics engineering, his a
 
 # Your research interests keywords
 interests:
-  - Robotics
-  - Control
-  - Perception
-  - Drones
-  - Mobile robots
-  - Path planning
+  - Control Theory
+  - Machine Learning and Deep Learning
+  - Computer Vision
+
   
 
 # Your education background
