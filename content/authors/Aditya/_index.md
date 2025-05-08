@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Your current major 
-role:  PhD Candidate in Robotics Engineering
+role: Ph.D. Student in Robotics Engineering 
 
 # Organizations/Affiliations
 organizations:
