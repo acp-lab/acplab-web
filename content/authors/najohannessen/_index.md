@@ -68,7 +68,7 @@ email: 'najohannessen@wpi.edu'
 #     - Visiting Scholars
 #     - Alumni
 user_groups:
-  - Master's Students
+  - Alumni
   
   
 ---
