@@ -14,7 +14,9 @@ authors:
 superuser: false
 
 # Your current major 
-role: Ph.D. in Robotics Engineering, MS in Computer Science at NYU
+role: 
+  - Ph.D. in Robotics Engineering
+  - MS in Computer Science at NYU
 
 # Organizations/Affiliations
 organizations:
