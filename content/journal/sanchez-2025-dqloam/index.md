@@ -1,9 +1,9 @@
 ---
 title: DualQuat-LOAM LiDAR Odometry and Mapping parametrized on Dual Quaternions
 authors:
-#- Edison P. Velasco-Sanchez
+- Edison P. Velasco-Sanchez
 #- Luis F. Recalde
-- Guanrui Li
+#- Guanrui Li
 #- Francisco A. Candelas-Herias
 #- Santiago T. Puente-Mendez
 #- Fernando Torres-Medina
