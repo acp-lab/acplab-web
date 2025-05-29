@@ -1,6 +1,6 @@
 ---
 title: Prof. Guanrui Li Organized the Workshop on Embodied-AI for Aerial Robots at ICUAS 2025
-date: 2025-05-17
+date: 2025-05-23
 image:
   focal_point: 'top'
 ---
