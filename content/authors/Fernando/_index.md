@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Your current major 
-role:  Ph.D. in Robotics Engineering, \n MS in Control Systems Engineering at the National University of San Juan
+role:  Ph.D. in Robotics Engineering
 
 # Organizations/Affiliations
 organizations:
