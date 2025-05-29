@@ -9,7 +9,7 @@ author_notes:
 - "Equal contribution"
 date: '2025-01-01'
 show_date: false
-publishDate: '2025-01-08T23:48:37.409283Z'
+publishDate: '2025-01-01T23:48:37.409283Z'
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Robotics (T-RO)*'
