@@ -1,6 +1,6 @@
 ---
 title: Prof. Guanrui Li Organized the Workshop on Rust for Robotics at ICRA 2025
-date: 2025-05-23
+date: 2025-05-19
 image:
   focal_point: 'top'
 ---
