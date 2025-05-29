@@ -9,7 +9,7 @@ authors:
 #- Fernando Torres-Medina
 date: '2025-01-01'
 show_date: false
-publishDate: '2025-02-03T23:48:37.397281Z'
+publishDate: '2025-01-01T23:48:37.397281Z'
 publication_types:
 - article-journal
 publication: '*Robotics and Autonomous Systems*'
