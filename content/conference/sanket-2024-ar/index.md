@@ -14,8 +14,8 @@ show_date: false
 publishDate: '2024-11-18T23:48:37.432694Z'
 publication_types:
 - paper-conference
-publication: '*International Conference on Unmanned Aircraft Systems (ICUAS) *, 2025'
-summary: '*International Conference on Unmanned Aircraft Systems (ICUAS) *, 2025'
+publication: '*International Conference on Unmanned Aircraft Systems (ICUAS)*, 2025'
+summary: '*International Conference on Unmanned Aircraft Systems (ICUAS)*, 2025'
 
 links:
 
