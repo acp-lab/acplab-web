@@ -76,7 +76,7 @@ email: 'akshayjaitly@hotmail.com'
 #     - Visiting Scholars
 #     - Alumni
 user_groups:
-  - Master's Students
+  - Researchers
   
   
 ---
