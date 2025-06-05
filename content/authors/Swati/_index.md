@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MS in Robotics Engineering  
+role: MS in RBE, Now at Rivian 
 
 # Organizations/Affiliations
 organizations:

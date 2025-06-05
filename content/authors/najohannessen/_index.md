@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Your current major 
-role:  MS in Robotics Engineering, Now at Amazon
+role:  MS in RBE, Now at Amazon
 
 # Organizations/Affiliations
 organizations:
