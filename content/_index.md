@@ -60,8 +60,8 @@ sections:
           content: A talented group of researchers dedicated to scientific excellence.
           align: left
           background:
-            image: albums/test/lab_group_photos.jpg
-              filename: 
+            image: 
+              filename: albums/test/lab_group_photos.jpg
               filters:
                 brightness: 0.4
             position: center
