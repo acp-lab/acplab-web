@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dhruv Madhusudan Agrawal
+title: Arthur Huang
 
 # Full name (for SEO)
 first_name: Dhruv
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Your current major 
-role:  MS in Robotics Engineering
+role:  Bachelor’s in Computer Science and Electrical Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -78,7 +78,7 @@ email: 'dagrawal@wpi.edu'
 #     - Visiting Scholars
 #     - Alumni
 user_groups:
-  - Master's Students
+  - Researchers
   
   
 ---
