@@ -22,27 +22,21 @@ organizations:
     url: 'https://www.wpi.edu/academics/departments/robotics-engineering/research/groups'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an MS student in Robotics Engineering at Worcester Polytechnic Institute, with a focus on, control systems, perception and path planning. My research interests lie in drone technology as well as mobile robots with real-time control and perception algorithms. My aim is to develop autonomous multi-robot systems capable of navigating in the real-world safely at high-speed. 
+bio: I am a visiting undergraduate researcher from Northeastern University who is studying computer science and electrical engineering. My interests lie in navigation optimization and control theory. In his free time, he enjoys golfing, skiing and cooking. . 
 
 # Your research interests keywords
 interests:
-  - Robotics
-  - Control
-  - Perception
-  - Drones
-  - Mobile robots
-  - Path planning
+  - Navigation
+  - Optimization
+  - Control theory
   
 
 # Your education background
 education:
   courses:
-    - course: MS in Robotics
-      institution: Worcester Polytechnic Institue, MA
+    - course: Computer Science and Electrical Engineering
+      institution: Northeastern University
       year: 2024-2026 
-    - course: B.Tech in Electronics and Communications Engineering
-      institution: Visvesvaraya National Institute of Technology
-      year: 2018-2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
