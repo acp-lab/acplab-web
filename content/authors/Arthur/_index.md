@@ -73,4 +73,4 @@ user_groups:
   
   
 ---
-I am a visiting undergraduate researcher from Northeastern University who is studying computer science and electrical engineering. My interests lie in navigation optimization and control theory. In his free time, he enjoys golfing, skiing and cooking.
+I am a visiting undergraduate researcher from Northeastern University who is studying computer science and electrical engineering. My interests lie in navigation optimization and control theory. In my free time, I enjoy golfing, skiing and cooking.
