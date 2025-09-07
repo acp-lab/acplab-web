@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Luis Fernando Recalde
+title: Youngzee Liu
 
 # Full name (for SEO)
-first_name: Luis Fernando
-last_name: Recalde
+first_name: Yanze
+last_name: Liu
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Your current major 
-role:  Ph.D. in Robotics Engineering
+role:  Ph.D. Student in Robotics Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -22,23 +22,22 @@ organizations:
     url: 'https://www.wpi.edu/academics/departments/robotics-engineering/research/groups'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Luis F. Recalde is a robotics researcher, specializing in advanced control algorithms for autonomous systems. He received his Mechatronics degree from the University of the Armed Forces - ESPE, Ecuador in 2021, and his master's degree in Control Systems Engineering at the National University of San Juan, Argentina in 2024. His current work research interests are in the areas of NMPC, Quadratic Programming, and differential geometry for motion representation and control. He currently develops novel control algorithms for quadrotors with cable-suspended payload by exploiting such tools as dual quaternions, differential flatness, and hybrid dynamics that enable higher performance of the system while improving safety anc stability.
+bio: Youngzee Liu is a robotics researcher, specializing in optimization-based control theory and its application. He received his Bachelor of Engineering degree in Automation from the Beijing University of Chemical Technology in 2021, and his Master of Science degree in Mechanical Engineering at the University of Wisconsin-Madison in 2024. His current work research interests are in the areas of safety in robotics and machine learning. 
 
 # Your research interests keywords
 interests:
-  - Control Theory
-  - Differential Geometry
-  - Convex Optimization
+  - Optimization-based Control
+  - Machine Learning
   
 
 # Your education background
 education:
   courses:
-    - course: Mechatronics Engineering
-      institution: Universidad de las Fuerzas Armadas ESPE, Ecuador
+    - course: Bachelor of Engineering
+      institution: Beijing University of Chemical Technology
       year: 2021 
-    - course: Master's in Control Systems Engineering
-      institution: National University of San Juan, Argentina
+    - course: Master of Science
+      institution: Univeristy of Wisconsin-Madison
       year: 2024
 
 # Social/Academic Networking
@@ -48,10 +47,10 @@ education:
 social:
   - icon: github
     icon_pack: fab
-    link: https://github.com/lfrecalde1
+    link: https://github.com/lyz2d
   - icon: linkedin
     icon_pack: fab
-    link: 
+    link: https://www.linkedin.com/in/yanze-liu2d/
   - icon: cv
     icon_pack: ai
     link:
@@ -62,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'lfrecalde@wpi.edu'
+email: 'yliu43@wpi.edu'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -79,8 +78,6 @@ user_groups:
   
   
 ---
-Luis F. Recalde is a robotics researcher specializing in advanced control algorithms for autonomous systems. Before joining WPI, he was a visiting researcher in the Agile Robotics and Perception Lab at NYU.
-
-He received his Mechatronics degree from the University of the Armed Forces - ESPE, Ecuador in 2021, and his master's degree in Control Systems Engineering at the National University of San Juan, Argentina in 2024.
-His current work research interests are in the areas of NMPC, Quadratic Programming, and differential geometry for motion representation and control. He currently develops novel control algorithms for quadrotors with cable-suspended payload by exploiting such tools as dual quaternions, differential flatness, and hybrid dynamics that enable higher performance of the system while improving safety anc stability.
+Youngzee Liu is a robotics researcher, specializing in optimization-based control theory and its application. He received his Bachelor of Engineering degree in Automation from the Beijing University of Chemical Technology in 2021, and his Master of Science degree in Mechanical Engineering at the University of Wisconsin-Madison in 2024. His current work research interests are in the areas of safety in robotics and machine learning. 
+His current work research interests are in the areas of safety problems in robotoics and machine learning. 
 
