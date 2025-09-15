@@ -22,39 +22,33 @@ organizations:
     url: 'https://www.wpi.edu/academics/departments/robotics-engineering/research/groups'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Aditya Azad is a PhD candidate at WPI studying Robotics Engineering. His research interests lie in UAV Swarm Dynamics, preception, real-time operating systems, and sensor fusion with a focus on quadrotors. In his free time he enjoys painting, hiking, reading and building full-stack applications.
+bio: Aditya Azad is a PhD candidate at WPI studying Robotics Engineering. His research interests lie in UAV Swarm Dynamics, preception, contro, and sensor fusion with a focus on quadrotors. In his free time he enjoys painting, hiking, reading and building full-stack applications.
 
 # Your research interests keywords
 interests:
   - UAV Swarm Dynamics
-  - Real-Time Operating Systems
   - Perception
   - Sensor Fusion
+  - Control
 
 # Your education background
 education:
   courses:
-    - course: Hands-On Autonomous Aerial Robotics
-      institution: Worcester Polytechnic Institute, Worcester MA
+    - course: Master of Science, Computer Science
+      institution: New York University, New York NY
       year: 2025
-    - course: Foundations Of Robotics
-      institution: Worcester Polytechnic Institute, Worcester MA
-      year: 2025
+    - course: Bachelor of Science, Computer Science
+      institution: Purdue University, West Lafayette IN
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: globe-alt
-    icon_pack: hero
+  - icon: globe
+    icon_pack: fas
     link: https://adityaazad.com
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'aazad@wpi.edu'
@@ -72,4 +66,4 @@ email: 'aazad@wpi.edu'
 user_groups:
   - PhD Students
 ---
-Aditya Azad is a PhD candidate at WPI studying Robotics Engineering. His research interests lie in UAV Swarm Dynamics, preception, real-time operating systems, and sensor fusion with a focus on quadrotors. In his free time he enjoys painting, hiking, reading and building full-stack applications.
+Aditya Azad is a PhD candidate at WPI studying Robotics Engineering. His research interests lie in UAV Swarm Dynamics, preception, control, and sensor fusion with a focus on quadrotors. In his free time he enjoys painting, hiking, reading and building full-stack applications.
