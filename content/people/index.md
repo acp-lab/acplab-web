@@ -14,9 +14,9 @@ sections:
           - Principal Investigator
           - Post Docs
           - PhD Students
+          - Research Engineers
           - Researchers
           - Master's Students
-          - Research Engineers
           - Undergraduate Students
           - Visiting Scholars
           - Alumni
