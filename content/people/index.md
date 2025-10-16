@@ -16,6 +16,7 @@ sections:
           - PhD Students
           - Researchers
           - Master's Students
+          - Research Engineers
           - Undergraduate Students
           - Visiting Scholars
           - Alumni
