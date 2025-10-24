@@ -14,8 +14,6 @@ publication: '*IEEE Robotics and Automation Letters (RA-L)*'
 summary: '*IEEE Robotics and Automation Letters (RA-L)*, 2025'
 
 links:
-- name: "IEEE Xplore"
-  url: "https://ieeexplore.ieee.org/abstract/document/11206451"
 
 url_pdf: https://arxiv.org/pdf/2510.11525.pdf
 url_code: 'https://github.com/acp-lab/dq_nmpc'
