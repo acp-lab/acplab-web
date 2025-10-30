@@ -21,6 +21,16 @@ sections:
             icon_pack: fas
             text: Explore Our Research
             url: publication/
+        - title: ES-HPC-MPC has been accepted to RA-L!
+          content:  
+          align: center
+          background:
+            image:
+              filename: albums/test/es_hpc_mpc.png
+              filters:
+                brightness: 0.7
+            position: right
+            color: '#666'     
         - title: DQ-NMPC has been accepted to RA-L!
           content:  
           align: center
