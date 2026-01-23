@@ -71,7 +71,7 @@ email: 'eechandler@wpi.edu'
 #     - Visiting Scholars
 #     - Alumni
 user_groups:
-  - Research Engineers
+  - PhD Students
   
 ---
-I am a Robotics Master's student at WPI with an interest in model-based optimal control for legged robot loco-manipulation problems. My current work includes development of Galileo (https://github.com/echandler5956f/Galileo), a structure-exploiting pseudospectral collocation solver for switched systems. My interests lie at the intersection of classic numerical methods and optimal control theory, particularly for interesting (e.g., underactuated, constrained, nonlinear and/or hybrid) systems, such as legged robots or quadrotors.
+I am a Robotics PhD student at WPI with an interest in model-based optimal control for legged robot loco-manipulation problems. My current work includes development of Galileo (https://github.com/echandler5956f/Galileo), a structure-exploiting pseudospectral collocation solver for switched systems. My interests lie at the intersection of classic numerical methods and optimal control theory, particularly for interesting (e.g., underactuated, constrained, nonlinear and/or hybrid) systems, such as legged robots or quadrotors.
