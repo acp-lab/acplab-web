@@ -28,7 +28,7 @@ bio: "MS RBE WPI 2027"
 interests:
   - Perception
   - Safety 
-  - Control Systems
+  - Controls 
  
 
 # Your education background
@@ -38,7 +38,7 @@ education:
       institution: SRM University, Chennai, India
       year: 2023
     - course: Master of Science, Robotics
-      institution: SRM University, Chennai, India
+      institution: WPI, Worcester, USA
       year: 2027
 
 # Social/Academic Networking
@@ -79,4 +79,4 @@ user_groups:
   
   
 ---
-I’m a Master’s student in Robotics at Worcester Polytechnic Institute. I have two years of professional experience as a robotics software engineer, developing mapping and navigation capabilities for mobile robots. In my current work with the ACP Lab, I study the integration of perception, safety, and control to enable high-performance autonomy while maintaining rigorous safety guarantees. My goal is to advance agile drone flight for real-world across domains.
+I’m a Master’s student in Robotics at Worcester Polytechnic Institute. With two years of professional experience as a robotics software engineer, developing autonomous navigation capabilities for mobile robots. In my current work with the ACP Lab, I study the integration of perception, and control domains to enable high-performance autonomy while maintaining rigorous safety guarantees. My goal is to advance agile drone flight for real-world across fields.
