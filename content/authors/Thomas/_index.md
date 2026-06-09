@@ -74,7 +74,7 @@ social:
 #     - Visiting Scholars
 #     - Alumni
 user_groups:
-  - Visiting Scholars
+  - Researchers
   
   
 ---
