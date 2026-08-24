@@ -22,7 +22,7 @@ organizations:
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Robotics Master's student at WPI with an interest in model-based optimal control for legged robot loco-manipulation problems. My current work includes development of Galileo, a structure-exploiting pseudospectral collocation solver for switched systems. My interests lie at the intersection of classic numerical methods and optimal control theory, particularly for interesting (e.g., underactuated, constrained, nonlinear and/or hybrid) systems, such as legged robots or quadrotors.
+bio: I am a PhD student at WPI with an interest in model-based optimal control for legged robot loco-manipulation problems. My current work includes development of Galileo, a structure-exploiting pseudospectral collocation solver for switched systems. My interests lie at the intersection of classic numerical methods and optimal control theory, particularly for interesting (e.g., underactuated, constrained, nonlinear and/or hybrid) systems, such as legged robots or quadrotors.
 
 # Your research interests keywords
 interests:
@@ -33,9 +33,9 @@ interests:
 # Your education background
 education:
   courses:
-    - course: MS in Robotics
+    - course: Master of Science, Robotics Engineering
       institution: Worcester Polytechnic Institue, MA
-      year: 
+      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -74,4 +74,4 @@ user_groups:
   - PhD Students
   
 ---
-I am a Robotics PhD student at WPI with an interest in model-based optimal control for legged robot loco-manipulation problems. My current work includes development of Galileo (https://github.com/echandler5956f/Galileo), a structure-exploiting pseudospectral collocation solver for switched systems. My interests lie at the intersection of classic numerical methods and optimal control theory, particularly for interesting (e.g., underactuated, constrained, nonlinear and/or hybrid) systems, such as legged robots or quadrotors.
+I am a PhD student at WPI with an interest in model-based optimal control for legged robot loco-manipulation problems. My current work includes development of Galileo (https://github.com/echandler5956f/Galileo), a structure-exploiting pseudospectral collocation solver for switched systems. My interests lie at the intersection of classic numerical methods and optimal control theory, particularly for interesting (e.g., underactuated, constrained, nonlinear and/or hybrid) systems, such as legged robots or quadrotors.
