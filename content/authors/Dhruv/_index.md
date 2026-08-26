@@ -78,8 +78,6 @@ email: 'dagrawal@wpi.edu'
 #     - Visiting Scholars
 #     - Alumni
 user_groups:
-  - Master's Students
-  
-  
+  - Alumni
 ---
 I am an MS student in Robotics Engineering at Worcester Polytechnic Institute, with a focus on, control systems, perception and path planning. My research interests lie in drone technology as well as mobile robots with real-time control and perception algorithms. My aim is to develop autonomous multi-robot systems capable of navigating in the real-world safely at high-speed. 

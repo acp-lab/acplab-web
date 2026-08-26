@@ -68,16 +68,9 @@ email: 'akshayjaitly@hotmail.com'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 # options: 
-# user_groups:
-#     - Researchers
-#     - PhD Students
-#     - Master's Students
-#     - Undergraduate Students
-#     - Visiting Scholars
-#     - Alumni
 user_groups:
-  - Researchers
-  
-  
+  - Alumni
+
+
 ---
 Akshay Jaitly is interested in exploiting the geometric structure inherent in hard problems in robotics to come to elegant, mathematically sound, solutions. He has largely worked on problems regarding dynamic motion planning in unuderactuated systems. His most recent works have focused on creating polytopic approximations of sets of dynamically feasible actions to enable long-horizon feasible motion planning and on creating semi-algebraic approximations of contacting rigid bodies, leading to relaxations of single level, smooth contact-aware trajectory optimization.

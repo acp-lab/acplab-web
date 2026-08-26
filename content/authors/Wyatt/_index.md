@@ -50,7 +50,7 @@ social:
     link: mailto:wbbinnard@wpi.edu
 
 user_groups:
-  - Master's Students
+  - Alumni
 
 ---
 <A short personal bio, feel free to expand upon your background, education and interests> I’m a mechanical engineer interested in Controls Engineering.

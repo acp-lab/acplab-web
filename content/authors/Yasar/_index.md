@@ -72,8 +72,6 @@ email: 'yidikut@wpi.edu'
 #     - Visiting Scholars
 #     - Alumni
 user_groups:
-  - Master's Students
-  
-  
+  - Alumni
 ---
 Yaşar is an M.S. student in Robotics Engineering at Worcester Polytechnic Institute (WPI). His current research focuses on applying Control Barrier Functions (CBFs) to aerial drones. He previously earned his B.S. in Computer Science and Robotics Engineering at WPI, completing his capstone project on Multi-Robot Persistent Coverage Under Fuel and Stochastic Failure Constraints, which explored algorithms for multi-robot coverage under battery and failure limitations through simulation and real-world demonstrations. Outside of research, he has worked as a freelance software engineer, developing solutions ranging from cloud infrastructure to computer vision systems.
