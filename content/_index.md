@@ -21,6 +21,22 @@ sections:
             icon_pack: fas
             text: Explore Our Research
             url: publication/
+        - title: Agile Quadrotor Flights
+          content:
+          align: center
+          background:
+            image:
+              filename: albums/test/vertical-loop.gif
+              size: contain
+              filters:
+                brightness: 0.7
+            position: center
+            color: '#000'
+          link:
+            icon: book-open-reader
+            icon_pack: fas
+            text: Learn More
+            url: projects/differential-simulator-perceptive-collision/
         - title: ES-HPC-MPC has been accepted to RA-L!
           content:  
           align: center
