@@ -202,20 +202,22 @@ sections:
   #   design:
   #     columns: '1'  
 
-  - block: tag_cloud
+  - block: sponsors
+    id: sponsors
     content:
-      title: Popular Topics
-      # subtitle: My subtitle
-      # text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-      # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
-      taxonomy: tags
-      # Choose how many tags you would like to display (0 = all tags)
-      count: 20
+      title: Our Sponsors
+      subtitle: We gratefully acknowledge the support of our sponsors.
+      sponsors:
+        - name: National Science Foundation
+          image: logos/nsf.png
+          url: https://www.nsf.gov/
+        - name: Amazon Robotics
+          image: logos/amazon-robotics.png
+          url: https://www.amazon.science/research-areas/robotics
     design:
-      # Minimum and maximum font sizes (1.0 = 100%).
-      font_size_min: 1.0
-      font_size_max: 2
       columns: '1'
+      logo_height: 96px
+
   # - block: markdown
   #   content:
   #     title: Gallery

@@ -1,0 +1,25 @@
+{{/* Custom block: sponsor logos.
+     Configure via `content.sponsors`: a list of { name, image (relative to assets/media/), url }.
+     Optional `design.logo_height` (CSS length, default 90px). */}}
+{{ $block := .wcBlock }}
+{{ $height := $block.design.logo_height | default "90px" }}
+
+<style>
+  .wg-sponsors .sponsor-row { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 2.5rem 4rem; padding: 1rem 0 0.5rem; }
+  .wg-sponsors .sponsor-logo { display: inline-flex; align-items: center; justify-content: center; transition: transform 0.2s ease, opacity 0.2s ease; opacity: 0.95; }
+  .wg-sponsors .sponsor-logo:hover { transform: translateY(-2px); opacity: 1; }
+  .wg-sponsors .sponsor-logo img { height: {{ $height }}; width: auto; max-width: 320px; object-fit: contain; }
+  @media (max-width: 575px) { .wg-sponsors .sponsor-logo img { height: calc({{ $height }} * 0.75); } .wg-sponsors .sponsor-row { gap: 2rem 2.5rem; } }
+</style>
+
+<div class="col-12">
+  <div class="sponsor-row">
+    {{ range $block.content.sponsors }}
+      {{ $img := resources.Get (printf "media/%s" .image) }}
+      {{ if not $img }}{{ errorf "Sponsors block: couldn't find `%s` in the `assets/media/` folder." .image }}{{ end }}
+      {{ if .url }}<a class="sponsor-logo" href="{{ .url }}" target="_blank" rel="noopener" title="{{ .name }}">{{ else }}<span class="sponsor-logo" title="{{ .name }}">{{ end }}
+        <img src="{{ $img.RelPermalink }}" alt="{{ .name }}" loading="lazy">
+      {{ if .url }}</a>{{ else }}</span>{{ end }}
+    {{ end }}
+  </div>
+</div>
