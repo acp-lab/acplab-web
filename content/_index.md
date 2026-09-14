@@ -20,7 +20,7 @@ sections:
             icon: book-open-reader #graduation-cap
             icon_pack: fas
             text: Explore Our Research
-            url: publication/
+            url: research/
         - title: Agile Quadrotor Flights
           content:
           align: center
@@ -36,7 +36,7 @@ sections:
             icon: book-open-reader
             icon_pack: fas
             text: Learn More
-            url: projects/differential-simulator-perceptive-collision/
+            url: research/
         - title: ES-HPC-MPC has been accepted to RA-L!
           content:  
           align: center
