@@ -77,7 +77,7 @@ email: 'rninamdar@wpi.edu'
 #     - Visiting Scholars
 #     - Alumni
 user_groups:
-  - Undergraduate Students
+  - Alumni
   
   
 ---
