@@ -36,4 +36,6 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
+categories:
+- Multi-Robot Collaboration
 ---

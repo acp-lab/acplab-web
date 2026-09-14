@@ -1,0 +1,9 @@
+{{/* Renders one pillar icon. Context: a pillar dict with `icon` and optional `icon_pack`.
+     `custom` inlines assets/media/icons/<icon>.svg so it can use currentColor; anything else is a Font Awesome class. */}}
+{{- $pack := .icon_pack | default "fas" -}}
+{{- if eq $pack "custom" -}}
+  {{- $svg := resources.Get (printf "media/icons/%s.svg" .icon) -}}
+  {{- if $svg -}}{{ $svg.Content | safeHTML }}{{- else -}}{{ errorf "Pillars block: couldn't find `assets/media/icons/%s.svg`." .icon }}{{- end -}}
+{{- else -}}
+  <i class="{{ $pack }} fa-{{ .icon }}"></i>
+{{- end -}}

@@ -24,4 +24,7 @@ url_project: 'https://mrunaljsarvaiya.github.io/polyfly.github.io/'
 #url_source: '#'
 url_video: https://youtu.be/a6Wj28tFZEU
 
+categories:
+- Agility Intelligence and Safety
+- Aerial Physical Intelligence
 ---

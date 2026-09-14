@@ -32,4 +32,7 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
+categories:
+- Aerial Physical Intelligence
+- Multi-Robot Collaboration
 ---
