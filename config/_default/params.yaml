@@ -45,12 +45,30 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Guanrui Li. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
+  # Social links shown as an icon row above the copyright line (see layouts/partials/components/footers/minimal.html)
+  social:
+    - icon: youtube
+      icon_pack: fab
+      name: YouTube
+      link: https://www.youtube.com/@ACPLab-wpi
+    - icon: github
+      icon_pack: fab
+      name: GitHub
+      link: https://github.com/acp-lab
+    - icon: google-scholar
+      icon_pack: ai
+      name: Google Scholar
+      link: https://scholar.google.com/citations?user=v_bUoRAAAAAJ&hl=en
+    - icon: envelope
+      icon_pack: fas
+      name: Email
+      link: mailto:gli7@wpi.edu
 
 # Localization
 

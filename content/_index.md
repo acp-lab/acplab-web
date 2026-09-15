@@ -37,6 +37,21 @@ sections:
             icon_pack: fas
             text: Learn More
             url: research/
+        - title: Watch Our Robots in Action
+          content: Flight experiments and demos on the ACP Lab YouTube channel.
+          align: center
+          background:
+            image:
+              filename: albums/test/multi-robots.jpg
+              filters:
+                brightness: 0.6
+            position: center
+            color: '#333'
+          link:
+            icon: youtube
+            icon_pack: fab
+            text: Watch on YouTube
+            url: https://www.youtube.com/@ACPLab-wpi
         - title: ES-HPC-MPC has been accepted to RA-L!
           content:  
           align: center
