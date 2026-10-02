@@ -1,0 +1,26 @@
+# ACP theme for the ACP Lab site.
+# Accent is the deep navy sampled from the lab logo (assets/media/logo.png, #0B2A4A).
+# To use: set `appearance.theme_day: acp` in config/_default/params.yaml.
+# The alternative WPI crimson theme lives in data/themes/wpi.toml.
+name = "ACP"
+
+[light]
+  # Primary (logo navy)
+  primary = "#0B2A4A"
+
+  # Menu
+  menu_primary = "#fff"
+  menu_text = "#3a4250"
+  menu_text_active = "#0B2A4A"
+  menu_title = "#22293a"
+
+  # Home sections (cool neutrals to match the navy)
+  home_section_odd = "rgb(252, 253, 254)"
+  home_section_even = "rgb(243, 246, 249)"
+
+[dark]
+  # Logo navy lightened for contrast on dark backgrounds
+  primary = "#7ea6d4"
+
+  link = "#7ea6d4"
+  link_hover = "#a7c5e6"

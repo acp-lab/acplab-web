@@ -3,7 +3,7 @@
 title: Prof. Guanrui Li
 
 # Full Name (for SEO)
-first_name: Gunarui
+first_name: Guanrui
 last_name: Li
 
 # Is this the primary user of the site?

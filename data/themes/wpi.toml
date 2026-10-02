@@ -1,0 +1,24 @@
+# WPI theme for the ACP Lab site.
+# Accent is official WPI Crimson (Pantone 187C, #AC2B37) per WPI visual identity standards.
+name = "WPI"
+
+[light]
+  # Primary
+  primary = "#AC2B37"
+
+  # Menu
+  menu_primary = "#fff"
+  menu_text = "#3a3f45"
+  menu_text_active = "#AC2B37"
+  menu_title = "#2b2b2b"
+
+  # Home sections (warm neutrals rather than pure white/gray)
+  home_section_odd = "rgb(253, 252, 251)"
+  home_section_even = "rgb(246, 244, 242)"
+
+[dark]
+  # Crimson lightened for contrast on dark backgrounds
+  primary = "#de6b76"
+
+  link = "#de6b76"
+  link_hover = "#eb959d"

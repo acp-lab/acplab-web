@@ -1,158 +1,64 @@
 ---
-title: ACP Lab 
+title: ACP Lab
 type: landing
 
 sections:
-  - block: slider
+  # Full-screen looping lab footage. To refresh: replace static/media/hero.mp4 and
+  # static/media/hero-poster.jpg (H.264 MP4, muted, keep under ~8 MB).
+  - block: video-hero
+    id: hero
     content:
-      slides:
-        - title: 👋 Welcome to the ACP Lab
-          content: Take a look at what we're working on...
-          align: center
-          background:
-            image:
-              filename: albums/test/aerial-manipulator.jpg
-              filters:
-                brightness: 0.7
-            position: right
-            color: '#666'
-          link:
-            icon: book-open-reader #graduation-cap
-            icon_pack: fas
-            text: Explore Our Research
-            url: research/
-        - title: Agile Quadrotor Flights
-          content:
-          align: center
-          background:
-            image:
-              filename: albums/test/vertical-loop.gif
-              size: contain
-              filters:
-                brightness: 0.7
-            position: center
-            color: '#000'
-          link:
-            icon: book-open-reader
-            icon_pack: fas
-            text: Learn More
-            url: research/
-        - title: Watch Our Robots in Action
-          content: Flight experiments and demos on the ACP Lab YouTube channel.
-          align: center
-          background:
-            image:
-              filename: albums/test/multi-robots.jpg
-              filters:
-                brightness: 0.6
-            position: center
-            color: '#333'
-          link:
-            icon: youtube
-            icon_pack: fab
-            text: Watch on YouTube
-            url: https://www.youtube.com/@ACPLab-wpi
-        - title: ES-HPC-MPC has been accepted to RA-L!
-          content:  
-          align: center
-          background:
-            image:
-              filename: albums/test/es_hpc_mpc.png
-              filters:
-                brightness: 0.7
-            position: right
-            color: '#666'     
-        - title: DQ-NMPC has been accepted to RA-L!
-          content:  
-          align: center
-          background:
-            image:
-              filename: albums/test/dqnmpc.png
-              filters:
-                brightness: 0.7
-            position: right
-            color: '#666'     
-        - title: HPA-MPC has been accepted to RA-L!
-          content:  
-          align: center
-          background:
-            image:
-              filename: albums/test/human_robot_interaction_2.png
-              filters:
-                brightness: 0.7
-            position: right
-            color: '#666'        
-        - title: Human-Aware Physical Human-Robot Collaborative Transportation and Manipulation with Multiple Aerial Robots Has Been Accepted by T-RO!
-          content: 
-          align: left
-          background:
-            image:
-              filename: albums/test/human-multi-robot-interaction.jpg
-              filters:
-                brightness: 0.7
-            position: center
-            color: '#555'
-        - title: ACP Lab
-          content: 'Just opened!'
-          align: right
-          background:
-            image:
-              filename: albums/test/lab.jpg
-              filters:
-                brightness: 0.5
-            position: center
-            color: '#333'
-          link:
-            icon: graduation-cap
-            icon_pack: fas
-            text: Join Us
-            url: contact/ 
-        - title: __Meet Our Team__
-          content: A talented group of researchers dedicated to scientific excellence.
-          align: left
-          background:
-            image: 
-              filename: albums/test/lab_group_photos.jpg
-              filters:
-                brightness: 0.4
-            position: center
-            color: '#555'
-          link:
-            icon: graduation-cap
-            icon_pack: fas
-            text: Meet Our Team
-            url: people/
-        #- title: Meet Our Robots
-        #  content: 'Uniquely equipped to support groundbreaking discoveries.'
-        #  align: right
-        #  background:
-        #    image:
-        #      filename: 
-        #      filters:
-        #        brightness: 0.4
-        #    position: center
-        #    color: '#555'
-        #  link:
-        #    icon: robot
-        #    icon_pack: fas
-        #    text: Robot Videos
-        #    url: ../videos/    
+      video: media/hero.mp4
+      poster: media/hero-poster.jpg
+      headline: Agile aerial robots that carry, manipulate, and collaborate
+      subline: We are the Aerial-robot Control and Perception (ACP) Lab at Worcester Polytechnic Institute. We develop the planning, control, and perception that let flying robots interact physically with the world — and with people.
+      buttons:
+        - text: Explore Our Research
+          url: research/
+          primary: true
+        - text: Join the Lab
+          url: join/
+
+  # Compact teaser of the three research pillars (full venn diagram lives on the Research page).
+  # Keep these entries in sync with content/research/_index.md.
+  - block: pillars
+    id: research
+    content:
+      title: Three Research Pillars
+      subtitle: Click a pillar to explore the related publications.
+      pillars:
+        - title: Aerial Robot Agility, Intelligence and Safety
+          description: Fast, dynamics-aware planning and control, robust perception and estimation, learning-based models, and safety guarantees that let single aerial robots fly aggressively and reliably.
+          url: research/agility-intelligence-safety/
+          icon: eagle-agile-b
+          icon_pack: custom
+          tint: '#9cc0ff'
+          tint_light: '#dbe7ff'
+          accent: '#2563eb'
+        - title: Aerial Physical Intelligence
+          description: Aerial robots that carry, manipulate, and make contact with the world, from cable-suspended payloads and perching to tactile control and physical collaboration with people.
+          url: research/aerial-physical-intelligence/
+          icon: eagle-arm
+          icon_pack: custom
+          tint: '#7fe3d2'
+          tint_light: '#d2f7f0'
+          accent: '#0f9d8a'
+        - title: Multi-Robot Collaboration
+          description: Teams of aerial robots that cooperatively transport and manipulate objects, self-assemble into modular structures, avoid each other safely, and collaborate with humans.
+          url: research/multi-robot-collaboration/
+          icon: eagle-trio
+          icon_pack: custom
+          tint: '#c7b6ff'
+          tint_light: '#e9e2ff'
+          accent: '#7c3aed'
     design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
-      # Automatically transition through slides?
-      loop: true
-      # Duration of transition between slides (in ms)
-      interval: 5000     
+      columns: '1'
+      show_venn: false
 
   - block: collection
+    id: news
     content:
       title: Recent News
-      # subtitle: |-
-        # {{% callout hint %}}
-        # See all [news](./post/).
-        # {{% /callout %}}
       text:
       count: 3
       filters:
@@ -166,56 +72,23 @@ sections:
       page_type: post
     design:
       view: compact
-      columns: 1'
+      columns: '1'
 
-  #- block: collection
-  #  id: research
-  #  content:
-  #    title: Research
-  #    subtitle: |-
-  #      {{% callout hint %}}
-  #      See all [research](./research/).
-  #      {{% /callout %}}
-  #    filters:
-  #      folders:
-  #        - research
-  #      featured_only: false
-  #    text: 
-  #    count: 3
-  #  design:
-  #    columns: '1'
-  #    view: showcase
-  #    flip_alt_rows: false
-     
   - block: collection
     id: featured
     content:
       title: Featured Publications
-      # subtitle: |-
-      #   {{% callout hint %}}
-      #   See all [publications](./publication/).
-      #   {{% /callout %}}
       filters:
         folders:
-          - journal 
-          - conference 
+          - journal
+          - conference
         featured_only: false
-      text: 
+      text:
       count: 5
     sort_by: 'Date'
     design:
       columns: '1'
       view: custom
-  
-
-  # - block: logos
-  #   content:
-  #     title: Section Title
-  #     subtitle: Section Subtitle
-  #     # Path to the logo images within the `assets/media/` folder
-  #     logo_folder: logos
-  #   design:
-  #     columns: '1'  
 
   - block: sponsors
     id: sponsors
@@ -232,22 +105,4 @@ sections:
     design:
       columns: '1'
       logo_height: 96px
-
-  # - block: markdown
-  #   content:
-  #     title: Gallery
-  #     subtitle: ''
-  #     text: |-
-  #       {{< gallery album="demo" >}}
-  #   design:
-  #     columns: 2
-  
-  # - block: markdown
-  #   content:
-  #     title:
-  #     subtitle:
-  #     text: |
-  #       {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-  #   design:
-  #     columns: '2'
 ---

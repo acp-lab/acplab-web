@@ -8,6 +8,8 @@
 {{ $block := .wcBlock }}
 {{ $pillars := $block.content.pillars }}
 {{ $center := $block.content.center_label | default "" }}
+{{/* Set `design.show_venn: false` to render the pillar cards without the venn diagram (used on the homepage teaser). */}}
+{{ $show_venn := ne $block.design.show_venn false }}
 
 <style>
   .wg-pillars .venn { position: relative; width: 100%; max-width: 560px; aspect-ratio: 1 / 1; margin: 0.5rem auto 0; }
@@ -64,6 +66,7 @@
 
 <div class="col-12">
 
+  {{ if $show_venn }}
   <div class="venn" role="group" aria-label="Three overlapping research pillars">
     {{ range $i, $p := $pillars }}
       <a class="venn-circle venn-{{ $i }}" href="{{ $p.url | relURL }}" aria-label="{{ $p.title }}"
@@ -86,8 +89,9 @@
       {{ end }}
     </div>
   </div>
+  {{ end }}
 
-  <div class="row pillar-cards">
+  <div class="row pillar-cards{{ if not $show_venn }} mt-0{{ end }}">
     {{ range $pillars }}
       <div class="col-12 col-md-4 mb-4">
         <a href="{{ .url | relURL }}" class="pillar-card" style="--accent: {{ .accent }}; --tint: {{ .tint }};">

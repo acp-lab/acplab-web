@@ -10,7 +10,7 @@ publishDate: "2025-10-17T23:48:37.409283Z"
 publication_types:
 - article-journal
 publication: 'IEEE Robotics and Automation Letters'
-summary: 'IEEE Robotics and Automation Letters'
+summary: '*IEEE Robotics and Automation Letters (RA-L)*, 2025'
 
 links:
 

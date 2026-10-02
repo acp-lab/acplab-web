@@ -1,0 +1,82 @@
+{{/* Custom block: full-viewport video hero.
+     Continuous looping lab footage behind a headline, in the style of film-reel lab homepages.
+     Configure via `content`:
+       video        - path under static/, e.g. media/hero.mp4 (H.264 MP4, muted, ~3-8 MB)
+       poster       - still frame shown before the video loads and for reduced-motion visitors
+       headline     - the claim, not the lab name (the navbar already says the name)
+       subline      - one-sentence mission
+       buttons      - list of {text, url, primary}
+     The video is muted/looped/playsinline so mobile browsers autoplay it inline.
+     To refresh the footage, replace static/media/hero.mp4 (and the poster) - keep it under ~8 MB. */}}
+{{ $block := .wcBlock }}
+{{ $video := $block.content.video }}
+{{ $poster := $block.content.poster }}
+
+{{/* Primary button follows the active day theme's light primary color (data/themes/<name>.toml),
+     so switching between the `wpi` (crimson) and `acp` (logo navy) themes restyles the hero too. */}}
+{{ $theme_name := site.Params.appearance.theme_day | default "minimal" }}
+{{ $theme_data := index site.Data.themes $theme_name | default dict }}
+{{ $primary := "#0B2A4A" }}
+{{ with $theme_data.light }}{{ $primary = .primary | default $primary }}{{ end }}
+
+<style>
+  section.wg-video-hero { padding: 0; background: #0c0d10; overflow-x: clip; }
+  /* The theme wrapper always adds a centered .container (its use_container toggle can't be
+     set to false from a config partial), so the stage breaks out to full viewport width. */
+  .wg-video-hero .vh-stage { position: relative; width: 100vw; margin-left: calc(50% - 50vw);
+    min-height: calc(100vh - 70px); min-height: calc(100svh - 70px);
+    display: flex; align-items: center; justify-content: center; overflow: hidden; background: #0c0d10; }
+  @media (max-width: 768px) {
+    .wg-video-hero .vh-stage { min-height: calc(100vh - 50px); min-height: calc(100svh - 50px); }
+  }
+  /* max-width/max-height: none defeats the theme's global `video { max-height: 400px }` rule. */
+  .wg-video-hero video, .wg-video-hero .vh-poster { position: absolute; inset: 0; width: 100%; height: 100%;
+    max-width: none; max-height: none; object-fit: cover; object-position: center; }
+  .wg-video-hero .vh-poster { background: url('{{ $poster | relURL }}') center / cover no-repeat; display: none; }
+  .wg-video-hero .vh-scrim { position: absolute; inset: 0;
+    background: linear-gradient(to top, rgba(5, 6, 10, 0.78) 0%, rgba(5, 6, 10, 0.28) 45%, rgba(5, 6, 10, 0.38) 100%); }
+  .wg-video-hero .vh-copy { position: relative; z-index: 1; text-align: center; color: #fff;
+    max-width: 54rem; padding: 6rem 1.5rem 4rem; }
+  .wg-video-hero h1 { color: #fff; font-weight: 800; letter-spacing: -0.02em; line-height: 1.12;
+    font-size: clamp(2.1rem, 5.2vw, 3.6rem); margin: 0 0 1.1rem; text-shadow: 0 2px 24px rgba(0,0,0,0.45); }
+  .wg-video-hero .vh-sub { font-size: clamp(1rem, 1.9vw, 1.25rem); line-height: 1.6; color: rgba(255,255,255,0.92);
+    margin: 0 auto 2rem; max-width: 44rem; text-shadow: 0 1px 12px rgba(0,0,0,0.5); }
+  .wg-video-hero .vh-ctas { display: flex; gap: 0.9rem; justify-content: center; flex-wrap: wrap; }
+  .wg-video-hero .vh-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.78rem 1.7rem;
+    border-radius: 999px; font-weight: 700; font-size: 1rem; text-decoration: none;
+    transition: transform 0.18s ease, background 0.18s ease, color 0.18s ease; }
+  .wg-video-hero .vh-btn:hover { transform: translateY(-2px); text-decoration: none; }
+  .wg-video-hero .vh-btn-primary { background: {{ $primary }}; color: #fff; }
+  .wg-video-hero .vh-btn-primary:hover { background: color-mix(in srgb, {{ $primary }} 82%, black); color: #fff; }
+  .wg-video-hero .vh-btn-ghost { border: 2px solid rgba(255,255,255,0.85); color: #fff; }
+  .wg-video-hero .vh-btn-ghost:hover { background: rgba(255,255,255,0.14); color: #fff; }
+  .wg-video-hero .vh-scroll { position: absolute; left: 50%; bottom: 1.6rem; transform: translateX(-50%);
+    z-index: 1; color: rgba(255,255,255,0.8); font-size: 1.4rem; animation: vh-bob 2.2s ease-in-out infinite; }
+  @keyframes vh-bob { 0%, 100% { transform: translate(-50%, 0); } 50% { transform: translate(-50%, 8px); } }
+  @media (prefers-reduced-motion: reduce) {
+    .wg-video-hero video { display: none; }
+    .wg-video-hero .vh-poster { display: block; }
+    .wg-video-hero .vh-scroll { animation: none; }
+  }
+</style>
+
+<div class="vh-stage">
+  <video autoplay muted loop playsinline preload="auto" poster="{{ $poster | relURL }}"
+         aria-hidden="true" tabindex="-1">
+    <source src="{{ $video | relURL }}" type="video/mp4">
+  </video>
+  <div class="vh-poster" aria-hidden="true"></div>
+  <div class="vh-scrim" aria-hidden="true"></div>
+  <div class="vh-copy">
+    <h1>{{ $block.content.headline | markdownify }}</h1>
+    {{ with $block.content.subline }}<p class="vh-sub">{{ . | markdownify }}</p>{{ end }}
+    {{ with $block.content.buttons }}
+    <div class="vh-ctas">
+      {{ range . }}
+      <a class="vh-btn {{ if .primary }}vh-btn-primary{{ else }}vh-btn-ghost{{ end }}" href="{{ .url | relURL }}">{{ .text }}</a>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+  <div class="vh-scroll" aria-hidden="true"><i class="fas fa-chevron-down"></i></div>
+</div>

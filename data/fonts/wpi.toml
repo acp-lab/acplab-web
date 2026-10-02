@@ -1,0 +1,11 @@
+# Font set for the ACP Lab site: Inter for everything, with real weights.
+name = "WPI"
+
+# Optional Google font URL
+google_fonts = "family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono&display=swap"
+
+# Font families
+heading_font = "Inter"
+body_font = "Inter"
+nav_font = "Inter"
+mono_font = "JetBrains Mono"
