@@ -14,3 +14,19 @@
 .dark .navbar-brand img {
   filter: brightness(0) invert(1);
 }
+
+// Dark mode: the project filter chips otherwise keep the navy day primary,
+// which is unreadable on the dark background. Use WPI crimson like the rest
+// of the dark palette.
+.dark .project-filters .btn {
+  background-color: #AC2B37;
+  color: #fff;
+}
+.dark .project-filters .btn:hover {
+  background-color: #8f2430;
+  color: #fff;
+}
+.dark .project-filters .btn.active {
+  background-color: #5f161f !important;
+  color: #fff !important;
+}
