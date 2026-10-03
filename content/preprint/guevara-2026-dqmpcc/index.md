@@ -22,5 +22,5 @@ image:
   focal_point: ""
   preview_only: false
 categories:
-- Aerial Physical Intelligence
+- Agility Intelligence and Safety
 ---
