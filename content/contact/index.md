@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-  
-        Interested in joining the lab? Our [Join Us](/join/) page explains how to apply as a PhD student, postdoc, visiting scholar, or current WPI student.
+        Interested in joining the lab? Our [Join Us](../join/) page explains how to apply as a PhD student, postdoc, visiting scholar, or current WPI student.
 
         For collaborations, media requests, and general questions, you can reach us by email or through the form below.
 
@@ -26,7 +26,7 @@ sections:
         - icon: graduation-cap
           icon_pack: fas
           name: Join the ACP Lab
-          link: /join/
+          link: join/
     
       # Automatically link email and phone or display as text?
       autolink: true

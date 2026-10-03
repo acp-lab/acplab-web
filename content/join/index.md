@@ -8,12 +8,12 @@ sections:
       title: Join the ACP Lab
       subtitle: ''
       text: |-
-        The **Aerial-robot Control and Perception (ACP) Lab** at Worcester Polytechnic Institute is looking for people who want to make aerial robots agile, safe, and intelligent. Our research spans three pillars. We work on [agility, intelligence and safety](/research/agility-intelligence-safety/), on [aerial physical intelligence](/research/aerial-physical-intelligence/), and on [multi-robot collaboration](/research/multi-robot-collaboration/). The work routinely goes from theory to hardware. If you join, you will work with the real robots.
+        The **Aerial-robot Control and Perception (ACP) Lab** at Worcester Polytechnic Institute is looking for people who want to make aerial robots agile, safe, and intelligent. Our research spans three pillars. We work on [agility, intelligence and safety](../research/agility-intelligence-safety/), on [aerial physical intelligence](../research/aerial-physical-intelligence/), and on [multi-robot collaboration](../research/multi-robot-collaboration/). The work routinely goes from theory to hardware. If you join, you will work with the real robots.
 
         **What you'll find here**
 
         - We do research at the intersection of planning, control, perception, and learning for aerial robots, and we aim to publish in the top-tier robotics venues such as T-RO, RA-L, ICRA, and IROS, etc.
-        - We keep a hands-on experimental culture. You can see our [flight videos](https://www.youtube.com/@ACPLab-wpi) and [publications](/publication/).
+        - We keep a hands-on experimental culture. You can see our [flight videos](https://www.youtube.com/@ACPLab-wpi) and [publications](../publication/).
         - You will receive mentorship aimed at making you a great independent researcher, with regular one-on-one meetings and collaboration across the lab.
 
         ## Prospective PhD students
@@ -26,7 +26,7 @@ sections:
 
         ## Current WPI students
 
-        We welcome MS and undergraduate students who are interested in research or project work, including MQPs and directed research. Please fill out the **[lab application form](https://forms.office.com/r/8j6a3X5Uqt)** and browse the open [student projects](/projects/) for topics.
+        We welcome MS and undergraduate students who are interested in research or project work, including MQPs and directed research. Please fill out the **[lab application form](https://forms.office.com/r/8j6a3X5Uqt)** and browse the open [student projects](../projects/) for topics.
 
         ---
 

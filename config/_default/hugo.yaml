@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: ACP Lab # Website name
-baseURL: 'https://acp-wpi.github.io/' # Website URL
+baseURL: 'https://acp-lab.github.io/acplab-web/' # Website URL
 
 ############################
 ## LANGUAGE
