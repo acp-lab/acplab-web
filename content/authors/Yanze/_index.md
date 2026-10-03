@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Youngzee Liu
+title: Yanze (Youngzee) Liu
 
 # Full name (for SEO)
 first_name: Yanze
@@ -22,7 +22,7 @@ organizations:
     url: 'https://www.wpi.edu/academics/departments/robotics-engineering/research/groups'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Youngzee Liu is a robotics researcher, specializing in optimization-based control theory and its application. He received his Bachelor of Engineering degree in Automation from the Beijing University of Chemical Technology in 2021, and his Master of Science degree in Mechanical Engineering at the University of Wisconsin-Madison in 2024. His current work research interests are in the areas of safety in robotics and machine learning. 
+bio: Yanze (Youngzee) Liu is a robotics researcher specializing in optimization-based control theory and its application. He received his Bachelor of Engineering degree in Automation from the Beijing University of Chemical Technology in 2021, and his Master of Science degree in Mechanical Engineering from the University of Wisconsin-Madison in 2024. His current research interests are in the areas of safety in robotics and machine learning.
 
 # Your research interests keywords
 interests:
@@ -37,7 +37,7 @@ education:
       institution: Beijing University of Chemical Technology
       year: 2021 
     - course: Master of Science
-      institution: Univeristy of Wisconsin-Madison
+      institution: University of Wisconsin-Madison
       year: 2024
 
 # Social/Academic Networking
@@ -78,6 +78,5 @@ user_groups:
   
   
 ---
-Youngzee Liu is a robotics researcher, specializing in optimization-based control theory and its application. He received his Bachelor of Engineering degree in Automation from the Beijing University of Chemical Technology in 2021, and his Master of Science degree in Mechanical Engineering at the University of Wisconsin-Madison in 2024. His current work research interests are in the areas of safety in robotics and machine learning. 
-His current work research interests are in the areas of safety problems in robotoics and machine learning. 
+Yanze (Youngzee) Liu is a robotics researcher specializing in optimization-based control theory and its application. He received his Bachelor of Engineering degree in Automation from the Beijing University of Chemical Technology in 2021, and his Master of Science degree in Mechanical Engineering from the University of Wisconsin-Madison in 2024. His current research interests are in the areas of safety in robotics and machine learning.
 
