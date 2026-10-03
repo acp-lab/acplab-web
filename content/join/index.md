@@ -12,7 +12,7 @@ sections:
 
         **What you'll find here**
 
-        - We do research at the intersection of planning, control, perception, and learning for aerial robots, and we aim to publish in the top-tier robotics venues such as Science Robotics, IJRR, T-RO, T-FR, RA-L, RSS, ICRA and IROS, etc.
+        - We conduct research at the intersection of planning, control, perception, and learning for aerial robots, and we aim to publish in the top-tier robotics venues such as Science Robotics, IJRR, T-RO, T-FR, RA-L, RSS, ICRA and IROS, etc.
         - We keep a hands-on experimental culture. You can see our [flight videos](https://www.youtube.com/@ACPLab-wpi) and [publications](../publication/).
         - You will receive mentorship aimed at making you a great independent researcher, with regular one-on-one meetings and collaboration across the lab.
 
