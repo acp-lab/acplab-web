@@ -1,6 +1,6 @@
 ---
 title: Learning Contraction Metrics for Robust Control of Hybrid Aerial Robots with Suspended Payloads
-summary: None.
+summary: This project learns contraction metrics for robust control of hybrid aerial robots with suspended payloads.
 date: '2024-12-05T20:07:33.626Z'
 featured: false
 
@@ -12,4 +12,7 @@ image:
 reading_time: true
 profile: false
 pager: true
+tags:
+  - learning
+  - control
 ---

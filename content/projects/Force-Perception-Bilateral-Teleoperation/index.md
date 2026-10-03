@@ -1,6 +1,6 @@
 ---
 title: A Visual-Impedance Teleoperation Framework for Cooperative Aerial Manipulation of Cable-Suspended Payloads
-summary: None.
+summary: This project builds a visual impedance teleoperation framework that lets a human operator feel and steer cooperative aerial manipulation of cable-suspended payloads.
 date: '2024-12-05T20:07:33.626Z'
 featured: false
 
@@ -20,5 +20,7 @@ sections:
 reading_time: true
 profile: false
 pager: true
-
+tags:
+  - human-robot interaction
+  - control
 ---

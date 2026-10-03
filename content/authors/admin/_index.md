@@ -22,6 +22,8 @@ bio:
 
 interests:
   - Aerial Robotics
+  - Multi-Robot Systems
+  - Human-Robot Collaboration
 
 education:
   courses:
@@ -75,6 +77,8 @@ highlight_name: false
 user_groups:
   - Principal Investigator
 ---
-Guanrui Li is an Assistant Professor at Worcester Polytechnic Institute (WPI), USA, and director of the Aerial-robot Control and Perception Lab (ACP Lab) at WPI. He earned his Ph.D. in Electrical and Computer Engineering, advised by Prof. Giuseppe Loianno, who is currently an Associate Professor at UC Berkeley, EECS. He obtained his Master degree in Robotics from the GRASP Lab at the University of Pennsylvania, supervised by Prof. Mark Yim, and his Bachelor degree in Theoretical and Applied Mechanics from Sun Yat-sen University, where he was recognized as an Honors Undergraduate. 
+Dr. Guanrui Li is an Assistant Professor in the Department of Robotics Engineering at Worcester Polytechnic Institute, with an affiliated appointment in the Department of Mechanical and Materials Engineering. He is the principal investigator of the Aerial-robot Control and Perception (ACP) Lab. He also serves as Associate Junior Co-Chair of the IEEE RAS Technical Committee on Aerial Robotics and Unmanned Aerial Vehicles.
 
-His research is centered on the dynamics, planning, and control of robotics systems, with applications in aerial transportation and manipulation, as well as human-robot collaboration. Guanrui has received several notable recognitions, including the NSF CPS Rising Stars in 2023, the Outstanding Deployed System Paper Award finalist at 2022 IEEE ICRA, and the 2022 Dante Youla Award for Graduate Research Excellence at NYU. He has an extensive publication record in top-tier robotics conferences and journals like ICRA, RA-L, and T-RO, and his work has garnered attention in various media, including IEEE Spectrum and the Discovery Channel.
+He earned his Ph.D. at New York University, supervised by Prof. Giuseppe Loianno, who is an Associate Professor of Electrical Engineering and Computer Sciences at the University of California, Berkeley. He received his master's degree in Robotics from the GRASP Lab at the University of Pennsylvania, supervised by Prof. Mark Yim, and his bachelor's degree in Theoretical and Applied Mechanics from Sun Yat-sen University, where he was recognized as an Honors Undergraduate.
+
+Dr. Li's research centers on multi-robot systems and aerial robotics, with applications in aerial transportation, manipulation, and human-robot collaboration. His work has earned several notable recognitions, including selection as an NSF CPS Rising Star in 2023, recognition as a finalist for the Outstanding Deployed Systems Paper Award at IEEE ICRA 2022, the 2022 Dante Youla Award for Graduate Research Excellence at NYU, and the 2024 NYU Outstanding Dissertation Award. He has published extensively in premier robotics conferences and journals such as ICRA, IROS, RA-L, and T-RO, and his work has been featured in media outlets including IEEE Spectrum and the Discovery Channel.

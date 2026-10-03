@@ -1,6 +1,6 @@
 ---
 title: Safety-Critical Control of Quadrotors with High-Order Control Barrier Functions
-summary: Modern autonomous drones must operate safely in complex and cluttered environments. While many existing collision avoidance methods assume that thrust commands can be executed instantaneously, real quadrotors are subject to actuator dynamics that introduce delays between the commanded and actual motor responses. Ignoring these dynamics can degrade safety and performance during aggressive maneuvers.
+summary: This project develops high-order control barrier functions that account for actuator dynamics, keeping quadrotors safe during aggressive flight in clutter.
 date: '2026-07-25T20:07:33.626Z'
 featured: false
 
@@ -12,6 +12,9 @@ image:
 reading_time: true
 profile: false
 pager: true
+tags:
+  - control
+  - safety
 ---
 Modern autonomous drones must operate safely in complex and cluttered environments. While many existing collision avoidance methods assume that thrust commands can be executed instantaneously, real quadrotors are subject to actuator dynamics that introduce delays between the commanded and actual motor responses. Ignoring these dynamics can degrade safety and performance during aggressive maneuvers.
 
