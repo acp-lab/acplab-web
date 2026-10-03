@@ -13,11 +13,16 @@
 {{ $poster := $block.content.poster }}
 
 {{/* Primary button follows the active day theme's light primary color (data/themes/<name>.toml),
-     so switching between the `wpi` (crimson) and `acp` (logo navy) themes restyles the hero too. */}}
+     so switching between the `wpi` (crimson) and `acp` (logo navy) themes restyles the hero too.
+     In dark mode the button uses the night theme's light primary (full WPI crimson by default). */}}
 {{ $theme_name := site.Params.appearance.theme_day | default "minimal" }}
 {{ $theme_data := index site.Data.themes $theme_name | default dict }}
 {{ $primary := "#0B2A4A" }}
 {{ with $theme_data.light }}{{ $primary = .primary | default $primary }}{{ end }}
+{{ $night_name := site.Params.appearance.theme_night | default $theme_name }}
+{{ $night_data := index site.Data.themes $night_name | default dict }}
+{{ $night_primary := $primary }}
+{{ with $night_data.light }}{{ $night_primary = .primary | default $night_primary }}{{ end }}
 
 <style>
   /* !important + doubled class: a theme rule (.home-section:first-of-type) sets padding-top: 50px,
@@ -50,6 +55,8 @@
   .wg-video-hero .vh-btn:hover { transform: translateY(-2px); text-decoration: none; }
   .wg-video-hero .vh-btn-primary { background: {{ $primary }}; color: #fff; }
   .wg-video-hero .vh-btn-primary:hover { background: color-mix(in srgb, {{ $primary }} 82%, black); color: #fff; }
+  .dark .wg-video-hero .vh-btn-primary { background: {{ $night_primary }}; }
+  .dark .wg-video-hero .vh-btn-primary:hover { background: color-mix(in srgb, {{ $night_primary }} 82%, black); }
   .wg-video-hero .vh-btn-ghost { border: 2px solid rgba(255,255,255,0.85); color: #fff; }
   .wg-video-hero .vh-btn-ghost:hover { background: rgba(255,255,255,0.14); color: #fff; }
   .wg-video-hero .vh-scroll { position: absolute; left: 50%; bottom: 1.6rem; transform: translateX(-50%);

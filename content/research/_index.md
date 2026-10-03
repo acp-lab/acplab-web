@@ -20,9 +20,9 @@ sections:
           url: research/agility-intelligence-safety/
           icon: eagle-agile-b
           icon_pack: custom
-          tint: '#9cc0ff'
-          tint_light: '#dbe7ff'
-          accent: '#2563eb'
+          tint: '#f0bcc4'
+          tint_light: '#fbe9ec'
+          accent: '#b4303f'
         - title: Aerial Physical Intelligence
           label_lines:
             - Aerial Physical
@@ -31,9 +31,9 @@ sections:
           url: research/aerial-physical-intelligence/
           icon: eagle-arm
           icon_pack: custom
-          tint: '#7fe3d2'
-          tint_light: '#d2f7f0'
-          accent: '#0f9d8a'
+          tint: '#aecdea'
+          tint_light: '#e4eef8'
+          accent: '#3c6e9f'
         - title: Multi-Robot Collaboration
           label_lines:
             - Multi-Robot
@@ -42,9 +42,9 @@ sections:
           url: research/multi-robot-collaboration/
           icon: eagle-trio
           icon_pack: custom
-          tint: '#c7b6ff'
-          tint_light: '#e9e2ff'
-          accent: '#7c3aed'
+          tint: '#ecd49c'
+          tint_light: '#faf1dc'
+          accent: '#b07f10'
     design:
       columns: '1'
 ---

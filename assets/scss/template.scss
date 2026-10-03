@@ -7,3 +7,10 @@
 .cta-group {
   justify-content: center;
 }
+
+// The ACP wordmark is dark navy, which disappears on the dark theme.
+// Render it white in dark mode (brightness(0) makes it black, invert(1) flips to white,
+// transparency is preserved).
+.dark .navbar-brand img {
+  filter: brightness(0) invert(1);
+}

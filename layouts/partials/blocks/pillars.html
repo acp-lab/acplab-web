@@ -55,7 +55,15 @@
   .wg-pillars .pillar-card .pillar-more i { margin-left: 0.4rem; transition: margin-left 0.2s ease; }
   .wg-pillars .pillar-card:hover .pillar-more i { margin-left: 0.75rem; }
 
-  .dark .wg-pillars .venn-circle { mix-blend-mode: screen; }
+  /* Dark mode: the light-mode pastels wash out on a dark background, so build deep
+     saturated glows from each pillar's accent instead. Screen blending keeps the
+     overlap regions additive and luminous. */
+  .dark .wg-pillars .venn-circle {
+    background: radial-gradient(circle at 32% 28%,
+      color-mix(in srgb, var(--accent) 50%, #10141c) 0%,
+      color-mix(in srgb, var(--accent) 88%, #10141c) 70%);
+    mix-blend-mode: screen;
+  }
   .dark .wg-pillars .venn-label, .dark .wg-pillars .venn-label:hover { color: #f8fafc; }
   .dark .wg-pillars .venn-icon, .dark .wg-pillars .venn-hub { background: #111827; color: #f8fafc; }
   .dark .wg-pillars .venn-icon { color: var(--tint); }
@@ -70,7 +78,7 @@
   <div class="venn" role="group" aria-label="Three overlapping research pillars">
     {{ range $i, $p := $pillars }}
       <a class="venn-circle venn-{{ $i }}" href="{{ $p.url | relURL }}" aria-label="{{ $p.title }}"
-         style="--tint: {{ $p.tint }}; --tint-light: {{ $p.tint_light }};"></a>
+         style="--tint: {{ $p.tint }}; --tint-light: {{ $p.tint_light }}; --accent: {{ $p.accent }};"></a>
     {{ end }}
     <div class="venn-labels">
       {{ range $i, $p := $pillars }}

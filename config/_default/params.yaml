@@ -6,11 +6,13 @@
 # Appearance
 
 appearance:
-  # Two custom themes are available (set theme_day AND theme_night to the same name):
+  # Two custom themes are available:
   #   wpi - WPI crimson accent (#AC2B37, data/themes/wpi.toml)
   #   acp - lab logo navy accent (#0B2A4A, data/themes/acp.toml)
+  # Deliberate split per the PI's preference: navy links in light mode,
+  # crimson links in dark mode.
   theme_day: acp
-  theme_night: acp
+  theme_night: wpi
   font: wpi
   font_size: L
 
