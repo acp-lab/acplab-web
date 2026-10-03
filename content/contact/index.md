@@ -9,9 +9,9 @@ sections:
     content:
       title: Contact
       text: |-  
-        Interested in joining the lab? See our [Join Us](/join/) page for how to apply as a PhD student, postdoc, visiting scholar, or current WPI student.
+        Interested in joining the lab? Our [Join Us](/join/) page explains how to apply as a PhD student, postdoc, visiting scholar, or current WPI student.
 
-        For all other inquiries — collaborations, media, or general questions — reach us by email or using the form below.
+        For collaborations, media requests, and general questions, you can reach us by email or through the form below.
 
       email: gli7@wpi.edu
       address:

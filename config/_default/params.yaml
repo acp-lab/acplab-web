@@ -21,7 +21,7 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: 'ACP Lab — Worcester Polytechnic Institute'
-    description: 'The Aerial-robot Control and Perception (ACP) Lab at Worcester Polytechnic Institute develops agile aerial robots that fly, carry, manipulate, and collaborate with people.'
+    description: 'The Aerial-robot Control and Perception (ACP) Lab at Worcester Polytechnic Institute develops agile aerial robots that learn, navigate, transport, manipulate, and collaborate with people.'
     twitter: ''
   analytics:
     google_analytics: ''

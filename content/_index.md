@@ -11,7 +11,7 @@ sections:
       video: media/hero.mp4
       poster: media/hero-poster.jpg
       headline: Agile, Safe and Intelligent aerial robots that transport, manipulate, and collaborate
-      subline: We are the Aerial-robot Control and Perception (ACP) Lab at Worcester Polytechnic Institute. We develop the planning, control, and perception that let flying robots interact physically with the world — and with people.
+      subline: We are the Aerial-robot Control and Perception (ACP) Lab at Worcester Polytechnic Institute. We develop the planning, control, perception, and learning that let flying robots navigate the world, interact with it physically, and work with people.
       buttons:
         - text: Explore Our Research
           url: research/
@@ -28,7 +28,7 @@ sections:
       subtitle: Click a pillar to explore the related publications.
       pillars:
         - title: Aerial Robot Agility, Intelligence and Safety
-          description: Fast, dynamics-aware planning and control, robust perception and estimation, learning-based models, and safety guarantees that let single aerial robots fly aggressively and reliably.
+          description: We develop fast planning and control, robust perception and estimation, learning-based navigation, and safety guarantees that let aerial robots fly aggressively and reliably in complex environments.
           url: research/agility-intelligence-safety/
           icon: eagle-agile-b
           icon_pack: custom
@@ -36,7 +36,7 @@ sections:
           tint_light: '#dbe7ff'
           accent: '#2563eb'
         - title: Aerial Physical Intelligence
-          description: Aerial robots that carry, manipulate, and make contact with the world, from cable-suspended payloads and perching to tactile control and physical collaboration with people.
+          description: We create aerial robots that carry, manipulate, and make physical contact with the world. Our work spans cable-suspended payload transport, perching, tactile control, and physical collaboration with people.
           url: research/aerial-physical-intelligence/
           icon: eagle-arm
           icon_pack: custom
@@ -44,7 +44,7 @@ sections:
           tint_light: '#d2f7f0'
           accent: '#0f9d8a'
         - title: Multi-Robot Collaboration
-          description: Teams of aerial robots that cooperatively transport and manipulate objects, self-assemble into modular structures, avoid each other safely, and collaborate with humans.
+          description: We build teams of aerial robots that cooperatively transport and manipulate objects, self-assemble into modular structures, avoid each other safely, and collaborate with humans.
           url: research/multi-robot-collaboration/
           icon: eagle-trio
           icon_pack: custom

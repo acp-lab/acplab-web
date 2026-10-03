@@ -16,7 +16,7 @@ sections:
             - Agility,
             - Intelligence
             - "& Safety"
-          description: Fast, dynamics-aware planning and control, robust perception and estimation, learning-based models, and safety guarantees that let single aerial robots fly aggressively and reliably.
+          description: We develop fast planning and control, robust perception and estimation, learning-based navigation, and safety guarantees that let aerial robots fly aggressively and reliably in complex environments.
           url: research/agility-intelligence-safety/
           icon: eagle-agile-b
           icon_pack: custom
@@ -27,7 +27,7 @@ sections:
           label_lines:
             - Aerial Physical
             - Intelligence
-          description: Aerial robots that carry, manipulate, and make contact with the world, from cable-suspended payloads and perching to tactile control and physical collaboration with people.
+          description: We create aerial robots that carry, manipulate, and make physical contact with the world. Our work spans cable-suspended payload transport, perching, tactile control, and physical collaboration with people.
           url: research/aerial-physical-intelligence/
           icon: eagle-arm
           icon_pack: custom
@@ -38,7 +38,7 @@ sections:
           label_lines:
             - Multi-Robot
             - Collaboration
-          description: Teams of aerial robots that cooperatively transport and manipulate objects, self-assemble into modular structures, avoid each other safely, and collaborate with humans.
+          description: We build teams of aerial robots that cooperatively transport and manipulate objects, self-assemble into modular structures, avoid each other safely, and collaborate with humans.
           url: research/multi-robot-collaboration/
           icon: eagle-trio
           icon_pack: custom

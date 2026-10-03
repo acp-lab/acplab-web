@@ -26,6 +26,13 @@ dropped into `tools/hero/raw/` (gitignored — raw files never enter the repo).
    It frame-differences the segment at 6 fps and reports, per sample, whether the moving
    subject sits inside the crop window. **Acceptance: >= 90% of samples OK/PART and no
    OUT/NONE run longer than ~1.5 s.** Trim the segment or move the crop until it passes.
+
+   Two known blind spots, so always ALSO eyeball a dense contact sheet of the final window.
+   Animated overlays (plots, fades) count as motion, which inflates scores. Slow scenes
+   (hovering robots, gentle collaborative transport) register little motion and deflate
+   scores even when the subject is fully visible. The score gates fast flight clips, while
+   slow clips are accepted on visual review. Also check sources for baked-in pillarbox or
+   letterbox bars before choosing a crop, since bars can appear mid-video per shot.
 3. **Crop**: only to remove overlay text or to reframe; with clean raw footage prefer the
    full 16:9 frame. All clips are normalized to the same canvas before joining
    (currently 1920x800; with raw footage consider full 1920x1080).
