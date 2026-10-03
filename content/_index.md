@@ -10,7 +10,7 @@ sections:
     content:
       video: media/hero.mp4
       poster: media/hero-poster.jpg
-      headline: Agile aerial robots that carry, manipulate, and collaborate
+      headline: Agile, Safe and Intelligent aerial robots that transport, manipulate, and collaborate
       subline: We are the Aerial-robot Control and Perception (ACP) Lab at Worcester Polytechnic Institute. We develop the planning, control, and perception that let flying robots interact physically with the world — and with people.
       buttons:
         - text: Explore Our Research

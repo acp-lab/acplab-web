@@ -20,7 +20,9 @@
 {{ with $theme_data.light }}{{ $primary = .primary | default $primary }}{{ end }}
 
 <style>
-  section.wg-video-hero { padding: 0; background: #0c0d10; overflow-x: clip; }
+  /* !important + doubled class: a theme rule (.home-section:first-of-type) sets padding-top: 50px,
+     which otherwise shows as a dark bar between the navbar and the video. */
+  section.home-section.wg-video-hero { padding: 0 !important; background: #0c0d10; overflow-x: clip; }
   /* The theme wrapper always adds a centered .container (its use_container toggle can't be
      set to false from a config partial), so the stage breaks out to full viewport width. */
   .wg-video-hero .vh-stage { position: relative; width: 100vw; margin-left: calc(50% - 50vw);
