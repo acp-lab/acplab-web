@@ -53,4 +53,4 @@ user_groups:
   - Alumni
 
 ---
-<A short personal bio, feel free to expand upon your background, education and interests> I’m a mechanical engineer interested in Controls Engineering.
+I’m a mechanical engineer interested in Controls Engineering.

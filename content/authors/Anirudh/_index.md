@@ -72,5 +72,4 @@ user_groups:
   
   
 ---
-<A short personal bio, feel free to expand upon your background, education and interests>
 I have foundation in control systems, robotics, and embedded software development. I hold a B.Tech in Instrumentation & Control Engineering with a minor in Computer Science from COEP, where I developed a deep interest in robotics control and real-time systems. My professional experience as an Embedded Software Engineer where I was involved in developing vehicle firmware, optimizing bootloaders, implementing safety features, and integrating BLE-based communication for diagnostics and OTA updates. I have hands-on experience with ROS, embedded C/C++, MATLAB, and real-time operating systems, and I enjoy applying control theory and system-level thinking to real-world robotic and automotive applications. My interests lie at the intersection of robot control, and embedded systems, driven by both competitive robotics and industry-focused problem solving. 

@@ -62,5 +62,4 @@ user_groups:
   
   
 ---
-<A short personal bio, feel free to expand upon your background, education and interests>
 I have a foundation in fluid mechanics, thermodynamics, dynamic systems, and design engineering. I am a current undergraduate student in Mechanical Engineering, and will soon begin graduate studies in Mechanical Engineering with a focus in Thermal-Fluids. From proffesional experience I have developed skills in design engineering, CAD, and cost engineering. In addition to this I am proficient in Solidworks, MATLAB, Java, Python, the Adobe Suite, and the Microsoft Suite. I use these tools along with hands on experience to solve real world problems in topics ranging from Finite Element Analysis, to Design for Manufacturability.

@@ -36,6 +36,9 @@ education:
     - course: Master of Science, Robotics Engineering
       institution: Worcester Polytechnic Institute, Worcester MA
       year: 2025
+    - course: Bachelor of Science, Robotics Engineering
+      institution: Worcester Polytechnic Institute, Worcester MA
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
