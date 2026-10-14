@@ -19,7 +19,7 @@ slug: yasar
 superuser: false
 
 # Your current major 
-role: M.S. in Robotics Engineering
+role: M.S. in Robotics Engineering, now at Generation NYX
 
 # Organizations/Affiliations (Add more if you wish to)
 organizations:
@@ -78,4 +78,4 @@ email: 'yidikut@wpi.edu'
 user_groups:
   - Alumni
 ---
-Yaşar is an M.S. student in Robotics Engineering at Worcester Polytechnic Institute (WPI). His current research focuses on applying Control Barrier Functions (CBFs) to aerial drones. He previously earned his B.S. in Computer Science and Robotics Engineering at WPI, completing his capstone project on Multi-Robot Persistent Coverage Under Fuel and Stochastic Failure Constraints, which explored algorithms for multi-robot coverage under battery and failure limitations through simulation and real-world demonstrations. Outside of research, he has worked as a freelance software engineer, developing solutions ranging from cloud infrastructure to computer vision systems.
+Yaşar earned his M.S. in Robotics Engineering at Worcester Polytechnic Institute (WPI) in 2026 and is now a Cloud Software Engineer at Generation NYX in Boston. His research in the ACP Lab focused on applying Control Barrier Functions (CBFs) to aerial drones. He previously earned his B.S. in Computer Science and Robotics Engineering at WPI, completing his capstone project on Multi-Robot Persistent Coverage Under Fuel and Stochastic Failure Constraints, which explored algorithms for multi-robot coverage under battery and failure limitations through simulation and real-world demonstrations. Outside of research, he has worked as a freelance software engineer, developing solutions ranging from cloud infrastructure to computer vision systems.
