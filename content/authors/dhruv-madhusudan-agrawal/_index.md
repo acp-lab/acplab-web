@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Your current major 
-role: M.S. in Robotics Engineering
+role: M.S. in Robotics Engineering, now at Pixels on Target
 
 # Organizations/Affiliations
 organizations:
@@ -81,4 +81,4 @@ email: 'dagrawal@wpi.edu'
 user_groups:
   - Alumni
 ---
-I am an MS student in Robotics Engineering at Worcester Polytechnic Institute, with a focus on, control systems, perception and path planning. My research interests lie in drone technology as well as mobile robots with real-time control and perception algorithms. My aim is to develop autonomous multi-robot systems capable of navigating in the real-world safely at high-speed. 
+Dhruv Agrawal earned his M.S. in Robotics Engineering at Worcester Polytechnic Institute in 2026 and is now an engineer at Pixels on Target. His work in the ACP Lab focused on control systems, perception, and path planning, with interests in drone technology and mobile robots with real-time control and perception algorithms, and in autonomous multi-robot systems that can navigate the real world safely at high speed.
