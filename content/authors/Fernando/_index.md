@@ -34,12 +34,12 @@ interests:
 # Your education background
 education:
   courses:
-    - course: Mechatronics Engineering
-      institution: Universidad de las Fuerzas Armadas ESPE, Ecuador
-      year: 2021 
-    - course: Master's in Control Systems Engineering
-      institution: National University of San Juan, Argentina
+    - course: Master's Degree, Control Systems Engineering
+      institution: National University of San Juan, San Juan, Argentina
       year: 2024
+    - course: Engineering Degree, Mechatronics
+      institution: Universidad de las Fuerzas Armadas ESPE, Sangolquí, Ecuador
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

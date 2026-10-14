@@ -33,12 +33,12 @@ interests:
 # Your education background
 education:
   courses:
-    - course: Bachelor of Engineering
-      institution: Beijing University of Chemical Technology
-      year: 2021 
-    - course: Master of Science
-      institution: University of Wisconsin-Madison
+    - course: Master of Science, Mechanical Engineering
+      institution: University of Wisconsin-Madison, Madison WI
       year: 2024
+    - course: Bachelor of Engineering, Automation
+      institution: Beijing University of Chemical Technology, Beijing, China
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

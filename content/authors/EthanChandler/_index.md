@@ -34,7 +34,7 @@ interests:
 education:
   courses:
     - course: Master of Science, Robotics Engineering
-      institution: Worcester Polytechnic Institue, MA
+      institution: Worcester Polytechnic Institute, Worcester MA
       year: 2025
 
 # Social/Academic Networking

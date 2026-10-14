@@ -34,9 +34,6 @@ interests:
 # Your education background
 education:
   courses:
-    - course: Ph.D. in Robotics Engineering (in progress)
-      institution: Worcester Polytechnic Institute, Worcester MA
-      year: 2025–2029 (expected)
     - course: Master of Science, Computer Science
       institution: New York University, New York NY
       year: 2025
