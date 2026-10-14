@@ -31,6 +31,9 @@ interests:
 # Your education background
 education:
   courses:
+    - course: Master of Science, Robotics Engineering
+      institution: Worcester Polytechnic Institute, Worcester MA
+      year: 2025
     - course: Bachelor of Science, Robotics Engineering and Mechanical Engineering
       institution: Worcester Polytechnic Institute, Worcester MA
       year: 2024

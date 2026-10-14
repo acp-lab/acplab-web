@@ -14,15 +14,12 @@ authors:
 superuser: false
 
 # Your current major 
-role: BS in Computer Science 
+role: B.S. Student in Computer Science
 
 # Organizations/Affiliations (Add more if you wish to)
 organizations:
-  - name: Commonwealth School
-    url: 'https://commschool.org/'
-  - name: UMass Amherst (Commonwealth Honors, CICS)
+  - name: University of Massachusetts Amherst
     url: 'https://www.umass.edu/'
-
 # Short bio (displayed in user profile at end of posts)
 bio: "B.S. CS UMass Amherst 2030" 
 
@@ -35,11 +32,9 @@ interests:
 # Your education background
 education:
   courses:
-    - course: Self-taught Full Stack Software and DevOps Engineer
-      institution: N/A
-    - course: BS in Computer Science, 2026-2030
-      institution: CICS, UMass Amherst
-
+    - course: Bachelor of Science, Computer Science
+      institution: University of Massachusetts Amherst, Amherst MA
+      year: 2029
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the

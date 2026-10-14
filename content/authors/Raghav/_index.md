@@ -30,9 +30,6 @@ interests:
 # Your education background 
 education:
   courses:
-    - course: Master of Science, Robotics Engineering
-      institution: Worcester Polytechnic Institute, Worcester MA
-      year: 2025
     - course: Bachelor of Technology, Internet of Things
       institution: Shiv Nadar University, Chennai, India
       year: 2022
