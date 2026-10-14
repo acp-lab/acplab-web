@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Your current major
-role: M.S. in Mechanical Engineering
+role: M.S. in Mechanical Engineering, now at Aeva
 
 # Organizations/Affiliations (Add more if you wish to)
 organizations:
@@ -51,4 +51,4 @@ user_groups:
 
 email: 'wbbinnard@wpi.edu'
 ---
-I’m a mechanical engineer interested in Controls Engineering.
+Wyatt Binnard earned his M.S. and B.S. in Mechanical Engineering at Worcester Polytechnic Institute in 2026 and is now a Mechanical Design Engineer at Aeva in Mountain View, California. His interests lie in controls engineering.
