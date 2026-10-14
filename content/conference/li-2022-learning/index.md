@@ -1,8 +1,8 @@
 ---
 title: Learning Model Predictive Control for Quadrotors
 authors:
-- Guanrui Li*
-- Alex Tunchez*
+- Guanrui Li
+- Alex Tunchez
 - Giuseppe Loianno
 author_notes:
 - "Equal contribution"
