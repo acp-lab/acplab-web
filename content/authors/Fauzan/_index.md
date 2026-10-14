@@ -36,6 +36,9 @@ interests:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 #   if you wish to attach resume, please have it online somewhere as pdf file
 social:
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/fauzan-hasanbasri-1aa515192/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: 'tbrapoza@wpi.edu'
