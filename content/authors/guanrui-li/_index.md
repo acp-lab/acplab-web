@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof. Guanrui Li
+title: Guanrui Li
 
 # Full Name (for SEO)
 first_name: Guanrui
