@@ -2,7 +2,7 @@
 title: 'DQ-NMPC: Dual-Quaternion NMPC for Quadrotor Flight'
 authors:
 - Luis F. Recalde
-- Dhruv Agrawal
+- Dhruv Madhusudan Agrawal
 - Jon Arrizabalaga
 - Guanrui Li
 date: '2025-10-13'
