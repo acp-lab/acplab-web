@@ -34,6 +34,13 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 #   if you wish to attach resume, please have it online somewhere as pdf file
+# Your education background
+education:
+  courses:
+    - course: Bachelor of Science, Aerospace Engineering
+      institution: Saint Louis University, St. Louis MO
+      year: 2022
+
 social:
   - icon: linkedin
     icon_pack: fab
