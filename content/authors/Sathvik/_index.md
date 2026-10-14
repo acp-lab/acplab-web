@@ -14,13 +14,12 @@ authors:
 superuser: false
 
 # Your current major 
-role: MS in Robotics Engineering
+role: M.S. Student in Robotics Engineering
 
 # Organizations/Affiliations (Add more if you wish to)
 organizations:
-  - name: Worcester Polytechnic Institute
-    url: 'https://www.wpi.edu/'
-
+  - name: Aerial-Robot Control and Perception (ACP) Lab, WPI
+    url: 'https://www.wpi.edu/academics/departments/robotics-engineering/research/groups'
 # Short bio (displayed in user profile at end of posts)
 bio: "MS RBE WPI 2028" 
 
@@ -41,8 +40,7 @@ social:
     link: https://www.linkedin.com/in/sathvikmanam/
   - icon: envelope
     icon_pack: fas
-    link: mailto:smanam1@wpi.edu 
-
+    link: mailto:smanam1@wpi.edu
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'smanam1@wpi.edu'
 

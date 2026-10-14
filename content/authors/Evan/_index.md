@@ -14,13 +14,12 @@ authors:
 superuser: false
 
 # Your current major 
-role: Robotics Engineering, Electrical and Computer Engineering
+role: B.S. Student in Robotics Engineering and Electrical and Computer Engineering
 
 # Organizations/Affiliations
 organizations:
   - name: Aerial-Robot Control and Perception (ACP) Lab, WPI
     url: 'https://www.wpi.edu/academics/departments/robotics-engineering/research/groups'
-
 # Short bio (displayed in user profile at end of posts)
 bio: "Evan Kaba is an undergraduate student at WPI studying Robotics Engineering and Electrical and Computer Engineering. His research interests lie in mobile robotics, control theory, real-time operating systems, and sensor fusion with a focus on drone technology. In his free time he enjoys rock climbing" 
 
@@ -35,27 +34,26 @@ interests:
 # Your education background
 education:
   courses:
-    - course: Robotics Engineering
-      institution: Worcester Polytechnic Institue, MA
+    - course: Bachelor of Science, Robotics Engineering
+      institution: Worcester Polytechnic Institute, Worcester MA
       year: 2027
-    - course: Electrical and Computer Engineering
-      institution: Worcester Polytechnic Institue, MA
+    - course: Bachelor of Science, Electrical and Computer Engineering
+      institution: Worcester Polytechnic Institute, Worcester MA
       year: 2027
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:ejkaba@wpi.edu
   - icon: github
     icon_pack: fab
     link: https://github.com/kabae25
   - icon: linkedin
     icon_pack: fab
     link: https://linkedin.com/in/evan-kaba-235582272
-  - icon: cv
-    icon_pack: ai
-    link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

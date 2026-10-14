@@ -14,13 +14,12 @@ authors:
 superuser: false
 
 # Your current major 
-role:  Ph.D. in Robotics Engineering
+role: Ph.D. Student in Robotics Engineering
 
 # Organizations/Affiliations
 organizations:
   - name: Aerial-Robot Control and Perception (ACP) Lab, WPI
     url: 'https://www.wpi.edu/academics/departments/robotics-engineering/research/groups'
-
 # Short bio (displayed in user profile at end of posts)
 bio: Luis F. Recalde is a robotics researcher, specializing in advanced control algorithms for autonomous systems. He received his Mechatronics degree from the University of the Armed Forces - ESPE, Ecuador in 2021, and his master's degree in Control Systems Engineering at the National University of San Juan, Argentina in 2024. His current work research interests are in the areas of NMPC, Quadratic Programming, and differential geometry for motion representation and control. He currently develops novel control algorithms for quadrotors with cable-suspended payload by exploiting such tools as dual quaternions, differential flatness, and hybrid dynamics that enable higher performance of the system while improving safety anc stability.
 
@@ -46,15 +45,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:lfrecalde@wpi.edu
   - icon: github
     icon_pack: fab
     link: https://github.com/lfrecalde1
-  - icon: linkedin
-    icon_pack: fab
-    link: 
-  - icon: cv
-    icon_pack: ai
-    link:
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

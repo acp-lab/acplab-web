@@ -14,13 +14,12 @@ authors:
 superuser: false
 
 # Your current major 
-role: MS in Robotics Engineering
+role: M.S. Student in Robotics Engineering
 
 # Organizations/Affiliations
 organizations:
-  - name: Worcester Polytechnic Institute
-    url: 'https://www.wpi.edu/'
-
+  - name: Aerial-Robot Control and Perception (ACP) Lab, WPI
+    url: 'https://www.wpi.edu/academics/departments/robotics-engineering/research/groups'
 # Short bio (displayed in user profile at end of posts)
 bio: My name is Laasya Kodandaramu, and I am a graduate student in Robotics Engineering here at Worcester Polytechnic Institute (WPI). I hold a Bachelor's degree in Electronics and Communication Engineering, where I cultivated my interest in robotics and control systems. During my undergraduate studies, I worked on a few projects, including developing a glue-dispensing application with a UR3 robot and implementing dynamic obstacle avoidance for manipulators in collaborative environments using Non-linear Model Predictive Control. My current project, that combines my passions for control systems and dynamics, is based on developing control algorithms for quadrupedal robots, focusing on variations of Model Predictive Control (MPC) such as Diffusion-Inspired Annealing for Legged MPC (DIAL-MPC). Through this work, I aim to enhance the efficiency of optimal control for legged robotic systems, which are highly dimensional and non-convex. I aspire to continue exploring and solving intricate problems, making meaningful contributions to the field.
 
@@ -32,18 +31,17 @@ interests:
 # Your education background
 education:
   courses:
-    - course: Bachelor of Technology in Electronics and Communication Engineering
-      institution: PES University
+    - course: Bachelor of Technology, Electronics and Communication Engineering
+      institution: PES University, Bengaluru, India
       year: 2024
-    - course: Master of Science in Robotics Engineering
-      institution: Worcester Polytechnic Institute
-      year: 2026
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:lkodandaramu@wpi.edu
   - icon: github
     icon_pack: fab
     link: https://github.com/laasyak02

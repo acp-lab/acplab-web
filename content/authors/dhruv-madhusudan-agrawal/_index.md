@@ -14,13 +14,12 @@ authors:
 superuser: false
 
 # Your current major 
-role:  MS in Robotics Engineering
+role: M.S. in Robotics Engineering
 
 # Organizations/Affiliations
 organizations:
   - name: Aerial-Robot Control and Perception (ACP) Lab, WPI
     url: 'https://www.wpi.edu/academics/departments/robotics-engineering/research/groups'
-
 # Short bio (displayed in user profile at end of posts)
 bio: I am an MS student in Robotics Engineering at Worcester Polytechnic Institute, with a focus on, control systems, perception and path planning. My research interests lie in drone technology as well as mobile robots with real-time control and perception algorithms. My aim is to develop autonomous multi-robot systems capable of navigating in the real-world safely at high-speed. 
 
@@ -37,18 +36,20 @@ interests:
 # Your education background
 education:
   courses:
-    - course: MS in Robotics
-      institution: Worcester Polytechnic Institue, MA
-      year: 2024-2026 
-    - course: B.Tech in Electronics and Communications Engineering
-      institution: Visvesvaraya National Institute of Technology
-      year: 2018-2022
-
+    - course: Master of Science, Robotics Engineering
+      institution: Worcester Polytechnic Institute, Worcester MA
+      year: 2026
+    - course: Bachelor of Technology, Electronics and Communications Engineering
+      institution: Visvesvaraya National Institute of Technology, Nagpur, India
+      year: 2022
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:dagrawal@wpi.edu
   - icon: github
     icon_pack: fab
     link: https://github.com/dhruv2603

@@ -25,7 +25,6 @@ role: M.S. in Robotics Engineering
 organizations:
   - name: Aerial-Robot Control and Perception (ACP) Lab, WPI
     url: 'https://www.wpi.edu/academics/departments/robotics-engineering/research/groups'
-
 # Short bio (displayed in user profile at end of posts)
 bio: "M.S. Robotics Engineering, WPI 2026" 
 
@@ -38,19 +37,21 @@ interests:
 # Your education background
 education:
   courses:
-    - course: M.S. in Robotics Engineering
-      institution: Worcester Polytechnic Institute
+    - course: Master of Science, Robotics Engineering
+      institution: Worcester Polytechnic Institute, Worcester MA
       year: 2026
-    - course: B.S. in Computer Science and Robotics Engineering 
-      institution: Worcester Polytechnic Institute
+    - course: Bachelor of Science, Computer Science and Robotics Engineering
+      institution: Worcester Polytechnic Institute, Worcester MA
       year: 2024
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 #   if you wish to attach resume, please have it online somewhere as pdf file
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:yidikut@wpi.edu
   - icon: github
     icon_pack: fab
     link: https://github.com/GodOfKebab
@@ -60,8 +61,6 @@ social:
   - icon: globe
     icon_pack: fas
     link: https://yasar.idikut.cc
-
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'yidikut@wpi.edu'
 

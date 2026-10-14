@@ -14,13 +14,12 @@ authors:
 superuser: false
 
 # Your current major 
-role:  Bachelor’s in Computer Science and Electrical Engineering
+role: B.S. Student in Computer Science and Electrical Engineering
 
 # Organizations/Affiliations
 organizations:
   - name: Aerial-Robot Control and Perception (ACP) Lab, WPI
     url: 'https://www.wpi.edu/academics/departments/robotics-engineering/research/groups'
-
 # Short bio (displayed in user profile at end of posts)
 bio: I am a visiting undergraduate researcher from Northeastern University who is studying computer science and electrical engineering. My interests lie in navigation optimization and control theory. In his free time, he enjoys golfing, skiing and cooking.
 
@@ -34,15 +33,17 @@ interests:
 # Your education background
 education:
   courses:
-    - course: Computer Science and Electrical Engineering
-      institution: Northeastern University
-      year: 2024-2026 
-
+    - course: Bachelor of Science, Computer Science and Electrical Engineering
+      institution: Northeastern University, Boston MA
+      year: 2026
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:arthurhuang256@gmail.com
   - icon: github
     icon_pack: fab
     link: https://github.com/Arthur-T-Huang

@@ -55,10 +55,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/thomas-zhou-646012225/
-  - icon: email
-    icon_pack: envelope
+  - icon: envelope
+    icon_pack: fas
     link: mailto:tzhou@commschool.org
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: 'arnallawar@wpi.edu'
 

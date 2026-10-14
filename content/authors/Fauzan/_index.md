@@ -14,13 +14,12 @@ authors:
 superuser: false
 
 # Your current major 
-role: MS in Robotics Engineering
+role: M.S. Student in Robotics Engineering
 
 # Organizations/Affiliations (Add more if you wish to)
 organizations:
-  - name: Worcester Polytechnic Institute
-    url: 'https://www.wpi.edu/'
-
+  - name: Aerial-Robot Control and Perception (ACP) Lab, WPI
+    url: 'https://www.wpi.edu/academics/departments/robotics-engineering/research/groups'
 # Short bio (displayed in user profile at end of posts)
 bio: "Hi! I’m a Robotics Master’s student at Worcester Polytechnic Institute (WPI) with three years of professional experience designing and developing UAV systems for a variety of applications. At Actus Advanced Systems, I was one of three engineers who contributed to an (SBIR Phase I project awarded $109,742)[https://www.sbir.gov/portfolio/2580945], focused on the development of a logistics UAV. At AVF, I was also a key contributor to the development of an aerial manipulation system, gaining hands-on experience in UAV design, autonomy, and robotics. Currently, I’m developing my own startup focused on aerial surveillance and environmental monitoring, in partnership with the ACP Lab and WPI I3 Lab. My work combines UAV systems, robotics, and AI to develop practical solutions for real-world applications." 
 
@@ -39,7 +38,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/fauzan-hasanbasri-1aa515192/
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: 'tbrapoza@wpi.edu'
 

@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'gli7@wpi.edu'
+    link: 'mailto:gli7@wpi.edu'
   - icon: twitter
     icon_pack: fab
     link: 

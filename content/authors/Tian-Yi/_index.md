@@ -14,13 +14,12 @@ authors:
 superuser: false
 
 # Your current major 
-role: MS in Robotics Engineering
+role: M.S. Student in Robotics Engineering
 
 # Organizations/Affiliations (Add more if you wish to)
 organizations:
-  - name: Worcester Polytechnic Institute
-    url: 'https://www.wpi.edu/'
-
+  - name: Aerial-Robot Control and Perception (ACP) Lab, WPI
+    url: 'https://www.wpi.edu/academics/departments/robotics-engineering/research/groups'
 # Short bio (displayed in user profile at end of posts)
 bio: "MS RBE WPI 2028" 
 
@@ -42,7 +41,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:tlu5@wpi.edu
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'tlu5@wpi.edu'
 
@@ -62,4 +60,4 @@ user_groups:
 
 ---
 I am a master's student in Robotics Engineering at Worcester Polytechnic Institute. I received my bachelor's degree in Biomechatronics Engineering from National Taiwan University, where I worked on autonomous aerial robotic systems for greenhouse crop monitoring and 3D reconstruction. My research interests include autonomous aerial robotics, autonomous
-navigatio and optimal control.
+navigation and optimal control.

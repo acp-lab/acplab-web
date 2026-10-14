@@ -14,13 +14,12 @@ authors:
 superuser: false
 
 # Role/position
-role: MS in RBE, Now at Rivian 
+role: M.S. in Robotics Engineering, now at Rivian
 
 # Organizations/Affiliations
 organizations:
-  - name: Worcester Polytechnic Institute
-    url: ''
-
+  - name: Aerial-Robot Control and Perception (ACP) Lab, WPI
+    url: 'https://www.wpi.edu/academics/departments/robotics-engineering/research/groups'
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests are Robot Control and Motion Planning.
 
@@ -30,31 +29,20 @@ interests:
 
 education:
   courses:
-    - course: MS in Robotics Engineering
-      institution: Worcester Polytechnic Institute
+    - course: Master of Science, Robotics Engineering
+      institution: Worcester Polytechnic Institute, Worcester MA
       year: 2023
-    - course: BTech in Electronics and Telecommunication
+    - course: Bachelor of Technology, Electronics and Telecommunication
       institution: Vishwakarma Institute of Technology, Pune, India
       year: 2017
-    - course: Diploma in Electronics and Telecommunication
-      institution: Government Polytechnic Pune, India
+    - course: Diploma, Electronics and Telecommunication
+      institution: Government Polytechnic Pune, Pune, India
       year: 2014
-
-      
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: 
-  - icon: cv
-    icon_pack: ai
-    link:
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

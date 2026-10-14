@@ -20,7 +20,6 @@ role:  Ph.D. Student in Robotics Engineering
 organizations:
   - name: Aerial-Robot Control and Perception (ACP) Lab, WPI
     url: 'https://www.wpi.edu/academics/departments/robotics-engineering/research/groups'
-
 # Short bio (displayed in user profile at end of posts)
 bio: Yanze (Youngzee) Liu is a robotics researcher specializing in optimization-based control theory and its application. He received his Bachelor of Engineering degree in Automation from the Beijing University of Chemical Technology in 2021, and his Master of Science degree in Mechanical Engineering from the University of Wisconsin-Madison in 2024. His current research interests are in the areas of safety in robotics and machine learning.
 
@@ -45,15 +44,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:yliu43@wpi.edu
   - icon: github
     icon_pack: fab
     link: https://github.com/lyz2d
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yanze-liu2d/
-  - icon: cv
-    icon_pack: ai
-    link:
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

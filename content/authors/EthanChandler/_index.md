@@ -14,13 +14,12 @@ authors:
 superuser: false
 
 # Your current major 
-role: Ph.D. in Robotics Engineering
+role: Ph.D. Student in Robotics Engineering
 
 # Organizations/Affiliations
 organizations:
-  - name: 
-    url: 
-
+  - name: Aerial-Robot Control and Perception (ACP) Lab, WPI
+    url: 'https://www.wpi.edu/academics/departments/robotics-engineering/research/groups'
 # Short bio (displayed in user profile at end of posts)
 bio: I am a PhD student at WPI with an interest in model-based optimal control for legged robot loco-manipulation problems. My current work includes development of Galileo, a structure-exploiting pseudospectral collocation solver for switched systems. My interests lie at the intersection of classic numerical methods and optimal control theory, particularly for interesting (e.g., underactuated, constrained, nonlinear and/or hybrid) systems, such as legged robots or quadrotors.
 
@@ -45,15 +44,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:eechandler@wpi.edu
   - icon: github
     icon_pack: fab
     link: https://github.com/echandler5956f
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/echandler5956f/
-  - icon: cv
-    icon_pack: ai
-    link:
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

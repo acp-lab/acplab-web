@@ -14,13 +14,12 @@ authors:
 superuser: false
 
 # Your current major 
-role:  MS in Robotics Engineering
+role: M.S. in Robotics Engineering
 
 # Organizations/Affiliations
 organizations:
   - name: Aerial-Robot Control and Perception (ACP) Lab, WPI
     url: 'https://www.wpi.edu/academics/departments/robotics-engineering/research/groups'
-
 # Short bio (displayed in user profile at end of posts)
 bio: I am an MS student in Robotics Engineering at Worcester Polytechnic Institute, with a focus on, control systems, perception and path planning. My research interests lie in drone technology as well as mobile robots with real-time control and perception algorithms. My aim is to develop autonomous multi-robot systems capable of navigating in the real-world safely at high-speed. 
 
@@ -35,27 +34,23 @@ interests:
 # Your education background
 education:
   courses:
-    - course: Bachelors in Robotics Engineering
-      institution: Worcester Polytechnic Institute
-      year: 2024 
-    - course: Master's in Robotics Engineering
-      institution: Worcester Polytechnic Institute
+    - course: Master of Science, Robotics Engineering
+      institution: Worcester Polytechnic Institute, Worcester MA
       year: 2024
-
+    - course: Bachelor of Science, Robotics Engineering
+      institution: Worcester Polytechnic Institute, Worcester MA
+      year: 2024
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:akshayjaitly@hotmail.com
   - icon: github
     icon_pack: fab
     link: https://github.com/Akshay5312
-  - icon: linkedin
-    icon_pack: fab
-    link: https://linkedin.com/in/dhruv-agrawal-26mar
-  - icon: cv
-    icon_pack: ai
-    link: https://dhruv2603.github.io/assets/pdf/Resume_Dhruv_Agrawal.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

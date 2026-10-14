@@ -14,13 +14,12 @@ authors:
 superuser: false
 
 # Your current major 
-role: BS in Mechanical Engineering
+role: B.S. Student in Mechanical Engineering
 
 # Organizations/Affiliations (Add more if you wish to)
 organizations:
-  - name: Worcester Polytechnic Institute
-    url: 'https://www.wpi.edu/'
-
+  - name: Aerial-Robot Control and Perception (ACP) Lab, WPI
+    url: 'https://www.wpi.edu/academics/departments/robotics-engineering/research/groups'
 # Short bio (displayed in user profile at end of posts)
 bio: "BS ME WPI 2028" 
 
@@ -42,7 +41,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:tbrapoza@wpi.edu
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'tbrapoza@wpi.edu'
 
@@ -62,4 +60,4 @@ user_groups:
   
   
 ---
-I have a foundation in fluid mechanics, thermodynamics, dynamic systems, and design engineering. I am a current undergraduate student in Mechanical Engineering, and will soon begin graduate studies in Mechanical Engineering with a focus in Thermal-Fluids. From proffesional experience I have developed skills in design engineering, CAD, and cost engineering. In addition to this I am proficient in Solidworks, MATLAB, Java, Python, the Adobe Suite, and the Microsoft Suite. I use these tools along with hands on experience to solve real world problems in topics ranging from Finite Element Analysis, to Design for Manufacturability.
+I have a foundation in fluid mechanics, thermodynamics, dynamic systems, and design engineering. I am a current undergraduate student in Mechanical Engineering, and will soon begin graduate studies in Mechanical Engineering with a focus in Thermal-Fluids. From professional experience I have developed skills in design engineering, CAD, and cost engineering. In addition to this I am proficient in Solidworks, MATLAB, Java, Python, the Adobe Suite, and the Microsoft Suite. I use these tools along with hands on experience to solve real world problems in topics ranging from Finite Element Analysis, to Design for Manufacturability.

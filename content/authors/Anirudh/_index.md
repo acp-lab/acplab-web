@@ -14,13 +14,12 @@ authors:
 superuser: false
 
 # Your current major 
-role: MS in Robotics Engineering
+role: M.S. Student in Robotics Engineering
 
 # Organizations/Affiliations (Add more if you wish to)
 organizations:
-  - name: Worcester Polytechnic Institute
-    url: 'https://www.wpi.edu/'
-
+  - name: Aerial-Robot Control and Perception (ACP) Lab, WPI
+    url: 'https://www.wpi.edu/academics/departments/robotics-engineering/research/groups'
 # Short bio (displayed in user profile at end of posts)
 bio: "MS RBE WPI 2027" 
 
@@ -33,10 +32,9 @@ interests:
 # Your education background
 education:
   courses:
-    - course: Bachelor in Technology, Instrumentation and Control Engineering
+    - course: Bachelor of Technology, Instrumentation and Control Engineering
       institution: College of Engineering Pune, Pune, India
       year: 2023
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -49,10 +47,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/anirudhnallawar/
-  - icon: email
-    icon_pack: envelope
+  - icon: envelope
+    icon_pack: fas
     link: mailto:arnallawar@wpi.edu
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'arnallawar@wpi.edu'
 

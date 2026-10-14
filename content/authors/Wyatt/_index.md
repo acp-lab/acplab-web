@@ -14,13 +14,12 @@ authors:
 superuser: false
 
 # Your current major
-role: MS in Mechanical Engineering
+role: M.S. in Mechanical Engineering
 
 # Organizations/Affiliations (Add more if you wish to)
 organizations:
-  - name: Worcester Polytechnic Institute
-    url: 'https://www.wpi.edu/'
-
+  - name: Aerial-Robot Control and Perception (ACP) Lab, WPI
+    url: 'https://www.wpi.edu/academics/departments/robotics-engineering/research/groups'
 # Short bio (displayed in user profile at end of posts)
 bio: "MS MechE | WPI"
 
@@ -32,12 +31,11 @@ interests:
 education:
   courses:
     - course: Master of Science, Mechanical Engineering
-      institution: WPI, Worcester, MA
+      institution: Worcester Polytechnic Institute, Worcester MA
       year: 2026
     - course: Bachelor of Science, Mechanical Engineering
-      institution: WPI, Worcester, MA
+      institution: Worcester Polytechnic Institute, Worcester MA
       year: 2026
-
 social:
   - icon: github
     icon_pack: fab
@@ -48,9 +46,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:wbbinnard@wpi.edu
-
 user_groups:
   - Alumni
 
+email: 'wbbinnard@wpi.edu'
 ---
 I’m a mechanical engineer interested in Controls Engineering.

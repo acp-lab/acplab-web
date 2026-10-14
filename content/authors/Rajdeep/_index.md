@@ -14,15 +14,12 @@ authors:
 superuser: false
 
 # Your current major 
-role: MS in Robotics Engineering
+role: M.S. Student in Robotics Engineering
 
 # Organizations/Affiliations
 organizations:
-  - name: Worcester Polytechnic Institute
-    url: 'https://www.wpi.edu/'
-  - name: Kalinga Institute of Industrial Technology
-    url: 'https://kiit.ac.in/'
-
+  - name: Aerial-Robot Control and Perception (ACP) Lab, WPI
+    url: 'https://www.wpi.edu/academics/departments/robotics-engineering/research/groups'
 # Short bio (displayed in user profile at end of posts)
 bio: Rajdeep Banerjee is an MS Robotics student at Worcester Polytechnic Institute and a Mechanical Engineering graduate from KIIT University. He has worked at ZF on traffic-light recognition, LSTM-based driver-distraction detection, and LLM-driven projects, and at Accenture on large-scale data ETL pipelines. His interests include perception-aware control, monocular depth estimation, and data-efficient vision for autonomous systems.
 
@@ -35,13 +32,9 @@ interests:
 # Your education background
 education:
   courses:
-    - course: Master of Science, Robotics Engineering
-      institution: Worcester Polytechnic Institute
-      year: 2025-2027
-    - course: B.Tech in Mechanical Engineering
-      institution: Kalinga Institute of Industrial Technology, Bhubaneswar
-      year: 2016-2020
-
+    - course: Bachelor of Technology, Mechanical Engineering
+      institution: Kalinga Institute of Industrial Technology, Bhubaneswar, India
+      year: 2020
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -56,8 +49,8 @@ social:
   - icon: cv
     icon_pack: ai
     link: https://check-with-rajdeep.vercel.app/resume.pdf
-  - icon: email
-    icon_pack: envelope
+  - icon: envelope
+    icon_pack: fas
     link: mailto:rbanerjee1@wpi.edu
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
