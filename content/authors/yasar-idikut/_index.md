@@ -8,7 +8,12 @@ last_name: İdikut
 
 # Username (Your first name)
 authors:
-    - Yaşar
+    - yasar-idikut
+
+# The byline "Yaşar İdikut" on papers is keyed by Hugo with its diacritics, so it cannot share
+# this folder's term; without a slug both would render to /author/yasar-idikut/ and overwrite
+# each other. The profile therefore lives at /author/yasar/.
+slug: yasar
 
 # Leave as it is
 superuser: false

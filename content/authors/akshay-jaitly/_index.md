@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dhruv Madhusudan Agrawal
+title: Akshay Jaitly
 
 # Full name (for SEO)
 first_name: Dhruv
@@ -8,7 +8,7 @@ last_name: Agrawal
 
 # Username (this should match the folder name)
 authors:
-    - Dhruv
+    - akshay-jaitly
 
 # Is this the primary user of the site?
 superuser: false
@@ -26,23 +26,21 @@ bio: I am an MS student in Robotics Engineering at Worcester Polytechnic Institu
 
 # Your research interests keywords
 interests:
-  - Robotics
-  - Control
-  - Perception
-  - Drones
-  - Mobile robots
-  - Path planning
+  - Algebraic Geometry
+  - Optimization Theory
+  - Trajectory Optimization
+  - Manipulation
   
 
 # Your education background
 education:
   courses:
-    - course: MS in Robotics
-      institution: Worcester Polytechnic Institue, MA
-      year: 2024-2026 
-    - course: B.Tech in Electronics and Communications Engineering
-      institution: Visvesvaraya National Institute of Technology
-      year: 2018-2022
+    - course: Bachelors in Robotics Engineering
+      institution: Worcester Polytechnic Institute
+      year: 2024 
+    - course: Master's in Robotics Engineering
+      institution: Worcester Polytechnic Institute
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -51,7 +49,7 @@ education:
 social:
   - icon: github
     icon_pack: fab
-    link: https://github.com/dhruv2603
+    link: https://github.com/Akshay5312
   - icon: linkedin
     icon_pack: fab
     link: https://linkedin.com/in/dhruv-agrawal-26mar
@@ -65,19 +63,14 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'dagrawal@wpi.edu'
+email: 'akshayjaitly@hotmail.com'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 # options: 
-# user_groups:
-#     - Researchers
-#     - PhD Students
-#     - Master's Students
-#     - Undergraduate Students
-#     - Visiting Scholars
-#     - Alumni
 user_groups:
   - Alumni
+
+
 ---
-I am an MS student in Robotics Engineering at Worcester Polytechnic Institute, with a focus on, control systems, perception and path planning. My research interests lie in drone technology as well as mobile robots with real-time control and perception algorithms. My aim is to develop autonomous multi-robot systems capable of navigating in the real-world safely at high-speed. 
+Akshay Jaitly is interested in exploiting the geometric structure inherent in hard problems in robotics to come to elegant, mathematically sound, solutions. He has largely worked on problems regarding dynamic motion planning in unuderactuated systems. His most recent works have focused on creating polytopic approximations of sets of dynamically feasible actions to enable long-horizon feasible motion planning and on creating semi-algebraic approximations of contacting rigid bodies, leading to relaxations of single level, smooth contact-aware trajectory optimization.
