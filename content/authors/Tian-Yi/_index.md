@@ -34,6 +34,13 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 #   if you wish to attach resume, please have it online somewhere as pdf file
+# Your education background
+education:
+  courses:
+    - course: Bachelor of Science, Biomechatronics Engineering
+      institution: National Taiwan University, Taipei, Taiwan
+      year: 2025
+
 social:
   - icon: linkedin
     icon_pack: fab
