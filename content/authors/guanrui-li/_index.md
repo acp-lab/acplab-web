@@ -9,6 +9,12 @@ last_name: Li
 # Is this the primary user of the site?
 superuser: true
 
+# Username = the byline slug of "Guanrui Li", so every paper attaches to this page.
+# The slug keeps the URL at /author/guanrui-li/ although the title carries "Prof.".
+authors:
+  - guanrui-li
+slug: guanrui-li
+
 # Role/position
 role: Assistant Professor in Robotics Engineering
 

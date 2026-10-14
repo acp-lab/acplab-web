@@ -8,7 +8,7 @@ last_name: Recalde
 
 # Username (this should match the folder name)
 authors:
-    - Fernando
+    - luis-f.-recalde
 
 # Is this the primary user of the site?
 superuser: false

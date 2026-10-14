@@ -8,7 +8,7 @@ last_name: Chandler
 
 # Username (this should match the folder name)
 authors:
-    - EthanChandler
+    - ethan-chandler
 
 # Is this the primary user of the site?
 superuser: false
