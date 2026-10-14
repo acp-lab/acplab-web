@@ -1,6 +1,9 @@
 ---
 # Display name
-title: Yanze (Youngzee) Liu
+title: Yanze Liu
+# The old URL came from the nickname title; keep it working.
+aliases:
+  - /author/yanze-youngzee-liu/
 
 # Full name (for SEO)
 first_name: Yanze
