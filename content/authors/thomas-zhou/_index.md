@@ -27,7 +27,7 @@ bio: "B.S. CS UMass Amherst 2030"
 interests:
 - Control Theory
 - Embedded Systems
-- Applications
+- Autonomous Drones
  
 # Your education background
 education:

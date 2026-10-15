@@ -26,6 +26,7 @@ bio: "MS MechE | WPI"
 # Your research interests keywords
 interests:
   - Control Systems
+  - Mechanical Design
 
 # Your education background
 education:

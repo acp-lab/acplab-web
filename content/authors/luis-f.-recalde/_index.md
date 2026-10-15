@@ -36,7 +36,7 @@ education:
     - course: Master's Degree, Control Systems Engineering
       institution: National University of San Juan, San Juan, Argentina
       year: 2024
-    - course: Engineering Degree, Mechatronics
+    - course: Bachelor of Engineering, Mechatronics
       institution: Universidad de las Fuerzas Armadas ESPE, Sangolquí, Ecuador
       year: 2021
 
