@@ -51,26 +51,25 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:gli7@wpi.edu'
-  - icon: twitter
-    icon_pack: fab
-    link: 
+  - icon: globe
+    icon_pack: fas
+    link: https://lguanrui.github.io/
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=v_bUoRAAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://lguanrui.github.io 
+    link: https://github.com/lguanrui
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/guanrui-li-a1b544b6/
   - icon: youtube
     icon_pack: fab
-    link: 
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+    link: https://www.youtube.com/@ACPLab-wpi
+  # The CV PDF is maintained on the personal site (refreshed from the CV repo on every change).
   - icon: cv
     icon_pack: ai
-    link: files/cv.pdf
+    link: https://lguanrui.github.io/uploads/cv_guanrui.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'gli7@wpi.edu'
