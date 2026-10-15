@@ -4,9 +4,6 @@ title:  Raghav Nallaperumal
 # Your first and last name 
 first_name: Raghav 
 last_name: Nallaperumal 
-# Username (Your first name) 
-authors: 
-    - Raghav 
 # Leave as it is 
 superuser: false 
 
