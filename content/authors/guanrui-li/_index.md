@@ -82,7 +82,7 @@ highlight_name: false
 user_groups:
   - Principal Investigator
 ---
-Dr. Guanrui Li is an Assistant Professor in the Department of Robotics Engineering at Worcester Polytechnic Institute, with an affiliated appointment in the Department of Mechanical and Materials Engineering. He is the principal investigator of the Aerial-robot Control and Perception (ACP) Lab. He also serves as Associate Junior Co-Chair of the [IEEE RAS Technical Committee on Aerial Robotics and Unmanned Aerial Vehicles](https://tc-on-aerial-robotics.github.io/about/).
+Dr. Guanrui Li is an Assistant Professor in the Department of Robotics Engineering at Worcester Polytechnic Institute, with an affiliated appointment in the Department of Mechanical and Materials Engineering. He is the principal investigator of the Aerial-robot Control and Perception (ACP) Lab. He also serves as an Associate Chair of the [IEEE RAS Technical Committee on Aerial Robotics and Unmanned Aerial Vehicles](https://tc-on-aerial-robotics.github.io/about/).
 
 He earned his Ph.D. at New York University, supervised by Prof. Giuseppe Loianno, who is an Associate Professor of Electrical Engineering and Computer Sciences at the University of California, Berkeley. He received his master's degree in Robotics from the GRASP Lab at the University of Pennsylvania, supervised by Prof. Mark Yim, and his bachelor's degree in Theoretical and Applied Mechanics from Sun Yat-sen University, where he was recognized as an Honors Undergraduate.
 
