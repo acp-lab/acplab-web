@@ -1,9 +1,10 @@
 ---
-title: Enhancing Human-Drone Spatial Awareness with a Mixed Reality Interface for Drone Assisted Interactive Navigation
+title: Intuitive Human-Drone Collaborative Navigation in Unknown Environments Through Mixed Reality
 authors:
 - Sanket A. Salunkhe
 - Pranav Nedunghat
 - Luca Morando
+- Nishanth Bobbili
 - Guanrui Li
 - Giuseppe Loianno
 author_notes:
@@ -19,8 +20,8 @@ summary: '*International Conference on Unmanned Aircraft Systems (ICUAS)*, 2025'
 
 links:
 
-#url_pdf: ''
-#url_code: ''
+url_pdf: https://arxiv.org/pdf/2504.01350
+url_code: 'https://github.com/arplaboratory/hri'
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''
