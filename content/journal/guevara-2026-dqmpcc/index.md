@@ -5,13 +5,13 @@ authors:
 - Luis F. Recalde
 - Guanrui Li
 - Tiago Nascimento
-date: '2026-09-29'
+date: '2026-11-04'
 show_date: false
-publishDate: '2026-09-29T00:00:00Z'
+publishDate: '2026-11-04T00:00:00Z'
 publication_types:
-- article
-publication: '*arXiv preprint arXiv:2609.36482*'
-summary: '*arXiv preprint*, 2026'
+- article-journal
+publication: '*IEEE Robotics and Automation Letters (RA-L)*'
+summary: '*IEEE Robotics and Automation Letters (RA-L)*, 2026'
 
 links:
 
